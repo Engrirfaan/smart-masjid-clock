@@ -1,0 +1,10 @@
+City lists (cities-seed.tsv in the app; one list per time zone on the website)
+
+Data from GeoNames (https://www.geonames.org), licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Changes: cities with at least 15,000 people were selected; names, regions,
+countries, coordinates (rounded to 0.01 degree) and IANA time zones were kept
+and reformatted for the app. GeoNames gives no warranty; neither does this app.
+Region names come from GeoNames' cities1000 data.
