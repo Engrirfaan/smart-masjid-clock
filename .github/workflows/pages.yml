@@ -3,6 +3,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+# NOTE: This workflow needs Pages enabled once in the GitHub UI:
+#   Settings → Pages → Build and deployment → Source: GitHub Actions → Save
+# Until then, configure-pages fails. Content is already on main; branch deploy also works:
+#   Settings → Pages → Deploy from a branch → main → / (root) → Save
 permissions:
   contents: read
   pages: write
@@ -18,13 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Ensure Pages is enabled (GitHub Actions source)
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh api -X POST "repos/${{ github.repository }}/pages" -f build_type=workflow || true
-          gh api -X PUT "repos/${{ github.repository }}/pages" -f build_type=workflow || true
-          gh api "repos/${{ github.repository }}/pages" || true
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
