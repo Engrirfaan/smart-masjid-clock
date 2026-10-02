@@ -1,0 +1,229 @@
+<!doctype html>
+<!--
+  Smart Masjid Clock — public privacy policy (for the Google Play listing and the app's About screen).
+  Self-contained on purpose: no web fonts, scripts, trackers or images, so reading it sends nothing to anyone.
+
+  Keep docs/privacy-policy.md in step with this page. How to publish it: site/README.md.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Privacy policy of Smart Masjid Clock, an offline prayer-time and jamaat alarm app for Android.">
+<title>Smart Masjid Clock privacy policy</title>
+<style>
+  :root {
+    --bg: #fbfaf7; --fg: #1d2421; --muted: #55605b; --line: #dfe3df; --accent: #0f6b4f;
+    --card: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #121614; --fg: #e5ebe7; --muted: #a3b0a9; --line: #2c3530; --accent: #6fd3ad;
+      --card: #1a201d;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", Arial, sans-serif;
+  }
+  main { max-width: 46rem; margin: 0 auto; padding: 32px 16px 64px; }
+  header { border-bottom: 1px solid var(--line); margin-bottom: 24px; padding-bottom: 16px; }
+  h1 { font-size: 1.9rem; line-height: 1.25; margin: 0 0 8px; }
+  h2 { font-size: 1.25rem; margin: 36px 0 8px; scroll-margin-top: 16px; }
+  h3 { font-size: 1.05rem; margin: 20px 0 4px; }
+  p, ul { margin: 8px 0; }
+  ul { padding-left: 1.3em; }
+  li { margin: 4px 0; }
+  a { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 0.95rem; margin: 0; }
+  .summary { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 18px; margin: 20px 0; }
+  .summary li { margin: 6px 0; }
+  nav ol { columns: 2; column-gap: 28px; padding-left: 1.3em; margin: 8px 0; font-size: 0.95rem; }
+  @media (max-width: 560px) { nav ol { columns: 1; } }
+  .table-wrap { overflow-x: auto; margin: 12px 0; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+  code { font-size: 0.92em; overflow-wrap: anywhere; }
+  footer { border-top: 1px solid var(--line); margin-top: 40px; padding-top: 16px; color: var(--muted); font-size: 0.95rem; }
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>Smart Masjid Clock privacy policy</h1>
+  <p class="meta">Effective 1 October 2026 · applies to Smart Masjid Clock for Android, version 3.7.0 and later
+    (application ID <code>com.i-labs.smartmasjidclock</code>)</p>
+  <p class="meta">Published by iKhan</p>
+</header>
+
+<section class="summary" aria-label="Summary">
+  <p><strong>In short</strong></p>
+  <ul>
+    <li>The app works offline. Prayer times are calculated on your phone, for any place in the world.</li>
+    <li>There is no account, no advertising and no server of ours. We never sell, rent or share your data.</li>
+    <li>Your location, timetables, photos and settings stay on your phone, and uninstalling the app deletes them.</li>
+    <li>Three things can use the internet: <strong>online prayer times</strong>, which is off until you turn it on;
+      <strong>city lists</strong> for a time zone, downloaded when you ask (or automatically, if you allow it);
+      and <strong>Google ML Kit</strong>, the on-phone text reader for timetable photos, which sends Google diagnostics about itself.</li>
+  </ul>
+</section>
+
+<nav aria-label="Contents">
+  <ol>
+    <li><a href="#stored">What the app keeps on your phone</a></li>
+    <li><a href="#location">Location</a></li>
+    <li><a href="#profiles">Profiles and Wi-Fi names</a></li>
+    <li><a href="#online">Online prayer times (optional)</a></li>
+    <li><a href="#cities">City lists</a></li>
+    <li><a href="#mlkit">Reading timetable photos</a></li>
+    <li><a href="#crash">Crash reports (optional)</a></li>
+    <li><a href="#permissions">Permissions</a></li>
+    <li><a href="#sharing">Sharing</a></li>
+    <li><a href="#security">Security</a></li>
+    <li><a href="#retention">Keeping and deleting data</a></li>
+    <li><a href="#rights">Your choices and rights</a></li>
+    <li><a href="#international">Users around the world</a></li>
+    <li><a href="#children">Children</a></li>
+    <li><a href="#changes">Changes and contact</a></li>
+  </ol>
+</nav>
+
+<h2 id="stored">1. What the app keeps on your phone</h2>
+<p>Everything below is stored only in the app's private storage on your phone. We do not receive it. Android's cloud backup is
+  switched off for this app, so none of it is copied to a backup service. Uninstalling the app, or clearing its storage in
+  Android settings, deletes all of it.</p>
+<div class="table-wrap">
+<table>
+  <thead><tr><th scope="col">Data</th><th scope="col">Why</th></tr></thead>
+  <tbody>
+    <tr><td>Your prayer place: a city you chose from the city lists, or your phone's location (latitude and longitude), with its time zone</td>
+        <td>Calculate prayer times; notice when you travel more than about 75 km from home</td></tr>
+    <tr><td>Saved mosques (name, position, area size, time zone, dates and times from their timetable)</td>
+        <td>Use the timetable of the mosque you are at</td></tr>
+    <tr><td>Timetable photos, PDFs and files you pick or take</td><td>Read the times on the phone and let you compare them with the board</td></tr>
+    <tr><td>Azaan recordings you pick</td><td>Play your chosen recording for alerts</td></tr>
+    <tr><td>Settings and jamaat times, and a local database of jamaat times by date with the approximate place they belong to</td>
+        <td>Ring alarms, silence the phone during prayers, and repeat your mosque's times on the same dates in later years</td></tr>
+    <tr><td>The times of the next azaan alerts (times only), in the part of storage Android makes available before you first unlock the phone</td>
+        <td>Ring the Fajr alarm after a restart, even before you unlock the phone</td></tr>
+    <tr><td>Profiles you create and a list of the last 15 profile switches</td><td>Change settings automatically at home, at work or while travelling</td></tr>
+    <tr><td>Prayer times fetched online, if you turned that on</td><td>Work offline afterwards</td></tr>
+    <tr><td>City lists you downloaded (one per time zone) and when each was last used</td><td>Find every city of the time zones you use; only the few most recently used are kept</td></tr>
+    <tr><td>A crash report, only if you turned crash reports on</td><td>Help fix a crash if you choose to send it</td></tr>
+  </tbody>
+</table>
+</div>
+<p>Searching for a city uses only the lists on your phone (from GeoNames); the search itself never goes online.</p>
+
+<h2 id="location">2. Location</h2>
+<p>The app asks for location only when you use a feature that needs it, such as "Use my current location". You can instead
+  choose your city from the city lists and never grant location. Background location ("Allow all the time") is optional:
+  after an explanation in the app, it lets the app switch to a saved mosque's timetable, or to one of your profiles, when you
+  arrive, even when the app is closed. Arrival is detected on the phone by Android and Google Play services. The app itself
+  never sends your location anywhere, except the rounded position used by the optional online prayer times (section 4).</p>
+
+<h2 id="profiles">3. Profiles and Wi-Fi names</h2>
+<p>Profiles (for example Home, Office or Travel) are optional. A profile can switch on by days and times you choose, when the
+  phone is connected to a Wi-Fi network you named, near a place you saved, or far from home. Android shows the connected Wi-Fi
+  name only to apps with location permission. The app reads it on the phone, compares it with your profiles and keeps only the
+  last name it read. Profiles, their places and Wi-Fi names are never sent anywhere and are deleted with the profile or the app.</p>
+
+<h2 id="online">4. Online prayer times (optional, off by default)</h2>
+<p>In Settings → Timetable → Automatic → Coordinates you can turn on <strong>Fetch prayer times online</strong>. The app explains it
+  before you turn it on. When it is on, the app sends:</p>
+<ul>
+  <li>your location <strong>rounded to two decimal places (about 1 km)</strong>, and</li>
+  <li>the calculation settings (method, Asr school and high-latitude rule)</li>
+</ul>
+<p>over an encrypted connection (HTTPS) to <code>api.aladhan.com</code>, a prayer-times service run by a third party (AlAdhan) under its
+  own terms, to get this month's and next month's prayer start times. It asks at most about once every 20 days per month and
+  place. Nothing else is sent: no name, account, device ID, mosque, jamaat times, photos or files. The times are saved on the phone.
+  If the service cannot be reached, or its times differ from the phone's own calculation by more than 15 minutes, the phone's
+  calculation is used. Turning the switch off stops all requests.</p>
+
+<h2 id="cities">5. City lists (downloaded when you ask)</h2>
+<p>The app includes the biggest cities of every time zone. Every other city comes in one list per time zone, downloaded from the
+  app's website only when you tap <strong>Download</strong>, or, if you turn on <strong>Download automatically when the phone is in a new
+  time zone</strong> after an explanation in the app, when your phone is in a time zone whose list is not on the phone yet.
+  The request asks for that time zone's file over HTTPS and sends nothing else: no location, settings, account or device ID. Like any
+  web request, the website sees which time zone's list is asked for and your internet address. Each list is checked against a
+  checksum built into the app before it is used. Only the most recently used lists are kept (3, 5 or 10, your choice), and in
+  Settings → City lists & storage you can mark lists to keep or remove any of them. The website's host may keep ordinary
+  access logs (the file asked for and the internet address) under its own terms; we do not use them, and uninstalling the app
+  does not delete them.</p>
+
+<h2 id="mlkit">6. Reading timetable photos</h2>
+<p>Text in timetable photos is read on the phone with Google ML Kit's built-in text recognizer. Photos, PDFs and the text read
+  from them are never uploaded. Google ML Kit sends Google diagnostics and usage information about the ML Kit library itself
+  (for example device and app version, performance and errors), which Google says can include a per-installation identifier.
+  This does not include your photos, the text read or your location. See Google's
+  <a href="https://developers.google.com/ml-kit/android-data-disclosure">ML Kit data disclosure</a>.</p>
+
+<h2 id="crash">7. Crash reports (optional, off by default)</h2>
+<p>If you turn crash reports on (Settings → About), a report is saved on the phone when the app crashes. It contains the app
+  version, Android version, phone model, the time of the crash and the places in the app's code involved. It does not contain
+  prayer times, places, mosque names, messages or files. A report leaves the phone only if you tap <strong>Share last report</strong>
+  and choose where to send it. You can delete it at any time.</p>
+
+<h2 id="permissions">8. Permissions</h2>
+<ul>
+  <li><strong>Exact alarms, full-screen alerts, notifications, wake lock, starting after a restart:</strong> ring prayer alarms on time,
+    also after the phone restarts.</li>
+  <li><strong>Do Not Disturb access:</strong> silence the phone during prayers. On Android 15 and later this is the app's own Do Not Disturb
+    mode, which never turns off a mode of yours.</li>
+  <li><strong>Foreground service:</strong> keep the alarm schedule running on phones that close background apps, and play the azaan.</li>
+  <li><strong>Battery settings:</strong> ask Android not to delay the alarms.</li>
+  <li><strong>Location (optional) and Wi-Fi state:</strong> as described in sections 2 and 3.</li>
+  <li><strong>Internet:</strong> only for the optional online prayer times, city-list downloads and Google ML Kit's diagnostics.</li>
+</ul>
+<p>The app does not use the camera permission (photos come from your camera app), contacts, microphone, messages or advertising ID.</p>
+
+<h2 id="sharing">9. Sharing</h2>
+<p>Apart from ML Kit's diagnostics, the optional online prayer times and city-list downloads, the app shares nothing by itself. Something leaves the phone
+  only when you send it yourself, for example a crash report through Android's share menu. We do not sell, rent or trade data,
+  and there is no advertising or tracking.</p>
+
+<h2 id="security">10. Security</h2>
+<p>Data is kept in the app's private storage, which other apps cannot read. The app has no server, so there is no copy of your data
+  for us to lose. Online prayer times, city lists and ML Kit's diagnostics travel over encrypted connections (HTTPS), and each
+  downloaded city list is checked before use.</p>
+
+<h2 id="retention">11. Keeping and deleting data</h2>
+<p>Data stays on your phone until you delete it. In the app you can delete a profile, a saved mosque, a crash report, imported
+  prayer start times or the jamaat times learned for a place; in Settings → City lists & storage you can remove downloaded city
+  lists, saved online prayer times and saved-masjid calculations; you can turn off online prayer times and automatic downloads at any time, or delete everything by uninstalling the app or clearing its storage in
+  Android settings. We hold no data about you on any server, so there is nothing for us to keep or delete. Data that Google ML Kit
+  or AlAdhan receive is handled under their own policies.</p>
+
+<h2 id="rights">12. Your choices and rights</h2>
+<p>You decide what the app may use: location, background location, Do Not Disturb access, online prayer times, city-list downloads and crash reports
+  can each be refused or turned off without losing the rest of the app. Depending on where you live (for example under the GDPR in
+  the European Union and United Kingdom, or privacy laws in other countries and US states), you may have rights to access, correct
+  or delete personal data. Because the app keeps your data only on your phone, you can exercise these rights directly in the app or
+  by uninstalling it. For questions, contact us (section 15).</p>
+
+<h2 id="international">13. Users around the world</h2>
+<p>The app can be used in any country. Your data is processed on your own phone. If you turn on online prayer times, the rounded
+  location and calculation settings are sent to AlAdhan's service; city lists come from the app's website; and Google ML Kit's
+  diagnostics are sent to Google; these services
+  may process data in other countries under their own terms.</p>
+
+<h2 id="children">14. Children</h2>
+<p>Smart Masjid Clock is a general-audience prayer clock. It does not knowingly collect personal information from anyone,
+  including children.</p>
+
+<h2 id="changes">15. Changes and contact</h2>
+<p>If this policy changes, the new version is published at this address with a new effective date, and important changes are
+  noted in the app's release notes.</p>
+<p>Questions or requests: <a href="mailto:engr.ix9@gmail.com">engr.ix9@gmail.com</a></p>
+
+<footer>
+  <p>Smart Masjid Clock · Privacy policy · Effective 1 October 2026</p>
+</footer>
+</main>
+</body>
+</html>
