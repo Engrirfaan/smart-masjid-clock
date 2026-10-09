@@ -1,0 +1,129 @@
+#z	America/Argentina/Cordoba
+#c	AR
+#r	
+San Vicente		-27.00	-54.48	0	29
+#r	Chaco
+Barranqueras		-27.48	-58.94	0	51
+Charata		-27.22	-61.19	0	28
+Fontana		-27.42	-59.04	0	27
+General José de San Martín	General Jose de San Martin	-26.54	-59.34	0	32
+General Pinedo		-27.33	-61.28	0	16
+Juan José Castelli	Juan Jose Castelli	-25.95	-60.62	0	37
+Las Breñas	Las Brenas	-27.09	-61.08	0	27
+Machagai		-26.93	-60.05	0	28
+Presidencia Roque Sáenz Peña	Presidencia Roque Saenz Pena	-26.79	-60.44	0	82
+Quitilipi		-26.87	-60.22	0	32
+Resistencia		-27.46	-58.99	0	291
+Tres Isletas		-26.34	-60.43	0	25
+Villa Ángela	Villa Angela	-27.58	-60.71	0	44
+#r	Cordoba
+Alta Gracia		-31.65	-64.43	0	40
+Arroyito		-31.42	-63.05	0	20
+Bell Ville		-32.63	-62.69	0	35
+Colonia Caroya		-31.02	-64.06	0	24
+Cosquín	Cosquin	-31.25	-64.47	0	19
+Cruz del Eje		-30.73	-64.80	0	28
+Córdoba	Cordoba	-31.41	-64.19	0	2107
+Deán Funes	Dean Funes	-30.42	-64.35	0	20
+Embalse		-32.21	-64.40	0	16
+Jesús María	Jesus Maria	-30.98	-64.09	0	36
+La Calera		-31.35	-64.34	0	25
+La Falda		-31.09	-64.48	0	15
+Laboulaye		-34.13	-63.39	0	20
+Las Varillas		-31.87	-62.72	0	19
+Marcos Juárez	Marcos Juarez	-32.70	-62.11	0	24
+Morteros		-30.71	-62.01	0	21
+Pilar		-31.68	-63.88	0	18
+Río Ceballos	Rio Ceballos	-31.17	-64.32	0	17
+Río Cuarto	Rio Cuarto	-33.13	-64.35	0	157
+Río Segundo	Rio Segundo	-31.65	-63.91	0	22
+Río Tercero	Rio Tercero	-32.18	-64.11	0	53
+San Francisco		-31.42	-62.08	0	59
+Unquillo		-31.24	-64.31	0	15
+Villa Allende		-31.29	-64.30	0	22
+Villa Carlos Paz		-31.42	-64.49	0	69
+Villa Dolores		-31.95	-65.19	0	28
+Villa María	Villa Maria	-32.41	-63.24	0	92
+Villa Nueva		-32.43	-63.25	0	26
+Villa del Rosario		-31.55	-63.54	0	17
+#r	Corrientes
+Corrientes		-27.47	-58.83	0	346
+Curuzú Cuatiá	Curuzu Cuatia	-29.79	-58.05	0	36
+Esquina		-30.01	-59.53	0	26
+Gobernador Virasora		-28.05	-56.03	0	29
+Goya		-29.14	-59.26	0	70
+Ituzaingó	Ituzaingo	-27.59	-56.69	0	168
+Mercedes		-29.18	-58.08	0	31
+Monte Caseros		-30.25	-57.64	0	25
+Paso de los Libres		-29.71	-57.09	0	44
+Saladas		-28.26	-58.62	0	18
+San Lorenzo		-28.13	-58.77	0	48
+San Luis del Palmar		-27.51	-58.56	0	15
+Santo Tomé	Santo Tome	-28.55	-56.04	0	23
+#r	Entre Rios
+Chajarí	Chajari	-30.75	-57.98	0	31
+Colón	Colon	-32.22	-58.14	0	58
+Concepción del Uruguay	Concepcion del Uruguay	-32.48	-58.23	0	68
+Concordia		-31.39	-58.02	0	145
+Crespo		-32.03	-60.31	0	18
+Diamante		-32.07	-60.64	0	20
+Federal		-30.96	-58.78	0	16
+Gualeguay		-33.14	-59.31	0	33
+Gualeguaychú	Gualeguaychu	-33.01	-58.52	0	79
+La Paz		-30.74	-59.65	0	25
+Nogoyá	Nogoya	-32.39	-59.79	0	43
+Paraná	Parana	-31.73	-60.53	0	247
+Santa Elena		-30.94	-59.79	0	18
+Victoria		-32.62	-60.15	0	25
+Villaguay		-31.87	-59.03	0	32
+#r	Formosa
+Formosa		-26.18	-58.17	0	222
+Pirané	Pirane	-25.73	-59.11	0	19
+#r	Misiones
+Apóstoles	Apostoles	-27.91	-55.75	0	30
+Colonia Wanda		-25.97	-54.56	0	16
+El Soberbio		-27.30	-54.20	0	20
+Eldorado		-26.40	-54.62	0	54
+Garupá	Garupa	-27.48	-55.83	0	29
+Jardín América	Jardin America	-27.04	-55.23	0	25
+Leandro N. Alem		-27.60	-55.32	0	27
+Montecarlo		-26.57	-54.76	0	22
+Oberá	Obera	-27.49	-55.12	0	57
+Posadas		-27.39	-55.92	0	306
+Puerto Esperanza		-26.02	-54.61	0	16
+Puerto Iguazú	Puerto Iguazu	-25.60	-54.57	0	32
+Puerto Rico		-26.81	-55.02	0	17
+San Pedro		-26.62	-54.11	0	24
+San Vicente		-26.62	-54.13	0	38
+#r	Santa Fe
+Arroyo Seco		-33.15	-60.51	0	21
+Capitán Bermúdez	Capitan Bermudez	-32.82	-60.72	0	27
+Carcarañá	Carcarana	-32.86	-61.15	0	16
+Casilda		-33.04	-61.16	0	32
+Cañada de Gómez	Canada de Gomez	-32.82	-61.40	0	36
+Coronda		-31.97	-60.92	0	17
+Esperanza		-31.45	-60.93	0	36
+Firmat		-33.46	-61.48	0	18
+Gobernador Gálvez	Gobernador Galvez	-33.03	-60.64	0	75
+Granadero Baigorria		-32.86	-60.72	0	32
+Gálvez	Galvez	-32.03	-61.22	0	18
+Pérez	Perez	-33.00	-60.77	0	24
+Rafaela		-31.25	-61.49	0	89
+Reconquista		-29.15	-59.65	0	90
+Rosario		-32.95	-60.64	0	948
+Rufino		-34.26	-62.71	0	18
+San Javier		-30.58	-59.93	0	16
+San Jorge		-31.90	-61.86	0	17
+San Justo		-30.79	-60.59	0	22
+Santa Fe		-31.65	-60.71	0	391
+Santo Tomé	Santo Tome	-31.66	-60.77	0	59
+Sunchales		-30.94	-61.56	0	19
+Tostado		-29.23	-61.77	0	16
+Venado Tuerto		-33.75	-61.97	0	72
+Vera		-29.46	-60.21	0	20
+Villa Constitución	Villa Constitucion	-33.23	-60.33	0	44
+Villa Ocampo		-28.49	-59.35	0	19
+#r	Santiago del Estero
+Añatuya	Anatuya	-28.46	-62.83	0	20
+Santiago del Estero		-27.80	-64.26	0	252
+Termas de Río Hondo	Termas de Rio Hondo	-27.49	-64.86	0	28
