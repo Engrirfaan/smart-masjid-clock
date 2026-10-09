@@ -1,0 +1,72 @@
+#z	Europe/Bratislava
+#c	SK
+#r	
+Topoľčany	Topolcany	48.56	18.17	0	24
+#r	Banskobystricky
+Banská Bystrica	Banska Bystrica	48.74	19.15	0	75
+Brezno		48.80	19.64	0	20
+Lučenec	Lucenec	48.33	19.67	0	25
+Rimavská Sobota	Rimavska Sobota	48.38	20.02	0	21
+Zvolen		48.57	19.15	0	40
+Žiar nad Hronom	Ziar nad Hronom	48.59	18.85	0	17
+#r	Bratislavsky
+Bratislava		48.15	17.11	0	424
+Devínska Nová Ves	Devinska Nova Ves	48.21	16.98	0	17
+Dlhé diely	Dlhe diely	48.15	17.05	0	30
+Dúbravka	Dubravka	48.19	17.04	0	36
+Karlova Ves		48.15	17.06	0	36
+Malacky		48.44	17.02	0	19
+Petržalka	Petrzalka	48.12	17.13	0	112
+Pezinok		48.29	17.27	0	24
+Podunajské Biskupice	Podunajske Biskupice	48.13	17.21	0	23
+Senec		48.22	17.40	0	20
+Staré Mesto	Stare Mesto	48.15	17.09	0	46
+Vrakuňa	Vrakuna	48.14	17.21	0	21
+#r	Kosicky
+Košice	Kosice	48.71	21.26	0	225
+Michalovce		48.75	21.92	0	36
+Rožňava	Roznava	48.66	20.54	0	17
+Spišská Nová Ves	Spisska Nova Ves	48.94	20.56	0	35
+Trebišov	Trebisov	48.63	21.72	0	23
+#r	Nitriansky
+Bánovce nad Bebravou	Banovce nad Bebravou	48.72	18.26	0	16
+Dubnica nad Váhom	Dubnica nad Vahom	48.96	18.17	0	22
+Handlová	Handlova	48.73	18.76	0	16
+Komárno	Komarno	48.12	18.32	0	32
+Komárno	Komarno	47.76	18.12	0	32
+Levice		48.22	18.61	0	31
+Nitra		48.31	18.08	0	86
+Nové Zámky	Nove Zamky	47.99	18.16	0	37
+Partizánske	Partizanske	48.63	18.38	0	21
+Prievidza		48.77	18.63	0	44
+Púchov	Puchov	49.12	18.33	0	17
+Šaľa	Sala	48.15	17.88	0	20
+#r	Presovsky
+Bardejov		49.29	21.27	0	30
+Humenné	Humenne	48.94	21.92	0	30
+Kežmarok	Kezmarok	49.14	20.43	0	15
+Poprad		49.06	20.30	0	49
+Prešov	Presov	49.00	21.24	0	83
+Snina		48.99	22.15	0	22
+Stará Ľubovňa	Stara Lubovna	49.30	20.69	0	16
+Vranov nad Topľou	Vranov nad Toplou	48.89	21.68	0	21
+#r	Trenciansky
+Nové Mesto nad Váhom	Nove Mesto nad Vahom	48.76	17.83	0	19
+Považská Bystrica	Povazska Bystrica	49.12	18.42	0	37
+Trenčín	Trencin	48.89	18.04	0	58
+#r	Trnavsky
+Dunajská Streda	Dunajska Streda	47.99	17.61	0	23
+Galanta		48.19	17.73	0	15
+Hlohovec		48.43	17.80	0	20
+Piešťany	Piestany	48.59	17.83	0	27
+Senica		48.68	17.37	0	19
+Sereď	Sered	48.29	17.73	0	15
+Skalica		48.84	17.23	0	15
+Trnava		48.38	17.59	0	63
+#r	Zilinsky
+Dolný Kubín	Dolny Kubin	49.21	19.30	0	18
+Liptovský Mikuláš	Liptovsky Mikulas	49.08	19.62	0	30
+Martin		49.07	18.92	0	51
+Ružomberok	Ruzomberok	49.07	19.31	0	27
+Čadca	Cadca	49.44	18.79	0	23
+Žilina	Zilina	49.22	18.74	0	81

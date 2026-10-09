@@ -1,0 +1,680 @@
+#z	Europe/Rome
+#c	IT
+#r	Abruzzo
+Avezzano		42.03	13.43	0	38
+Chieti		42.35	14.16	0	44
+Francavilla al Mare		42.42	14.28	0	21
+Giulianova		42.75	13.97	0	20
+L'Aquila		42.35	13.40	0	34
+Lanciano		42.23	14.39	0	35
+Montesilvano		42.51	14.15	0	53
+Pescara		42.46	14.20	0	120
+Roseto degli Abruzzi		42.67	14.01	0	17
+San Salvo		42.04	14.73	0	17
+Sulmona		42.05	13.93	0	21
+Teramo		42.66	13.70	0	54
+Vasto		42.11	14.71	0	41
+#r	Aosta Valley
+Aosta		45.74	7.32	0	35
+#r	Apulia
+Acquaviva delle Fonti		40.90	16.84	0	21
+Adelfia		41.00	16.87	0	17
+Altamura		40.83	16.55	0	71
+Andria		41.23	16.30	0	100
+Bari		41.12	16.87	0	316
+Barletta		41.31	16.28	0	93
+Bisceglie		41.24	16.50	0	55
+Bitonto		41.11	16.69	0	52
+Brindisi		40.63	17.94	0	87
+Canosa di Puglia		41.22	16.07	0	30
+Carbonara di Bari		41.07	16.87	0	23
+Casamassima		40.96	16.92	0	18
+Casarano		40.01	18.16	0	19
+Ceglie Messapica		40.65	17.52	0	17
+Cerignola		41.27	15.90	0	54
+Conversano		40.97	17.11	0	23
+Copertino		40.27	18.05	0	23
+Corato		41.15	16.41	0	47
+Fasano		40.84	17.36	0	23
+Foggia		41.46	15.55	0	137
+Francavilla Fontana		40.53	17.59	0	33
+Galatina		40.17	18.17	0	20
+Gallipoli		40.06	17.99	0	19
+Ginosa		40.58	16.76	0	16
+Gioia del Colle		40.80	16.92	0	24
+Giovinazzo		41.19	16.67	0	19
+Gravina in Puglia		40.82	16.42	0	42
+Grottaglie		40.54	17.44	0	31
+Lecce		40.35	18.17	0	81
+Lucera		41.51	15.34	0	32
+Manduria		40.40	17.64	0	27
+Manfredonia		41.63	15.92	0	57
+Martina Franca		40.70	17.34	0	38
+Massafra		40.59	17.12	0	31
+Mesagne		40.56	17.81	0	26
+Modugno		41.08	16.78	0	36
+Mola di Bari		41.06	17.09	0	25
+Molfetta		41.20	16.60	0	60
+Monopoli		40.95	17.30	0	38
+Nardò	Nardo	40.18	18.03	0	30
+Noci		40.79	17.13	0	15
+Noicattaro		41.03	16.99	0	22
+Orta Nova		41.33	15.71	0	17
+Ostuni		40.73	17.58	0	24
+Palagiano		40.58	17.04	0	15
+Palo del Colle		41.06	16.70	0	21
+Paolo VI		40.52	17.27	0	17
+Putignano		40.85	17.12	0	24
+Rutigliano		41.01	17.01	0	18
+Ruvo di Puglia		41.12	16.48	0	24
+San Giovanni Rotondo		41.71	15.73	0	27
+San Nicandro Garganico		41.84	15.57	0	16
+San Paolo		41.12	16.79	0	30
+San Severo		41.69	15.38	0	52
+San Vito dei Normanni		40.66	17.71	0	18
+Santeramo in Colle		40.79	16.76	0	25
+Sava		40.40	17.55	0	16
+Taranto		40.46	17.25	0	199
+Terlizzi		41.13	16.55	0	26
+Torremaggiore		41.69	15.29	0	17
+Trani		41.28	16.41	0	54
+Triggiano		41.07	16.93	0	27
+Valenzano		41.04	16.88	0	16
+#r	Basilicate
+Matera		40.67	16.60	0	60
+Potenza		40.64	15.81	0	56
+#r	Calabria
+Castrovillari		39.82	16.20	0	20
+Catanzaro		38.88	16.60	0	79
+Corigliano Scalo		39.63	16.51	0	15
+Cosenza		39.30	16.25	0	64
+Crotone		39.08	17.13	0	65
+Gioia Tauro		38.43	15.90	0	19
+Lamezia Terme		38.96	16.31	0	71
+Nicastro		38.97	16.31	0	40
+Palmi		38.36	15.85	0	19
+Quattromiglia		39.34	16.24	0	23
+Reggio Calabria		38.11	15.66	0	182
+Rossano Stazione		39.60	16.63	0	24
+Sambiase		38.97	16.28	0	20
+San Giovanni in Fiore		39.25	16.70	0	17
+Siderno		38.27	16.30	0	16
+Vibo Valentia		38.68	16.10	0	19
+#r	Campania
+Acerra		40.94	14.37	0	60
+Afragola		40.92	14.31	0	64
+Agropoli		40.35	14.99	0	17
+Angri		40.74	14.57	0	32
+Arenella		40.86	14.22	0	68
+Arpino		40.89	14.32	0	18
+Arzano		40.91	14.27	0	35
+Avellino		40.91	14.79	0	48
+Aversa		40.97	14.21	0	53
+Avvocata		40.85	14.24	0	33
+Bacoli		40.80	14.07	0	26
+Bagnoli		40.81	14.17	0	23
+Barra		40.84	14.32	0	37
+Battipaglia		40.61	14.98	0	47
+Benevento		41.13	14.78	0	58
+Boscoreale		40.77	14.48	0	27
+Brusciano		40.92	14.42	0	15
+Caivano		40.96	14.31	0	35
+Capua		41.11	14.21	0	15
+Cardito		40.95	14.30	0	22
+Casal di Principe		41.01	14.13	0	21
+Casalnuovo di Napoli		40.91	14.34	0	46
+Casavatore		40.90	14.28	0	19
+Caserta		41.07	14.33	0	73
+Casoria		40.91	14.29	0	74
+Castel Volturno		41.03	13.94	0	22
+Castellammare di Stabia		40.70	14.49	0	66
+Cava Dè Tirreni	Cava De Tirreni	40.70	14.71	0	53
+Cercola		40.86	14.36	0	18
+Chiaia		40.83	14.23	0	41
+Chiaiano		40.88	14.21	0	23
+Eboli		40.62	15.06	0	26
+Ercolano		40.81	14.35	0	54
+Forio		40.74	13.86	0	16
+Frattamaggiore		40.94	14.28	0	30
+Frattaminore		40.96	14.27	0	15
+Fuorigrotta		40.83	14.20	0	77
+Giugliano in Campania		40.93	14.20	0	80
+Gragnano		40.69	14.52	0	29
+Grumo Nevano		40.94	14.26	0	18
+Ischia		40.74	13.95	0	19
+Ischia Porto		40.74	13.95	0	18
+Maddaloni		41.04	14.38	0	35
+Marano di Napoli		40.90	14.19	0	50
+Marcianise		41.03	14.30	0	40
+Marigliano		40.92	14.46	0	30
+Melito di Napoli		40.92	14.23	0	37
+Miano		40.89	14.25	0	24
+Mondragone		41.11	13.89	0	29
+Montecalvario		40.84	14.25	0	23
+Monterusciello		40.87	14.08	0	29
+Mugnano di Napoli		40.91	14.21	0	34
+Naples		40.85	14.27	0	909
+Nocera Inferiore		40.75	14.65	0	46
+Nocera Superiore		40.74	14.67	0	23
+Nola		40.93	14.53	0	24
+Orta di Atella		40.96	14.27	0	25
+Ottaviano		40.85	14.48	0	23
+Pagani		40.74	14.61	0	33
+Pendino		40.85	14.26	0	17
+Pianura		40.86	14.17	0	58
+Piscinola		40.89	14.23	0	28
+Poggiomarino		40.80	14.54	0	19
+Poggioreale		40.87	14.29	0	24
+Pomigliano d'Arco		40.91	14.38	0	39
+Pompei		40.75	14.50	0	24
+Ponticelli		40.85	14.33	0	52
+Portici		40.82	14.34	0	54
+Posillipo		40.81	14.20	0	23
+Pozzuoli		40.84	14.10	0	81
+Qualiano		40.92	14.15	0	24
+Quarto		40.88	14.14	0	38
+Salerno		40.68	14.79	0	126
+San Carlo All'Arena		40.87	14.26	0	69
+San Felice A Cancello		41.02	14.49	0	17
+San Ferdinando		40.83	14.25	0	18
+San Giorgio a Cremano		40.83	14.34	0	45
+San Giovanni a Teduccio		40.84	14.31	0	24
+San Giuseppe Vesuviano		40.84	14.50	0	27
+San Lorenzo		40.86	14.26	0	48
+San Nicola la Strada		41.05	14.33	0	21
+San Pietro a Patierno		40.89	14.29	0	17
+Sant'Anastasia		40.87	14.40	0	21
+Sant'Antimo		40.94	14.23	0	34
+Sant'Antonio Abate		40.72	14.54	0	19
+Santa Maria Capua Vetere		41.08	14.25	0	32
+Sarno		40.81	14.62	0	29
+Scafati		40.76	14.54	0	49
+Scampia		40.90	14.24	0	23
+Secondigliano		40.90	14.27	0	52
+Soccavo		40.85	14.19	0	45
+Somma Vesuviana		40.87	14.44	0	32
+Stella		40.86	14.25	0	30
+Terzigno		40.80	14.49	0	17
+Torre Annunziata		40.75	14.45	0	44
+Torre del Greco		40.79	14.37	0	85
+Trentola-Ducenta		40.98	14.17	0	17
+Vicaria		40.86	14.27	0	15
+Villaricca		40.92	14.19	0	25
+Volla		40.87	14.34	0	23
+Vomero		40.84	14.23	0	45
+#r	Emilia-Romagna
+Bellaria-Igea Marina		44.14	12.47	0	18
+Bologna		44.49	11.34	0	395
+Carpi		44.78	10.88	0	71
+Casalecchio di Reno		44.48	11.27	0	34
+Castel Maggiore		44.58	11.36	0	16
+Castelfranco Emilia		44.59	11.05	0	17
+Cattolica		43.96	12.74	0	16
+Cento		44.73	11.29	0	18
+Cervia		44.26	12.35	0	29
+Cesena		44.14	12.24	0	97
+Cesenatico		44.20	12.40	0	19
+Correggio		44.77	10.78	0	16
+Faenza		44.29	11.88	0	42
+Ferrara		44.84	11.62	0	132
+Fidenza		44.87	10.06	0	22
+Fiorano		44.54	10.81	0	16
+Forlì	Forli	44.22	12.04	0	117
+Formigine		44.57	10.85	0	34
+Imola		44.36	11.71	0	70
+Lugo		44.42	11.91	0	21
+Mirandola		44.89	11.07	0	17
+Modena		44.65	10.93	0	185
+Parma		44.80	10.33	0	198
+Piacenza		45.05	9.69	0	104
+Ravenna		44.41	12.20	0	81
+Reggio nell'Emilia		44.70	10.63	0	172
+Riccione		44.00	12.66	0	33
+Rimini		44.06	12.57	0	149
+Salsomaggiore Terme		44.82	9.99	0	16
+San Giovanni in Persiceto		44.64	11.18	0	16
+San Lazzaro		44.47	11.41	0	22
+Sassuolo		44.54	10.78	0	37
+Scandiano		44.60	10.70	0	26
+Vignola		44.48	11.01	0	22
+Zola Predosa		44.49	11.22	0	16
+#r	Friuli Venezia Giulia
+Cordenons		45.98	12.70	0	16
+Gorizia		45.94	13.62	0	34
+Monfalcone		45.80	13.53	0	27
+Pordenone		45.96	12.66	0	50
+Sacile		45.95	12.50	0	17
+Trieste		45.65	13.78	0	204
+Udine		46.07	13.24	0	100
+#r	Latium
+Acilia-Castel Fusano-Ostia Antica		41.76	12.33	0	129
+Albano Laziale		41.73	12.66	0	27
+Anzio		41.45	12.62	0	45
+Aprilia		41.59	12.65	0	75
+Ardea		41.61	12.54	0	17
+Ariccia		41.72	12.67	0	17
+Casal Bertone		41.90	12.53	0	16
+Casal Palocco		41.75	12.35	0	33
+Casal de' Pazzi		41.93	12.57	0	27
+Cassino		41.49	13.83	0	21
+Cerveteri		41.99	12.09	0	16
+Ciampino		41.80	12.60	0	38
+Cisterna di Latina		41.59	12.83	0	27
+Civitavecchia		42.09	11.80	0	48
+Colleferro		41.73	13.00	0	21
+Esquilino		41.90	12.51	0	21
+Fiumicino		41.77	12.24	0	35
+Fondi		41.36	13.43	0	40
+Formia		41.26	13.61	0	29
+Frascati		41.81	12.68	0	20
+Frosinone		41.64	13.34	0	45
+Gaeta		41.21	13.57	0	20
+Genzano di Roma		41.71	12.69	0	21
+Giardinetti-Tor Vergata		41.85	12.62	0	21
+Grottaferrata		41.79	12.67	0	18
+Guidonia		41.99	12.72	0	21
+Guidonia Montecelio		41.99	12.72	0	89
+Infernetto		41.73	12.36	0	30
+Ladispoli		41.95	12.07	0	34
+Latina		41.47	12.90	0	76
+Lido di Ostia		41.73	12.28	0	85
+Malafede		41.77	12.38	0	17
+Marina di Ardea-Tor San Lorenzo		41.55	12.54	0	20
+Marino		41.77	12.66	0	44
+Mentana		42.04	12.64	0	17
+Minturno		41.26	13.75	0	16
+Monterotondo		42.05	12.62	0	37
+Nettuno		41.46	12.66	0	50
+Pomezia		41.67	12.50	0	22
+Rieti		42.40	12.86	0	39
+Rocca di Papa		41.77	12.70	0	15
+Rome		41.89	12.51	0	2319
+Sabaudia		41.30	13.03	0	19
+Sezze		41.50	13.06	0	16
+Sora		41.72	13.61	0	24
+Spinaceto		41.78	12.44	0	24
+Terracina		41.29	13.24	0	31
+Tivoli		41.96	12.80	0	22
+Tor Lupara		42.00	12.62	0	21
+Torvaianica		41.62	12.46	0	17
+Velletri		41.69	12.78	0	53
+Villanova		41.96	12.76	0	15
+Viterbo		42.42	12.11	0	47
+#r	Liguria
+Albenga		44.05	8.22	0	17
+Chiavari		44.32	9.32	0	27
+Genoa		44.40	8.94	0	580
+Imperia		43.89	8.04	0	42
+La Spezia		44.10	9.82	0	93
+Rapallo		44.35	9.23	0	27
+Sanremo		43.82	7.78	0	47
+Sarzana		44.11	9.96	0	20
+Savona		44.31	8.48	0	61
+Sestri Levante		44.27	9.40	0	17
+Ventimiglia		43.79	7.61	0	24
+#r	Lombardy
+Abbiategrasso		45.40	8.92	0	33
+Adriano		45.51	9.25	0	18
+Arcore		45.63	9.32	0	17
+Arese		45.55	9.08	0	19
+Bareggio		45.48	9.00	0	17
+Bergamo		45.70	9.67	0	121
+Bollate		45.55	9.12	0	35
+Bovisio-Masciago		45.61	9.15	0	17
+Brera		45.47	9.19	0	18
+Brescia		45.54	10.21	0	200
+Bresso		45.54	9.19	0	26
+Brugherio		45.55	9.30	0	33
+Busto Arsizio		45.61	8.85	0	83
+Cantù	Cantu	45.74	9.13	0	40
+Carate Brianza		45.68	9.24	0	15
+Caronno Pertusella		45.60	9.05	0	16
+Carugate		45.55	9.34	0	15
+Cassano Magnago		45.67	8.83	0	21
+Cassano d'Adda		45.53	9.52	0	17
+Castiglione delle Stiviere		45.39	10.49	0	19
+Cernusco sul Naviglio		45.53	9.33	0	29
+Cesano Boscone		45.44	9.09	0	23
+Cesano Maderno		45.63	9.15	0	37
+Chiari		45.54	9.93	0	16
+Chinatown		45.48	9.18	0	29
+Cinisello Balsamo		45.56	9.21	0	76
+Cologno Monzese		45.53	9.28	0	46
+Como		45.81	9.08	0	85
+Cormano		45.55	9.16	0	20
+Cornaredo		45.50	9.03	0	20
+Corsico		45.43	9.11	0	34
+Crema		45.36	9.68	0	31
+Cremona		45.13	10.02	0	71
+Cusano		45.55	9.18	0	19
+Dalmine		45.65	9.61	0	23
+Desenzano del Garda		45.47	10.54	0	23
+Desio		45.62	9.20	0	42
+Erba		45.81	9.23	0	16
+Gallarate		45.66	8.79	0	50
+Garbagnate Milanese		45.57	9.08	0	26
+Ghedi		45.40	10.28	0	16
+Giussano		45.70	9.21	0	26
+Gorgonzola		45.53	9.41	0	19
+Lainate		45.57	9.03	0	25
+Lecco		45.86	9.40	0	47
+Legnano		45.60	8.92	0	58
+Limbiate		45.60	9.13	0	32
+Lissone		45.61	9.24	0	37
+Lodi		45.31	9.50	0	41
+Lumezzane		45.65	10.26	0	24
+Magenta		45.46	8.88	0	23
+Malnate		45.79	8.88	0	15
+Mantua		45.16	10.80	0	39
+Mariano Comense		45.70	9.18	0	23
+Meda		45.66	9.15	0	23
+Melegnano		45.36	9.32	0	17
+Melzo		45.50	9.42	0	18
+Milan		45.46	9.19	0	1371
+Montichiari		45.41	10.40	0	15
+Monza		45.58	9.27	0	124
+Muggiò	Muggio	45.59	9.23	0	23
+Nerviano		45.55	8.98	0	17
+Nova Milanese		45.59	9.20	0	22
+Novate Milanese		45.53	9.14	0	20
+Paderno Dugnano		45.57	9.16	0	46
+Palazzolo sull'Oglio		45.60	9.89	0	18
+Parabiago		45.56	8.95	0	26
+Pavia		45.19	9.16	0	66
+Pioltello		45.50	9.33	0	34
+Quartiere Otto		45.49	9.14	0	16
+Quarto Oggiaro		45.51	9.14	0	182
+Rho		45.53	9.04	0	47
+Romano Banco		45.42	9.11	0	26
+Romano di Lombardia		45.52	9.75	0	18
+Rozzano		45.38	9.16	0	40
+San Donato Milanese		45.41	9.27	0	28
+San Giuliano Milanese		45.39	9.29	0	31
+San Sebastiano		45.65	10.26	0	23
+Saronno		45.63	9.04	0	38
+Segrate		45.49	9.30	0	28
+Senago		45.58	9.13	0	21
+Seregno		45.65	9.21	0	43
+Seriate		45.69	9.72	0	24
+Sesto San Giovanni		45.53	9.23	0	82
+Seveso		45.65	9.14	0	23
+Sondrio		46.17	9.87	0	19
+Suzzara		44.99	10.74	0	17
+Tradate		45.71	8.91	0	17
+Treviglio		45.52	9.59	0	25
+Trezzano sul Naviglio		45.42	9.06	0	20
+Varese		45.82	8.83	0	81
+Viadana		44.94	10.52	0	20
+Vigevano		45.31	8.85	0	58
+Vimercate		45.62	9.37	0	23
+Vimodrone		45.51	9.29	0	17
+Voghera		44.99	9.01	0	38
+#r	Molise
+Campobasso		41.56	14.67	0	49
+Isernia		41.60	14.23	0	17
+Termoli		42.00	14.99	0	31
+#r	Piedmont
+Acqui Terme		44.68	8.47	0	18
+Alba		44.70	8.03	0	25
+Alessandria		44.91	8.61	0	92
+Alpignano		45.09	7.52	0	17
+Asti		44.90	8.21	0	74
+Aurora		45.08	7.69	0	20
+Barriera di Lanzo		45.11	7.65	0	50
+Barriera di Milano		45.09	7.69	0	50
+Biella		45.56	8.06	0	43
+Borgo San Paolo		45.06	7.64	0	33
+Borgomanero		45.70	8.46	0	20
+Bra		44.70	7.85	0	24
+Carmagnola		44.85	7.72	0	23
+Casale Monferrato		45.13	8.45	0	33
+Cenisia		45.07	7.65	0	36
+Centro		45.07	7.68	0	20
+Chieri		45.01	7.82	0	37
+Chivasso		45.19	7.89	0	23
+Circoiscrizione I		45.07	7.69	0	79
+Circoiscrizione II		45.05	7.64	0	141
+Circoiscrizione III		45.06	7.63	0	131
+Circoiscrizione IV		45.08	7.63	0	99
+Circoiscrizione V		45.10	7.66	0	127
+Circoiscrizione VI		45.10	7.70	0	107
+Circoiscrizione VII		45.08	7.70	0	89
+Circoiscrizione VIII		45.04	7.67	0	134
+Ciriè	Cirie	45.23	7.60	0	17
+Collegno		45.08	7.57	0	47
+Crocetta		45.06	7.67	0	18
+Cuneo		44.39	7.55	0	56
+Domodossola		46.12	8.29	0	18
+Filadelfia		45.02	7.64	0	46
+Fossano		44.55	7.72	0	19
+Galliate		45.48	8.70	0	16
+Grugliasco		45.07	7.58	0	37
+Ivrea		45.47	7.88	0	24
+Lingotto		45.03	7.65	0	50
+Lucento		45.11	7.66	0	25
+Madonna di Campagna		45.10	7.66	0	21
+Mirafiori Nord		45.04	7.63	0	41
+Mirafiori Sud		45.02	7.62	0	34
+Moncalieri		45.00	7.68	0	56
+Mondovì	Mondovi	44.40	7.82	0	22
+Nichelino		45.00	7.65	0	48
+Nizza Millefonti		45.03	7.67	0	26
+Novara		45.45	8.62	0	102
+Novi Ligure		44.76	8.79	0	26
+Orbassano		45.01	7.54	0	22
+Pallanza-Intra-Suna		45.94	8.57	0	29
+Parella		45.08	7.63	0	47
+Pinerolo		44.89	7.33	0	31
+Piossasco		44.99	7.46	0	17
+Polo Nord		45.05	7.65	0	17
+Porta Palazzo		45.08	7.68	0	19
+Pozzo Strada		45.07	7.63	0	55
+Rivoli		45.07	7.51	0	49
+Saluzzo		44.65	7.49	0	17
+San Donato		45.08	7.66	0	33
+San Mauro Torinese		45.10	7.77	0	19
+San Salvario		45.05	7.68	0	36
+Santa Rita		45.05	7.64	0	30
+Savigliano		44.65	7.66	0	17
+Settimo Torinese		45.14	7.77	0	47
+Tortona		44.90	8.86	0	23
+Trecate		45.43	8.74	0	19
+Turin		45.07	7.69	0	847
+Valenza		45.01	8.64	0	17
+Vanchiglia		45.07	7.70	0	29
+Vanchiglietta		45.07	7.72	0	18
+Venaria Reale		45.13	7.63	0	34
+Verbania		45.92	8.55	0	31
+Vercelli		45.32	8.42	0	46
+#r	Sardinia
+Alghero		40.56	8.32	0	34
+Assemini		39.29	9.00	0	25
+Cagliari		39.23	9.12	0	149
+Carbonia		39.16	8.52	0	22
+Iglesias		39.31	8.54	0	23
+Monserrato		39.26	9.14	0	20
+Monte Rosello		40.74	8.57	0	45
+Nuoro		40.32	9.33	0	36
+Olbia		40.92	9.50	0	60
+Oristano		39.90	8.59	0	32
+Porto Torres		40.83	8.41	0	22
+Quartu Sant'Elena		39.23	9.25	0	67
+Sassari		40.73	8.56	0	92
+Selargius		39.26	9.16	0	23
+Sestu		39.30	9.09	0	18
+Sinnai		39.30	9.20	0	16
+#r	Sicily
+Aci Castello		37.56	15.15	0	18
+Aci Catena		37.61	15.14	0	25
+Acireale		37.61	15.17	0	49
+Adrano		37.66	14.83	0	34
+Agrigento		37.31	13.58	0	33
+Alcamo		37.98	12.96	0	44
+Augusta		37.24	15.22	0	31
+Avola		36.91	15.14	0	29
+Bagheria		38.08	13.51	0	53
+Barcellona Pozzo di Gotto		38.15	15.21	0	35
+Belpasso		37.59	14.98	0	16
+Biancavilla		37.64	14.87	0	23
+Bronte		37.79	14.83	0	19
+Caltagirone		37.24	14.52	0	38
+Caltanissetta		37.49	14.06	0	63
+Canicattì	Canicatti	37.36	13.85	0	33
+Carini		38.13	13.18	0	35
+Casa Santa		38.03	12.55	0	24
+Castelvetrano		37.68	12.79	0	32
+Catania		37.49	15.07	0	312
+Comiso		36.95	14.61	0	26
+Enna		37.57	14.27	0	23
+Favara		37.32	13.66	0	32
+Floridia		37.08	15.15	0	22
+Gela		37.07	14.24	0	75
+Giarre		37.72	15.18	0	24
+Gravina di Catania		37.56	15.06	0	27
+Lentini		37.29	15.00	0	24
+Licata		37.10	13.94	0	37
+Marsala		37.80	12.44	0	78
+Mascalucia		37.57	15.05	0	32
+Mazara del Vallo		37.66	12.59	0	52
+Messina		38.19	15.55	0	220
+Milazzo		38.22	15.24	0	32
+Misilmeri		38.03	13.45	0	19
+Misterbianco		37.52	15.01	0	46
+Modica		36.86	14.76	0	54
+Monreale		38.08	13.29	0	22
+Niscemi		37.15	14.39	0	27
+Noto		36.89	15.07	0	18
+Pachino		36.72	15.09	0	20
+Palagonia		37.33	14.74	0	16
+Palermo		38.12	13.36	0	648
+Palma di Montechiaro		37.19	13.77	0	23
+Partinico		38.05	13.12	0	29
+Paternò	Paterno	37.57	14.90	0	46
+Piazza Armerina		37.38	14.37	0	18
+Porto Empedocle		37.29	13.52	0	17
+Pozzallo		36.73	14.85	0	18
+Ragusa		36.93	14.72	0	74
+Ribera		37.50	13.27	0	18
+Rosolini		36.82	14.95	0	20
+San Cataldo		37.48	13.99	0	22
+San Giovanni la Punta		37.58	15.09	0	22
+Sciacca		37.51	13.08	0	41
+Scicli		36.79	14.70	0	16
+Scordia		37.30	14.84	0	17
+Siracusa		37.08	15.29	0	122
+Termini Imerese		37.98	13.70	0	23
+Trapani		38.02	12.54	0	68
+Villabate		38.08	13.44	0	19
+Vittoria		36.95	14.53	0	51
+#r	The Marches
+Ancona		43.61	13.51	0	90
+Ascoli Piceno		42.85	13.57	0	42
+Civitanova Marche		43.30	13.72	0	42
+Fabriano		43.34	12.90	0	23
+Falconara Marittima		43.63	13.40	0	26
+Fano		43.84	13.02	0	61
+Fermo		43.16	13.72	0	18
+Jesi		43.52	13.24	0	37
+Macerata		43.30	13.45	0	31
+Osimo		43.49	13.48	0	17
+Pesaro		43.91	12.92	0	77
+Porto San Giorgio		43.18	13.79	0	16
+Porto Sant'Elpidio		43.25	13.76	0	22
+San Benedetto del Tronto		42.96	13.88	0	46
+Senigallia		43.72	13.21	0	31
+Tolentino		43.21	13.29	0	17
+#r	Trentino-Alto Adige
+Bolzano		46.49	11.34	0	107
+Bressanone		46.72	11.66	0	16
+Eppan		46.46	11.26	0	15
+Merano		46.67	11.16	0	41
+Riva del Garda		45.89	10.84	0	17
+Rovereto		45.89	11.04	0	34
+Trento		46.07	11.12	0	121
+#r	Tuscany
+Arezzo		43.46	11.88	0	101
+Camaiore		43.94	10.30	0	27
+Campi Bisenzio		43.82	11.13	0	33
+Campo di Marte		43.78	11.28	0	89
+Capannori		43.84	10.57	0	41
+Carrara		44.08	10.10	0	59
+Cascina		43.68	10.55	0	41
+Cecina		43.31	10.52	0	22
+Colle di Val d'Elsa		43.42	11.13	0	17
+Empoli		43.72	10.95	0	34
+Florence		43.78	11.25	0	367
+Follonica		42.93	10.76	0	21
+Fornacelle		43.92	11.04	0	17
+Grosseto		42.76	11.11	0	61
+Livorno		43.54	10.33	0	157
+Lucca		43.84	10.50	0	82
+Marina di Carrara		44.04	10.04	0	25
+Marina di Massa		44.00	10.11	0	19
+Massa		44.04	10.14	0	65
+Massarosa		43.87	10.34	0	22
+Montecatini-Terme		43.88	10.77	0	18
+Montemurlo		43.93	11.04	0	18
+Montevarchi		43.53	11.57	0	19
+Pietrasanta		43.96	10.23	0	19
+Piombino		42.93	10.53	0	34
+Pisa		43.71	10.40	0	110
+Pistoia		43.93	10.92	0	74
+Poggibonsi		43.47	11.15	0	22
+Pontedera		43.66	10.63	0	20
+Prato		43.88	11.10	0	195
+Rosignano Solvay-Castiglioncello		43.39	10.44	0	20
+San Giovanni Valdarno		43.57	11.53	0	16
+San Miniato		43.68	10.85	0	17
+San Miniato Basso		43.69	10.84	0	26
+Scandicci		43.75	11.19	0	45
+Sesto Fiorentino		43.83	11.20	0	46
+Siena		43.32	11.33	0	54
+Viareggio		43.87	10.25	0	62
+#r	Umbria
+Bastia umbra		43.06	12.55	0	18
+Città di Castello	Citta di Castello	43.47	12.24	0	22
+Foligno		42.95	12.70	0	57
+Perugia		43.11	12.39	0	120
+Spoleto		42.74	12.74	0	19
+Terni		42.56	12.64	0	111
+Todi		42.78	12.41	0	15
+#r	Veneto
+Abano Terme		45.36	11.79	0	18
+Albignasego		45.35	11.87	0	16
+Arcella		45.42	11.89	0	44
+Arzignano		45.52	11.33	0	21
+Bassano del Grappa		45.77	11.73	0	38
+Belluno		46.14	12.22	0	25
+Bussolengo		45.47	10.85	0	15
+Castelfranco Veneto		45.67	11.93	0	26
+Chioggia		45.22	12.28	0	47
+Conegliano		45.89	12.30	0	31
+Este		45.22	11.66	0	17
+Lancenigo-Villorba		45.71	12.26	0	15
+Legnago		45.19	11.30	0	22
+Lido		45.41	12.37	0	16
+Marghera		45.45	12.22	0	29
+Mestre		45.49	12.25	0	148
+Mira Taglio		45.43	12.13	0	33
+Mirano		45.49	12.11	0	15
+Mogliano Veneto		45.56	12.24	0	22
+Monselice		45.24	11.75	0	19
+Montebelluna		45.78	12.05	0	27
+Montecchio Maggiore-Alte Ceccato		45.50	11.41	0	21
+Oderzo		45.78	12.49	0	16
+Padua		45.41	11.89	0	204
+Portogruaro		45.78	12.84	0	17
+Rovigo		45.07	11.79	0	50
+San Bonifacio		45.40	11.27	0	17
+San Donà di Piave	San Dona di Piave	45.63	12.57	0	42
+San Giovanni Lupatoto		45.38	11.04	0	20
+Schio		45.71	11.36	0	34
+Spinea-Orgnano		45.49	12.15	0	24
+Thiene		45.71	11.48	0	21
+Treviso		45.67	12.24	0	86
+Valdagno		45.64	11.30	0	23
+Venice		45.44	12.33	0	51
+Verona		45.44	10.99	0	258
+Vicenza		45.55	11.55	0	112
+Villafranca di Verona		45.35	10.84	0	16
+Vittorio Veneto		45.98	12.30	0	25

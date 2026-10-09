@@ -1,0 +1,178 @@
+#z	Europe/Bucharest
+#c	RO
+#r	Alba
+Aiud		46.31	23.72	0	28
+Alba Iulia		46.07	23.58	0	64
+Blaj		46.18	23.92	0	20
+Cugir		45.84	23.37	0	25
+Ocna Mureş	Ocna Mures	46.38	23.85	0	15
+Sebeş	Sebes	45.96	23.57	0	27
+#r	Arad
+Arad		46.18	21.32	0	169
+#r	Arges
+Curtea de Argeş	Curtea de Arges	45.13	24.67	0	32
+Mioveni		44.96	24.94	0	29
+Piteşti	Pitesti	44.85	24.87	0	141
+#r	Bacau
+Bacău	Bacau	46.57	26.91	0	136
+Buhuşi	Buhusi	46.72	26.70	0	18
+Comăneşti	Comanesti	46.42	26.44	0	24
+Moineşti	Moinesti	46.48	26.49	0	24
+#r	Bihor
+Oradea		47.05	21.92	0	183
+Salonta		46.80	21.65	0	18
+#r	Bistrita-Nasaud
+Bistriţa	Bistrita	47.13	24.50	0	79
+#r	Botosani
+Botoşani	Botosani	47.75	26.67	0	90
+Dorohoi		47.95	26.40	0	31
+#r	Braila
+Brăila	Braila	45.27	27.97	0	155
+#r	Brasov
+Braşov	Brasov	45.65	25.61	0	253
+Codlea		45.70	25.45	0	21
+Făgăraș	Fagaras	45.85	24.97	0	31
+Râşnov	Rasnov	45.58	25.45	0	15
+Săcele	Sacele	45.62	25.71	0	30
+Zărnești	Zarnesti	45.56	25.32	0	25
+#r	Bucuresti
+Bucharest		44.43	26.11	0	1877
+Sector 5		44.39	26.07	0	272
+#r	Buzau
+Buzău	Buzau	45.15	26.83	0	103
+Râmnicu Sărat	Ramnicu Sarat	45.38	27.05	0	39
+#r	Calarasi
+Olteniţa	Oltenita	44.08	26.63	0	23
+#r	Caras-Severin
+Bocşa	Bocsa	45.37	21.71	0	16
+Caransebeş	Caransebes	45.42	22.22	0	28
+Reşiţa	Resita	45.30	21.89	0	81
+#r	Cluj
+Cluj-Napoca		46.77	23.60	0	287
+Câmpia Turzii	Campia Turzii	46.55	23.88	0	26
+Dej		47.15	23.87	0	38
+Gherla		47.03	23.92	0	24
+Turda		46.57	23.78	0	43
+#r	Constanta
+Cernavodă	Cernavoda	44.34	28.03	0	19
+Constanţa	Constanta	44.18	28.63	0	318
+Mangalia		43.82	28.58	0	40
+Medgidia		44.25	28.28	0	43
+Năvodari	Navodari	44.32	28.60	0	33
+#r	Covasna
+Sfântu Gheorghe	Sfantu Gheorghe	45.87	25.78	0	50
+Târgu Secuiesc	Targu Secuiesc	46.00	26.13	0	20
+#r	Dambovita
+Găeşti	Gaesti	44.72	25.32	0	15
+Moreni		44.98	25.64	0	21
+Târgovişte	Targoviste	44.93	25.46	0	67
+#r	Dolj
+Băileşti	Bailesti	44.02	23.35	0	20
+Calafat		43.99	22.93	0	19
+Craiova		44.32	23.80	0	234
+Filiaşi	Filiasi	44.55	23.52	0	19
+#r	Galati
+Galaţi	Galati	45.44	28.05	0	218
+Tecuci		45.85	27.43	0	41
+#r	Giurgiu
+Giurgiu		43.89	25.96	0	55
+#r	Gorj
+Motru		44.80	22.97	0	22
+Târgu Jiu	Targu Jiu	45.05	23.28	0	74
+#r	Harghita
+Gheorgheni		46.72	25.60	0	20
+Miercurea-Ciuc		46.35	25.80	0	34
+Odorheiu Secuiesc		46.30	25.30	0	37
+#r	Hunedoara
+Brad		46.13	22.78	0	16
+Deva		45.88	22.90	0	68
+Hunedoara		45.75	22.90	0	69
+Lupeni		45.36	23.24	0	30
+Orăştie	Orastie	45.83	23.20	0	21
+Petrila		45.45	23.42	0	25
+Petroşani	Petrosani	45.42	23.37	0	44
+Vulcan		45.38	23.27	0	20
+#r	Ialomita
+Feteşti	Fetesti	44.38	27.83	0	33
+Fetești-Gară	Fetesti-Gara	44.42	27.83	0	24
+Slobozia		44.56	27.36	0	42
+Urziceni		44.72	26.63	0	17
+#r	Iasi
+Iaşi	Iasi	47.17	27.60	0	379
+Paşcani	Pascani	47.25	26.72	0	45
+#r	Ilfov
+Buftea		44.56	25.95	0	21
+Pantelimon		44.45	26.20	0	16
+Popeşti-Leordeni	Popesti-Leordeni	44.38	26.17	0	15
+Sector 1		44.49	26.05	0	225
+Sector 2		44.45	26.13	0	291
+Sector 3		44.42	26.17	0	385
+Sector 4		44.38	26.12	0	288
+Sector 6		44.44	26.02	0	368
+Voluntari		44.49	26.17	0	30
+#r	Maramures
+Baia Mare		47.66	23.57	0	109
+Baia Sprie		47.66	23.69	0	17
+Borşa	Borsa	47.66	24.66	0	27
+Sighetu Marmaţiei	Sighetu Marmatiei	47.93	23.89	0	41
+Vişeu de Sus	Viseu de Sus	47.71	24.43	0	15
+#r	Mehedinti
+Drobeta-Turnu Severin		44.63	22.65	0	80
+#r	Mures
+Luduş	Ludus	46.48	24.10	0	17
+Reghin-Sat		46.78	24.72	0	35
+Sighișoara	Sighisoara	46.22	24.79	0	35
+Târgu Mureş	Targu Mures	46.54	24.56	0	213
+Târnăveni	Tarnaveni	46.33	24.30	0	29
+#r	Neamt
+Piatra Neamţ	Piatra Neamt	46.92	26.33	0	103
+Roman		46.92	26.93	0	68
+Târgu Neamţ	Targu Neamt	47.20	26.37	0	20
+#r	Olt
+Balş	Bals	44.35	24.10	0	21
+Caracal		44.12	24.35	0	34
+Corabia		43.78	24.50	0	20
+Slatina		44.43	24.37	0	63
+#r	Prahova
+Breaza		45.18	25.67	0	18
+Băicoi	Baicoi	45.03	25.85	0	20
+Câmpina	Campina	45.13	25.73	0	42
+Mizil		45.02	26.45	0	16
+Ploieşti	Ploiesti	44.95	26.02	0	181
+#r	Salaj
+Zalău	Zalau	47.20	23.05	0	52
+Şimleu Silvaniei	Simleu Silvaniei	47.23	22.80	0	16
+#r	Satu Mare
+Carei		47.68	22.47	0	21
+Satu Mare		47.80	22.86	0	112
+#r	Sibiu
+Cisnădie	Cisnadie	45.72	24.15	0	15
+Mediaş	Medias	46.17	24.35	0	53
+Sibiu		45.80	24.15	0	134
+#r	Suceava
+Câmpulung Moldovenesc	Campulung Moldovenesc	47.53	25.57	0	20
+Fălticeni	Falticeni	47.45	26.30	0	30
+Gura Humorului		47.55	25.90	0	16
+Rădăuți	Radauti	47.85	25.92	0	24
+Suceava		47.63	26.25	0	84
+Vatra Dornei		47.35	25.37	0	16
+#r	Teleorman
+Alexandria		43.98	25.33	0	40
+Roșiorii de Vede	Rosiorii de Vede	44.12	24.98	0	27
+Turnu Măgurele	Turnu Magurele	43.75	24.87	0	29
+Zimnicea		43.66	25.36	0	15
+#r	Timis
+Lugoj		45.69	21.90	0	43
+Timişoara	Timisoara	45.75	21.23	0	251
+#r	Tulcea
+Tulcea		45.18	28.81	0	66
+#r	Valcea
+Drăgăşani	Dragasani	44.65	24.27	0	21
+Râmnicu Vâlcea	Ramnicu Valcea	45.10	24.37	0	93
+#r	Vaslui
+Bârlad	Barlad	46.23	27.67	0	68
+Huşi	Husi	46.67	28.06	0	29
+Vaslui		46.63	27.73	0	63
+#r	Vrancea
+Adjud		46.10	27.18	0	15
+Focșani	Focsani	45.70	27.18	0	67

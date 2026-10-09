@@ -1,0 +1,399 @@
+#z	Europe/Kyiv
+#c	UA
+#r	
+Terny		48.15	33.56	0	28
+Varash		51.34	25.86	0	42
+#r	Cherkasy
+Bahacheve		49.01	31.05	0	16
+Cherkasy		49.44	32.06	0	270
+Kaniv		49.75	31.47	0	24
+Korsun-Shevchenkivskyi		49.42	31.25	0	18
+Shpola		49.01	31.39	0	17
+Smila		49.23	31.88	0	66
+Uman		48.75	30.22	0	82
+Zolotonosha		49.67	32.04	0	28
+Zvenyhorodka		49.08	30.96	0	16
+#r	Chernihiv
+Bakhmach		51.18	32.83	0	17
+Chernihiv		51.51	31.29	0	283
+Desnyanskyi		51.51	31.32	0	180
+Masany		51.53	31.23	0	30
+Nizhyn		51.05	31.89	0	67
+Novhorod-Siverskyi		52.01	33.26	0	15
+Novozavodskyi		51.49	31.26	0	180
+Pryluky		50.60	32.38	0	53
+#r	Chernivtsi
+Chernivtsi		48.29	25.93	0	264
+#r	Dnipropetrovsk
+Apostolove		47.66	33.72	0	16
+Dnipro		48.47	35.04	0	969
+Ihren		48.48	35.16	0	22
+Inhulets		47.73	33.25	0	62
+Kamyanske		48.52	34.61	0	227
+Kryvyy Rih		47.91	33.39	0	604
+Marhanets		47.63	34.62	0	45
+Nikopol		47.57	34.39	0	105
+Nyzhnodniprovsk		48.48	35.12	0	160
+Pavlohrad		48.53	35.87	0	101
+Pidhorodnye		48.57	35.10	0	19
+Pokrov		47.65	34.11	0	37
+Pyatykhatky		48.41	33.71	0	18
+Samar		48.63	35.26	0	71
+Shakhtarske		48.35	36.40	0	28
+Synelnykove		48.32	35.53	0	31
+Ternivka		48.53	36.07	0	27
+Verkhnodniprovsk		48.66	34.33	0	15
+Vilnohirsk		48.48	34.02	0	22
+Zhovti Vody		48.35	33.50	0	42
+#r	Donetsk
+Amvrosiivka		47.79	38.48	0	18
+Avdiyivka		48.14	37.75	0	36
+Bakhmut		48.59	38.00	0	80
+Berestovskyi		48.04	37.88	0	81
+Bohodukhivskyi		47.97	37.86	0	91
+Bosse		47.96	37.80	0	50
+Chumakivskyi		47.96	37.94	0	103
+Chystyakove		48.04	38.60	0	53
+Debaltseve		48.34	38.40	0	24
+Dobropillia		48.47	37.09	0	28
+Dokuchayevsk		47.75	37.68	0	23
+Donetsk		48.02	37.80	0	902
+Druzhkivka		48.62	37.53	0	54
+Hirnytskyi		48.02	37.97	0	107
+Hladkivka		48.04	37.81	0	42
+Horlivka		48.30	38.02	0	240
+Hruzkyi		48.07	37.94	0	52
+Ilovays’k	Ilovaysk	47.92	38.20	0	15
+Kalmiuskyi		47.11	37.54	0	101
+Kalynivskyi		48.01	37.85	0	103
+Khanzhonkivskyi		48.10	38.04	0	53
+Khanzhonkove		48.09	38.08	0	40
+Khartsyzk		48.04	38.14	0	56
+Khrestivka		48.15	38.36	0	27
+Kindrativskyi		48.30	38.05	0	102
+Kostyantynivka		48.53	37.71	0	67
+Kramatorsk		48.73	37.57	0	147
+Kurakhove		47.98	37.28	0	18
+Kyivskyi		48.05	37.78	0	139
+Livoberezhnyi		47.11	37.64	0	122
+Lyman		48.99	37.81	0	20
+Makiyivka		48.05	37.93	0	339
+Mariupol		47.10	37.54	0	230
+Mykytivskyi		48.31	38.00	0	70
+Myrnohrad		48.31	37.27	0	46
+Oleksandrivskyi		47.97	37.80	0	100
+Pelahiivka		48.11	38.61	0	18
+Pokrovsk		48.28	37.18	0	60
+Pravyi Bereh		47.11	37.59	0	352
+Prymorskyi		47.07	37.50	0	71
+Rutchenkivskyi		47.98	37.70	0	168
+Selydove		48.15	37.30	0	22
+Shakhtarsk		48.06	38.44	0	72
+Slovyansk		48.85	37.60	0	105
+Smolyanskyi		48.01	37.74	0	117
+Snizhne		48.02	38.76	0	56
+Sonyachnyi		48.72	37.60	0	41
+Sotsmisto		48.74	37.59	0	53
+Tekstylnyk		47.95	37.70	0	75
+Toretsk		48.39	37.85	0	31
+Trudivskyi		47.95	37.56	0	16
+Tsentralno-Miskyi		48.06	37.97	0	94
+Tsentralno-Miskyi		48.30	38.03	0	118
+Tsentralnyi		47.10	37.55	0	180
+Volnovakha		47.60	37.49	0	21
+Voznesenskyi		47.93	37.63	0	85
+Yasynuvata		48.13	37.86	0	38
+Yenakiyeve		48.24	38.20	0	77
+Yuzivskyi		48.00	37.80	0	94
+Zuhres		48.01	38.27	0	18
+#r	Ivano-Frankivsk
+Dolyna		48.97	23.97	0	20
+Ivano-Frankivsk		48.92	24.71	0	238
+Kalush		49.02	24.37	0	65
+Knyahynyn		48.94	24.71	0	17
+Kolomyia		48.52	25.04	0	61
+Nadvirna		48.64	24.57	0	23
+#r	Kharkiv
+Balakliya		49.46	36.84	0	26
+Berestyn		49.38	35.44	0	21
+Bohodukhiv		50.16	35.52	0	18
+Chuhuyiv		49.84	36.69	0	37
+Derhachi		50.11	36.12	0	17
+Izyum		49.21	37.28	0	46
+Kharkiv		49.98	36.25	0	1421
+Kivsharivka		49.63	37.68	0	20
+Kupyansk		49.71	37.62	0	27
+Liubotyn		49.95	35.93	0	20
+Lozova		48.89	36.31	0	54
+Merefa		49.82	36.06	0	21
+Oleksiyivka		50.05	36.19	0	100
+Pisochyn		49.95	36.10	0	24
+Pivnichna Saltivka		50.05	36.36	0	45
+Rayon KTZ		49.94	36.37	0	200
+Saltivka		50.02	36.35	0	409
+Slobozhanske		49.59	36.52	0	16
+Vovchansk		50.29	36.94	0	17
+Zhuravlivka		50.01	36.27	0	20
+Zlatopil		49.38	36.22	0	29
+#r	Kherson
+Henichesk		46.17	34.81	0	20
+Kakhovka		46.82	33.48	0	36
+Kherson		46.64	32.61	0	66
+Nova Kakhovka		46.76	33.36	0	44
+Oleshky		46.63	32.72	0	25
+Skadovsk		46.11	32.91	0	18
+#r	Khmelnytskyi
+Dunayivtsi		48.89	26.85	0	16
+Horodok		49.17	26.56	0	16
+Iziaslav		50.12	26.82	0	16
+Kamyanets-Podilskyi		48.68	26.59	0	98
+Khmelnytskyi		49.42	26.98	0	274
+Krasyliv		49.65	26.97	0	19
+Netishyn		50.33	26.65	0	36
+Polonne		50.12	27.51	0	21
+Rakove		49.40	27.06	0	17
+Shepetivka		50.18	27.07	0	41
+Slavuta		50.30	26.87	0	35
+Starokostyantyniv		49.76	27.21	0	34
+Volochysk		49.54	26.21	0	18
+#r	Kiev
+Berezan		50.31	31.47	0	16
+Bila Tserkva		49.80	30.12	0	207
+Bilohorodka		50.39	30.23	0	21
+Bohuslav		49.55	30.87	0	16
+Borshchahivka		50.43	30.39	0	180
+Bortnychi		50.38	30.70	0	16
+Boryspil		50.35	30.95	0	64
+Boyarka		50.32	30.30	0	34
+Brovary		50.51	30.79	0	110
+Bucha		50.55	30.21	0	42
+Chokolivka		50.42	30.45	0	74
+Darnytsya		50.42	30.70	0	343
+Darnytsya Car Repair Plant Microdistrict		50.45	30.68	0	18
+Desna		50.52	30.68	0	368
+Fastiv		50.08	29.92	0	44
+Holosiyiv		50.34	30.55	0	62
+Hostomel		50.57	30.27	0	18
+Irpin		50.52	30.24	0	65
+Karavayevi Dachi		50.43	30.44	0	36
+Kharkivskyi Masyv		50.41	30.66	0	94
+Minskyi Masyv		50.52	30.46	0	33
+Mykilska Borshchahivka		50.43	30.37	0	127
+Obukhiv		50.12	30.63	0	32
+Pereiaslav		50.07	31.45	0	26
+Pivdenna Borshchahivka		50.41	30.40	0	50
+Skvyra		49.73	29.66	0	17
+Slavutych		51.52	30.72	0	24
+Sofiivska Borschahivka		50.41	30.36	0	26
+Svyatopetrivske		50.38	30.32	0	16
+Teremky		50.37	30.46	0	34
+Teremky-II		50.38	30.45	0	24
+Vasylkiv		50.18	30.31	0	37
+Vidradnyi		50.43	30.42	0	70
+Vyshhorod		50.58	30.49	0	33
+Vyshneve		50.39	30.37	0	43
+Yahotyn		50.28	31.76	0	19
+#r	Kirovohrad
+Dolynska		48.12	32.78	0	25
+Fortechnyi		48.50	32.25	0	167
+Kropyvnytskyi		48.51	32.27	0	220
+Novoukrayinka		48.32	31.52	0	16
+Oleksandriya		48.67	33.12	0	76
+Podilskyi		48.50	32.28	0	87
+Svitlovodsk		49.06	33.25	0	43
+Znamyanka		48.72	32.66	0	22
+#r	Kyiv City
+Berezniaky		50.43	30.60	0	46
+Bilychi		50.47	30.35	0	40
+Darnytskyi Masyv		50.44	30.63	0	69
+Demiyivka		50.40	30.52	0	29
+Dniprovskyi		50.45	30.60	0	358
+Klov		50.43	30.54	0	18
+Kotsyubynske		50.49	30.33	0	18
+Kurenivka		50.49	30.47	0	24
+Kybalchych		50.49	30.60	0	16
+Kyiv		50.45	30.52	0	2952
+Lisovyi Masyv		50.47	30.63	0	87
+Livoberezhnyi Masyv		50.46	30.59	0	26
+Lukyanivka		50.47	30.48	0	31
+Lypky		50.44	30.53	0	18
+Mostytskyi Masyv		50.50	30.44	0	25
+Nova Darnytsya		50.42	30.66	0	46
+Nova Zabudova		50.43	30.52	0	49
+Novobilychi		50.48	30.35	0	28
+Nyvky		50.46	30.41	0	72
+Nyzhnya Telychka		50.39	30.57	0	17
+Obolon		50.51	30.51	0	240
+Oleksandrivska Slobidka		50.42	30.48	0	34
+Pechersk		50.44	30.52	0	101
+Pivnichni Osokorky		50.39	30.61	0	40
+Pivnichno-Brovarskyi Masyv		50.46	30.62	0	38
+Podil		50.47	30.52	0	26
+Pozniaky		50.40	30.62	0	104
+Priorka		50.51	30.46	0	36
+Rayduzhnyi Masyv		50.49	30.59	0	27
+Rusanivka		50.44	30.60	0	27
+Saperna Slobidka		50.40	30.53	0	20
+Shevchenkivskyi		50.46	30.47	0	220
+Shulyavka		50.45	30.45	0	62
+Solomyanka		50.43	30.45	0	32
+Stara Darnytsya		50.43	30.63	0	26
+Stare Misto		50.45	30.53	0	42
+Svyatoshyn		50.46	30.35	0	53
+Syrets		50.48	30.44	0	46
+Tatarka		50.47	30.49	0	26
+Telychka		50.40	30.57	0	40
+Vitryani Hory		50.51	30.44	0	18
+Voskresenka		50.48	30.60	0	84
+Vyhurivshchyna-Troyeshchyna		50.51	30.60	0	240
+Vynohradar		50.51	30.42	0	58
+Vyshhorodskyi Masyv		50.51	30.45	0	35
+#r	Luhansk
+Alchevsk		48.47	38.80	0	106
+Antratsyt		48.12	39.09	0	52
+Bryanka		48.51	38.67	0	45
+Dovzhansk		48.08	39.65	0	63
+Holubivka		48.64	38.64	0	27
+Kadiyivka		48.57	38.64	0	73
+Kamyanobridskyi		48.59	39.28	0	42
+Katerynivka		48.56	39.18	0	17
+Khrustalnyi		48.14	38.92	0	80
+Kreminna		49.05	38.22	0	18
+Luhansk		48.57	39.31	0	398
+Lutuhyne		48.40	39.21	0	17
+Lysychansk		48.91	38.42	0	93
+Otamanivka		48.35	39.65	0	22
+Perevalsk		48.44	38.83	0	25
+Popasna		48.63	38.37	0	19
+Rovenky		48.08	39.38	0	46
+Rubizhne		49.01	38.38	0	55
+Shevchenkivskyi		48.56	39.33	0	88
+Siverskodonetsk		48.94	38.49	0	99
+Skhidni Kvartaly		48.57	39.38	0	102
+Sokolohirsk		48.63	38.52	0	36
+Sorokyne		48.29	39.73	0	49
+Starobilsk		49.28	38.91	0	16
+Sukhodilsk		48.35	39.73	0	20
+Svatove		49.41	38.16	0	16
+Verhunskyi		48.59	39.37	0	186
+Vilkhivskyi		48.54	39.28	0	126
+Voznesenivka		48.08	39.80	0	15
+#r	Lviv
+Boryslav		49.29	23.43	0	32
+Brody		50.09	25.15	0	23
+Drohobych		49.35	23.51	0	74
+Horodok		49.78	23.65	0	16
+Lviv		49.84	24.02	0	717
+Mostyska		49.79	23.15	0	17
+Novoyavorivs'k		49.93	23.57	0	31
+Novyi Lviv		49.82	24.03	0	40
+Novyi Rozdil		49.47	24.13	0	28
+Sambir		49.52	23.20	0	34
+Sheptytskyi		50.39	24.24	0	64
+Sokal		50.47	24.28	0	20
+Stebnyk		49.30	23.55	0	20
+Stryi		49.26	23.85	0	61
+Sykhiv		49.79	24.06	0	151
+Truskavets		49.28	23.50	0	28
+Vynnyky		49.82	24.14	0	19
+Zolochiv		49.81	24.90	0	23
+#r	Mykolaiv
+Mykolayiv		46.98	31.99	0	470
+Pervomaysk		48.04	30.85	0	62
+Pivdennoukrainsk		47.83	31.18	0	39
+Voznesensk		47.56	31.34	0	33
+#r	Odessa
+Balta		47.94	29.62	0	19
+Bilhorod-Dnistrovskyi		46.19	30.35	0	48
+Bolhrad		45.68	28.62	0	15
+Cheremushky		46.43	30.71	0	120
+Chornomors’k	Chornomorsk	46.30	30.66	0	58
+Izmayil		45.35	28.84	0	70
+Kiliya		45.44	29.26	0	20
+Odesa		46.49	30.74	0	1011
+Pivdenne		46.62	31.10	0	33
+Podilsk		47.75	29.53	0	39
+Reni		45.45	28.28	0	19
+Rozdilna		46.85	30.07	0	18
+#r	Poltava
+Avtozavodskyi		49.10	33.43	0	157
+Hadyach		50.37	34.00	0	23
+Horishni Plavni		49.01	33.63	0	50
+Kremenchuk		49.06	33.40	0	225
+Kryukiv		49.03	33.44	0	76
+Kyivskyi		49.61	34.53	0	111
+Lubny		50.01	33.00	0	45
+Molodizhne		49.15	33.43	0	44
+Myrhorod		49.96	33.61	0	40
+Podil		49.60	34.59	0	32
+Poltava		49.59	34.55	0	280
+Rakivka		49.02	33.46	0	17
+Shevchenko		49.56	34.54	0	148
+#r	Rivne
+Dubno		50.41	25.76	0	37
+Kostopil		50.88	26.45	0	31
+Rivne		50.62	26.24	0	244
+Sarny		51.34	26.61	0	29
+Zdolbuniv		50.52	26.25	0	25
+#r	Sumy
+Bilopillia		51.15	34.31	0	16
+Hlukhiv		51.68	33.92	0	32
+Konotop		51.23	33.20	0	85
+Kovpakivskyi		50.93	34.79	0	142
+Krolevets		51.55	33.38	0	24
+Lebedyn		50.58	34.48	0	24
+Okhtyrka		50.31	34.89	0	47
+Romny		50.74	33.50	0	38
+Shostka		51.86	33.47	0	73
+Sumy		50.92	34.80	0	256
+Trostyanets		50.48	34.97	0	20
+Zarichnyi		50.90	34.81	0	151
+#r	Ternopil
+Berezhany		49.45	24.94	0	18
+Chortkiv		49.02	25.80	0	28
+Kremenets		50.10	25.73	0	21
+Ternopil		49.55	25.59	0	225
+#r	Vinnyts'ka
+Bar		49.07	27.67	0	15
+Haysyn		48.81	29.38	0	26
+Kalynivka		49.46	28.52	0	18
+Khmilnyk		49.56	27.96	0	28
+Kozyatyn		49.72	28.84	0	23
+Ladyzhyn		48.68	29.24	0	22
+Mohyliv-Podilskyy		48.44	27.80	0	31
+Tulchyn		48.67	28.87	0	15
+Vinnytsya		49.23	28.47	0	430
+Zhmerynka		49.04	28.11	0	34
+#r	Volyn
+Kovel		51.22	24.70	0	68
+Lutsk		50.76	25.35	0	216
+Novovolynsk		50.73	24.16	0	50
+Volodymyr-Volynskyi		50.85	24.32	0	38
+#r	Zakarpattia
+Berehove		48.21	22.64	0	23
+Khust		48.17	23.30	0	28
+Mukachevo		48.44	22.72	0	86
+Rakhiv		48.05	24.20	0	16
+Svalyava		48.55	22.99	0	17
+Uzhhorod		48.62	22.29	0	115
+Vynohradiv		48.14	23.04	0	25
+#r	Zaporizhia
+Berdyansk		46.76	36.79	0	106
+Dniprorudne		47.39	35.00	0	18
+Enerhodar		47.49	34.66	0	53
+Melitopol		46.85	35.38	0	149
+Polohy		47.48	36.25	0	18
+Tokmak		47.26	35.71	0	30
+Vilnyansk		47.95	35.44	0	15
+Zaporizhzhya		47.85	35.12	0	710
+#r	Zhytomyr
+Berdychiv		49.89	28.58	0	73
+Bohuniya		50.28	28.61	0	147
+Korolyov		50.24	28.70	0	114
+Korosten		50.95	28.64	0	61
+Korostyshiv		50.32	29.06	0	24
+Malyn		50.77	29.24	0	25
+Ovruch		51.33	28.80	0	15
+Radomyshl		50.50	29.23	0	15
+Zhytomyr		50.26	28.68	0	262
+Zvyahel		50.59	27.61	0	56

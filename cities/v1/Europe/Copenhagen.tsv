@@ -1,0 +1,71 @@
+#z	Europe/Copenhagen
+#c	DK
+#r	Capital Region
+Albertslund		55.66	12.36	0	30
+Allerød	Allerd	55.87	12.36	0	26
+Avedøre	Avedre	55.63	12.46	0	53
+Ballerup		55.73	12.36	0	40
+Birkerød	Birkerd	55.85	12.43	0	21
+Brøndbyvester	Brndbyvester	55.65	12.41	0	20
+Charlottenlund		55.75	12.57	0	40
+Copenhagen		55.68	12.57	0	1154
+Farum		55.81	12.36	0	20
+Frederiksberg		55.68	12.53	0	95
+Frederikssund		55.84	12.07	0	17
+Glostrup		55.67	12.40	0	23
+Helsingør	Helsingr	56.04	12.61	0	35
+Hillerød	Hillerd	55.93	12.30	0	35
+Hvidovre		55.64	12.48	0	54
+Hørsholm	Hrsholm	55.88	12.50	0	48
+Indre By		55.68	12.57	0	26
+Ishøj	Ishj	55.62	12.35	0	19
+Lillerød	Lillerd	55.87	12.35	0	17
+Rødovre	Rdovre	55.68	12.45	0	41
+Stenløse	Stenlse	55.77	12.20	0	20
+Taastrup		55.65	12.30	0	35
+Valby		55.67	12.51	0	46
+Vallensbæk	Vallensbk	55.62	12.39	0	17
+Vanløse	Vanlse	55.68	12.49	0	37
+#r	Central Jutland
+Hedensted		55.77	9.70	0	47
+Herning		56.14	8.98	0	51
+Holstebro		56.36	8.62	0	32
+Horsens		55.86	9.85	0	61
+Randers		56.46	10.04	0	63
+Silkeborg		56.17	9.55	0	50
+Skive		56.57	9.03	0	20
+Tilst		56.19	10.11	0	16
+Viborg		56.45	9.40	0	41
+Viby		56.12	10.15	0	32
+Århus	Arhus	56.16	10.21	0	285
+#r	North Denmark
+Aalborg		57.05	9.92	0	143
+Frederikshavn		57.44	10.54	0	23
+Hjørring	Hjrring	57.46	9.98	0	26
+Nørresundby	Nrresundby	57.06	9.92	0	24
+#r	South Denmark
+Aabenraa		55.04	9.42	0	16
+Esbjerg		55.47	8.45	0	72
+Fredericia		55.57	9.75	0	41
+Haderslev		55.25	9.49	0	22
+Kolding		55.49	9.47	0	62
+Middelfart		55.51	9.73	0	16
+Nyborg		55.31	10.79	0	18
+Odense		55.40	10.39	0	181
+Svendborg		55.06	10.61	0	27
+Sønderborg	Snderborg	54.91	9.79	0	28
+Tønder	Tnder	54.93	8.87	0	16
+Vejle		55.71	9.54	0	60
+#r	Zealand
+Greve		55.58	12.30	0	48
+Holbæk	Holbk	55.72	11.71	0	30
+Kalundborg		55.68	11.09	0	16
+Klinteby Frihed		55.20	11.60	0	53
+Køge	Kge	55.46	12.18	0	38
+Nykøbing Falster	Nykbing Falster	54.77	11.87	0	20
+Næstved	Nstved	55.23	11.76	0	44
+Ringsted		55.44	11.79	0	23
+Roskilde		55.64	12.08	0	52
+Slagelse		55.40	11.35	0	32
+Solrød Strand	Solrd Strand	55.53	12.22	0	17
+Vordingborg		55.01	11.91	0	18

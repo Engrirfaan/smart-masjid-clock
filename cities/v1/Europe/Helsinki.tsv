@@ -1,0 +1,123 @@
+#z	Europe/Helsinki
+#c	FI
+#r	Central Finland
+Jyväskylä	Jyvaskyla	62.24	25.72	0	149
+Jämsä	Jamsa	61.86	25.19	0	19
+Laukaa		62.41	25.95	0	19
+Äänekoski	Aanekoski	62.60	25.73	0	18
+#r	Central Ostrobothnia
+Kokkola		63.84	23.13	0	48
+#r	Haeme
+Forssa		60.81	23.62	0	16
+Hämeenlinna	Hameenlinna	61.00	24.46	0	68
+Janakkala		60.90	24.60	0	16
+Riihimäki	Riihimaki	60.74	24.78	0	29
+#r	Kainuu
+Kajaani		64.23	27.73	0	36
+#r	Kymenlaakso
+Anjala		60.68	26.83	0	17
+Hamina		60.57	27.20	0	19
+Karhula		60.52	26.93	0	23
+Kotka		60.47	26.95	0	50
+Kouvola		60.87	26.70	0	78
+#r	Lapland
+Kemi		65.74	24.56	0	19
+Rovaniemi		66.50	25.69	0	66
+Tornio		65.85	24.15	0	21
+#r	North Karelia
+Joensuu		62.60	29.76	0	78
+Kontiolahti		62.76	29.85	0	15
+#r	Northern Ostrobothnia
+Haukipudas		65.18	25.35	0	17
+Oulu		65.01	25.47	0	216
+Raahe		64.68	24.48	0	24
+Ylivieska		64.08	24.55	0	15
+#r	Northern Savo
+Iisalmi		63.56	27.19	0	20
+Kuopio		62.89	27.68	0	125
+Siilinjärvi	Siilinjarvi	63.08	27.67	0	21
+Varkaus		62.32	27.87	0	20
+#r	Ostrobothnia
+Jakobstad		63.67	22.70	0	20
+Korsholm		63.11	21.68	0	17
+Vaasa		63.10	21.62	0	70
+#r	Paijanne Tavastia
+Heinola		61.21	26.04	0	18
+Hollola		61.05	25.43	0	20
+Hollola		61.00	25.50	0	23
+Lahti		60.98	25.66	0	122
+Orimattila		60.80	25.73	0	16
+#r	Pirkanmaa
+Hervanta		61.45	23.85	0	25
+Kangasala		61.46	24.08	0	34
+Lempäälä	Lempaala	61.32	23.75	0	25
+Nokia		61.47	23.50	0	36
+Pirkkala		61.46	23.63	0	21
+Pohjois-Hervanta		61.45	23.85	0	16
+Sastamala		61.35	22.91	0	24
+Tampere		61.50	23.79	0	261
+Valkeakoski		61.26	24.03	0	21
+Vammala		61.33	22.90	0	17
+Ylöjärvi	Ylojarvi	61.56	23.60	0	34
+#r	Satakunta
+Pori		61.48	21.79	0	83
+Rauma		61.13	21.51	0	39
+#r	South Karelia
+Imatra		61.17	28.75	0	25
+Lappeenranta		61.06	28.19	0	73
+#r	Southern Ostrobothnia
+Kauhava		63.10	23.07	0	15
+Kurikka		62.62	22.42	0	19
+Seinäjoki	Seinajoki	62.79	22.83	0	67
+#r	Southern Savonia
+Mikkeli		61.69	27.27	0	52
+Pieksämäki	Pieksamaki	62.30	27.13	0	17
+Savonlinna		61.87	28.88	0	31
+#r	Uusimaa
+East Helsinki		60.21	25.08	0	171
+Espoo		60.21	24.65	0	324
+Espoonlahti		60.15	24.65	0	18
+Haaga		60.22	24.90	0	28
+Helsinki		60.17	24.94	0	659
+Herttoniemi		60.19	25.04	0	26
+Hyvinge		60.63	24.87	0	44
+Järvenpää	Jarvenpaa	60.47	25.09	0	47
+Kaarela		60.25	24.88	0	26
+Kallio		60.18	24.95	0	27
+Kerava		60.40	25.11	0	39
+Kirkkonummi		60.12	24.44	0	42
+Klaukkala		60.38	24.75	0	21
+Laajasalo		60.18	25.03	0	22
+Lauttasaari		60.16	24.87	0	20
+Leppävaara	Leppavaara	60.21	24.81	0	28
+Lohja		60.25	24.07	0	46
+Matinkylä	Matinkyla	60.16	24.74	0	23
+Mellunkylä	Mellunkyla	60.23	25.10	0	36
+Munkkiniemi		60.20	24.88	0	17
+Myyrmäki	Myyrmaki	60.27	24.85	0	18
+Mäntsälä	Mantsala	60.63	25.32	0	21
+Nurmijärvi	Nurmijarvi	60.46	24.81	0	45
+Olari		60.17	24.73	0	17
+Oulunkylä	Oulunkyla	60.23	24.96	0	24
+Pitäjänmäki	Pitajanmaki	60.22	24.86	0	18
+Porvoo		60.39	25.67	0	52
+Raseborg		59.98	23.44	0	27
+Sibbo		60.38	25.27	0	23
+Suurmetsä	Suurmetsa	60.27	25.05	0	16
+Suutarila		60.28	25.02	0	20
+Taka-Töölö	Taka-Toolo	60.18	24.92	0	15
+Tuusula		60.40	25.03	0	43
+Vantaa		60.29	25.04	0	253
+Vartiokylä	Vartiokyla	60.22	25.10	0	30
+Vihti		60.42	24.32	0	29
+Viikki		60.22	25.02	0	15
+Vuosaari		60.21	25.14	0	39
+#r	Varsinais-Suomi
+Kaarina		60.41	22.37	0	37
+Lieto		60.51	22.46	0	21
+Loimaa		60.85	23.06	0	15
+Naantali		60.47	22.02	0	20
+Raisio		60.49	22.17	0	26
+Salo		60.38	23.13	0	51
+Turku		60.45	22.27	0	207
+Väståboland	Vastaboland	60.30	22.30	0	15

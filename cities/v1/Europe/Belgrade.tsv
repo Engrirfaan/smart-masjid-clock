@@ -1,0 +1,84 @@
+#z	Europe/Belgrade
+#c	RS
+#r	
+Loznica		44.53	19.24	0	20
+#r	Autonomna Pokrajina Vojvodina
+Apatin		45.67	18.98	0	18
+Bačka Palanka	Backa Palanka	45.25	19.40	0	29
+Bačka Topola	Backa Topola	45.82	19.63	0	16
+Bečej	Becej	45.62	20.03	0	26
+Futog		45.24	19.71	0	18
+Inđija	Inija	45.05	20.08	0	24
+Kikinda		45.83	20.47	0	42
+Nova Pazova		44.94	20.22	0	15
+Novi Sad		45.25	19.84	0	215
+Pančevo	Pancevo	44.87	20.64	0	77
+Ruma		45.01	19.82	0	32
+Senta		45.93	20.08	0	20
+Sombor		45.77	19.11	0	48
+Sremska Mitrovica		44.98	19.61	0	39
+Stara Pazova		44.98	20.16	0	16
+Subotica		46.10	19.67	0	100
+Vrbas		45.57	19.64	0	26
+Vršac	Vrsac	45.12	21.30	0	36
+Zrenjanin		45.38	20.38	0	80
+#r	Central Serbia
+Aranđelovac	Aranelovac	44.31	20.56	0	24
+Belgrade		44.80	20.47	0	1274
+Bor		44.07	22.10	0	39
+Gornji Milanovac		44.03	20.46	0	24
+Jagodina		43.98	21.26	0	36
+Knjazevac		43.57	22.26	0	25
+Kragujevac		44.02	20.92	0	147
+Kraljevo		43.73	20.69	0	83
+Kruševac	Krusevac	43.58	21.33	0	75
+Lazarevac		44.39	20.26	0	24
+Leskovac		43.00	21.95	0	95
+Negotin		44.23	22.53	0	18
+Niš	Nis	43.32	21.90	0	250
+Novi Pazar		43.14	20.51	0	86
+Obrenovac		44.65	20.20	0	17
+Pirot		43.15	22.59	0	41
+Požarevac	Pozarevac	44.62	21.19	0	42
+Prokuplje		43.23	21.59	0	28
+Smederevo		44.66	20.93	0	62
+Smederevska Palanka		44.37	20.96	0	27
+Sremčica	Sremcica	44.68	20.39	0	23
+Trstenik		43.62	21.00	0	49
+Užice	Uzice	43.86	19.85	0	64
+Valjevo		44.28	19.90	0	61
+Vranje		42.55	21.90	0	56
+Zaječar	Zajecar	43.90	22.26	0	50
+Zemun		44.85	20.40	0	156
+Ćuprija	Cuprija	43.93	21.37	0	21
+Čačak	Cacak	43.89	20.35	0	117
+Šabac	Sabac	44.75	19.69	0	55
+#c	XK
+#r	Ferizaj
+Ferizaj		42.37	21.16	0	60
+Shtime		42.43	21.04	0	35
+#r	Gjakova
+Deçan	Decan	42.54	20.29	0	50
+Gjakovë	Gjakove	42.38	20.43	0	94
+Orahovac		42.40	20.65	0	22
+#r	Gjilan
+Gjilan		42.46	21.47	0	52
+Vitina		42.32	21.36	0	47
+#r	Mitrovica
+Leposaviq		43.10	20.80	0	19
+Mitrovicë	Mitrovice	42.88	20.87	0	107
+Vushtrri		42.82	20.97	0	31
+Zvečan	Zvecan	42.91	20.84	0	17
+#r	Pec
+Istok		42.78	20.49	0	40
+Pejë	Peje	42.66	20.29	0	49
+#r	Pristina
+Glogovac		42.63	20.89	0	59
+Kosovo Polje		42.66	21.10	0	16
+Podujeva		42.91	21.19	0	35
+Pristina		42.67	21.17	0	550
+#r	Prizren
+Dragash		42.03	20.65	0	35
+Llazicë	Llazice	42.56	20.76	0	20
+Prizren		42.21	20.74	0	171
+Suva Reka		42.36	20.82	0	72

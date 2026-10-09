@@ -1,0 +1,45 @@
+#z	Europe/Zagreb
+#c	HR
+#r	Bjelovarsko-Bilogorska
+Bjelovar		45.90	16.85	0	24
+#r	Brodsko-Posavska
+Slavonski Brod		45.16	18.02	0	45
+#r	Dubrovacko-Neretvanska
+Dubrovnik		42.64	18.11	0	27
+#r	Grad Zagreb
+Centar		45.81	15.98	0	37
+Sesvete		45.83	16.12	0	55
+Zagreb		45.81	15.98	0	664
+#r	Istarska
+Pula		44.87	13.85	0	52
+#r	Karlovacka
+Karlovac		45.49	15.55	0	42
+#r	Koprivnicko-Krizevacka
+Koprivnica		46.16	16.83	0	22
+#r	Medimurska
+Čakovec	Cakovec	46.38	16.43	0	15
+#r	Osjecko-Baranjska
+Osijek		45.55	18.69	0	76
+Đakovo	akovo	45.31	18.41	0	17
+#r	Pozesko-Slavonska
+Požega	Pozega	45.34	17.69	0	17
+#r	Primorsko-Goranska
+Rijeka		45.33	14.44	0	108
+#r	Sibensko-Kniniska
+Šibenik	Sibenik	43.73	15.89	0	31
+#r	Sisacko-Moslavacka
+Sisak		45.47	16.38	0	28
+#r	Splitsko-Dalmatinska
+Solin		43.54	16.49	0	21
+Split		43.51	16.44	0	150
+#r	Varazdinska
+Varaždin	Varazdin	46.30	16.34	0	36
+#r	Vukovarsko-Srijemska
+Vinkovci		45.29	18.80	0	28
+Vukovar		45.35	19.00	0	22
+#r	Zadarska
+Zadar		44.12	15.23	0	67
+#r	Zagrebacka
+Samobor		45.80	15.72	0	17
+Velika Gorica		45.71	16.08	0	30
+Zaprešić	Zapresic	45.86	15.81	0	19

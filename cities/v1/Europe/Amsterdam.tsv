@@ -1,0 +1,257 @@
+#z	Europe/Amsterdam
+#c	NL
+#r	Drenthe
+Assen		53.00	6.56	0	69
+Emmen		52.78	6.91	0	57
+Hoogeveen		52.72	6.48	0	39
+Meppel		52.70	6.19	0	31
+#r	Flevoland
+Almere Stad		52.37	5.21	0	176
+Dronten		52.52	5.72	0	28
+Emmeloord		52.71	5.75	0	46
+Lelystad		52.51	5.47	0	80
+Urk		52.66	5.60	0	22
+Zeewolde		52.33	5.54	0	19
+#r	Friesland
+Drachten		53.11	6.10	0	45
+Harlingen		53.17	5.42	0	16
+Heerenveen		52.96	5.92	0	43
+Leeuwarden		53.20	5.81	0	124
+Sneek		53.03	5.66	0	33
+#r	Gelderland
+Aalten		51.92	6.58	0	19
+Apeldoorn		52.21	5.97	0	137
+Arnhem		51.98	5.91	0	162
+Barneveld		52.14	5.58	0	35
+Bennekom		52.00	5.68	0	15
+Beuningen		51.86	5.77	0	26
+Brummen		52.09	6.16	0	21
+Culemborg		51.95	5.23	0	27
+Didam		51.94	6.13	0	18
+Doetinchem		51.97	6.29	0	50
+Duiven		51.95	6.01	0	25
+Ede		52.03	5.66	0	68
+Eibergen		52.10	6.65	0	16
+Elburg		52.45	5.84	0	22
+Elst		51.92	5.84	0	20
+Epe		52.35	5.98	0	33
+Geldermalsen		51.88	5.29	0	26
+Groesbeek		51.78	5.94	0	19
+Harderwijk		52.34	5.62	0	41
+Huissen		51.94	5.93	0	20
+Lichtenvoorde		51.99	6.57	0	20
+Lindenholt		51.83	5.79	0	16
+Nijkerk		52.22	5.49	0	38
+Nijmegen		51.84	5.85	0	177
+Nunspeet		52.38	5.79	0	19
+Putten		52.26	5.61	0	23
+Tiel		51.89	5.43	0	41
+Velp		51.99	5.97	0	18
+Wageningen		51.97	5.67	0	35
+Wijchen		51.81	5.72	0	33
+Winterswijk		51.97	6.72	0	30
+Wisch		51.93	6.42	0	19
+Zaltbommel		51.81	5.24	0	26
+Zevenaar		51.93	6.07	0	26
+Zutphen		52.14	6.20	0	36
+#r	Groningen
+Delfzijl		53.33	6.92	0	29
+Groningen		53.22	6.57	0	245
+Hoogezand		53.16	6.76	0	21
+Korrewegwijk		53.23	6.57	0	17
+Leek		53.16	6.38	0	20
+Stadskanaal		52.99	6.95	0	20
+Veendam		53.11	6.88	0	28
+Winschoten		53.14	7.03	0	19
+#r	Limburg
+Blerick		51.37	6.15	0	16
+Brunssum		50.95	5.97	0	29
+Geleen		50.97	5.83	0	33
+Gennep		51.70	5.97	0	17
+Heerlen		50.88	5.98	0	93
+Hoensbroek		50.92	5.93	0	25
+Kerkrade		50.87	6.06	0	50
+Maastricht		50.85	5.69	0	122
+Roermond		51.19	5.99	0	45
+Sittard		51.00	5.87	0	48
+Tegelen		51.34	6.14	0	20
+Venlo		51.37	6.17	0	102
+Venray		51.52	5.97	0	39
+Weert		51.25	5.71	0	49
+#r	North Brabant
+'s-Hertogenbosch		51.70	5.30	0	161
+Bergeijk		51.32	5.36	0	18
+Bergen op Zoom		51.49	4.29	0	66
+Best		51.51	5.39	0	29
+Boxtel		51.59	5.33	0	30
+Breda		51.59	4.78	0	184
+Cranendonck		51.30	5.59	0	20
+Dongen		51.63	4.94	0	25
+Eersel		51.36	5.32	0	18
+Eindhoven		51.44	5.48	0	236
+Geertruidenberg		51.70	4.86	0	21
+Geldrop		51.42	5.56	0	28
+Gemert		51.56	5.69	0	16
+Goirle		51.52	5.07	0	23
+Helmond		51.48	5.66	0	75
+Hoge Vucht		51.61	4.79	0	16
+Loon op Zand		51.63	5.08	0	23
+Maaspoort		51.73	5.30	0	16
+Nuenen		51.47	5.55	0	23
+Oisterwijk		51.58	5.19	0	26
+Oosterhout		51.65	4.86	0	53
+Oss		51.77	5.52	0	76
+Rijen		51.59	4.92	0	16
+Roosendaal		51.53	4.47	0	78
+Schijndel		51.62	5.43	0	23
+Sint-Oedenrode		51.57	5.46	0	17
+Steenbergen		51.58	4.32	0	24
+Tilburg		51.56	5.09	0	222
+Tongelre		51.45	5.52	0	20
+Uden		51.66	5.62	0	35
+Valkenswaard		51.35	5.46	0	31
+Veghel		51.62	5.55	0	25
+Vught		51.65	5.29	0	25
+Waalwijk		51.68	5.07	0	46
+#r	North Holland
+Aalsmeer		52.26	4.76	0	23
+Alkmaar		52.63	4.75	0	95
+Amstelveen		52.30	4.86	0	80
+Amsterdam		52.37	4.89	0	742
+Amsterdam-Zuidoost		52.31	4.97	0	85
+Assendelft		52.47	4.74	0	24
+Badhoevedorp		52.34	4.79	0	15
+Bergen		52.67	4.70	0	30
+Beverwijk		52.48	4.66	0	38
+Bussum		52.27	5.16	0	31
+Castricum		52.55	4.67	0	35
+Den Helder		52.96	4.76	0	60
+Diemen		52.34	4.96	0	24
+Enkhuizen		52.70	5.29	0	17
+Haarlem		52.38	4.64	0	163
+Heemskerk		52.51	4.67	0	39
+Heemstede		52.35	4.62	0	26
+Heerhugowaard		52.67	4.85	0	48
+Heiloo		52.60	4.69	0	24
+Hilversum		52.22	5.18	0	84
+Hoofddorp		52.30	4.69	0	133
+Hoorn		52.64	5.06	0	69
+Huizen		52.30	5.24	0	41
+IJmuiden		52.46	4.61	0	32
+Julianadorp		52.89	4.74	0	15
+Medemblik		52.77	5.11	0	42
+Naarden		52.30	5.16	0	17
+Purmerend		52.51	4.96	0	80
+Schagen		52.79	4.80	0	20
+Uithoorn		52.24	4.83	0	27
+Velsen-Zuid		52.46	4.65	0	68
+Velserbroek		52.43	4.66	0	15
+Volendam		52.49	5.07	0	22
+Weesp		52.31	5.04	0	18
+Zaandam		52.44	4.83	0	72
+Zaanstad		52.45	4.81	0	140
+Zandvoort		52.37	4.53	0	17
+#r	Overijssel
+Almelo		52.36	6.66	0	73
+Borne		52.30	6.75	0	24
+Dalfsen		52.51	6.26	0	27
+Deventer		52.26	6.16	0	97
+Enschede		52.22	6.90	0	154
+Glanerbrug		52.22	6.97	0	17
+Haaksbergen		52.16	6.74	0	24
+Hardenberg		52.58	6.62	0	58
+Hengelo		52.27	6.79	0	82
+Kampen		52.55	5.91	0	49
+Losser		52.26	7.00	0	22
+Nijverdal		52.36	6.47	0	25
+Oldenzaal		52.31	6.93	0	31
+Raalte		52.39	6.28	0	20
+Rijssen		52.31	6.52	0	28
+Staphorst		52.65	6.21	0	16
+Steenwijk		52.79	6.12	0	17
+Tubbergen		52.41	6.78	0	20
+Wierden		52.36	6.59	0	25
+Zwolle		52.51	6.09	0	130
+#r	South Holland
+'s-Gravenzande		52.00	4.17	0	19
+Alblasserdam		51.87	4.66	0	18
+Alphen aan den Rijn		52.13	4.66	0	70
+Barendrecht		51.86	4.53	0	39
+Benthuizen		52.08	4.54	0	19
+Bergschenhoek		51.99	4.50	0	17
+Berkel en Rodenrijs		51.99	4.48	0	20
+Bodegraven		52.08	4.75	0	19
+Boskoop		52.08	4.66	0	15
+Capelle aan den IJssel		51.93	4.58	0	65
+Delft		52.01	4.36	0	95
+Dordrecht		51.81	4.67	0	119
+Gorinchem		51.84	4.97	0	35
+Gouda		52.02	4.71	0	72
+Groot IJsselmonde		51.88	4.55	0	28
+Hellevoetsluis		51.83	4.13	0	22
+Hendrik-Ido-Ambacht		51.84	4.64	0	21
+Hillegom		52.29	4.58	0	18
+Hoogvliet		51.86	4.36	0	35
+Katwijk aan Zee		52.20	4.40	0	20
+Krimpen aan den IJssel		51.92	4.60	0	29
+Leerdam		51.89	5.09	0	21
+Leiden		52.16	4.49	0	120
+Leiderdorp		52.16	4.53	0	26
+Lisse		52.26	4.56	0	22
+Maassluis		51.92	4.25	0	33
+Merenwijk		52.18	4.51	0	16
+Middelharnis		51.76	4.17	0	18
+Naaldwijk		51.99	4.21	0	18
+Nieuw-Vennep		52.26	4.63	0	31
+Noordwijk-Binnen		52.23	4.44	0	24
+Nootdorp		52.05	4.40	0	19
+Oegstgeest		52.18	4.47	0	21
+Ommoord		51.96	4.55	0	25
+Oud-Beijerland		51.82	4.41	0	24
+Papendrecht		51.83	4.69	0	32
+Pijnacker		52.02	4.43	0	19
+Rhoon		51.86	4.42	0	18
+Ridderkerk		51.87	4.60	0	45
+Rijswijk		52.04	4.33	0	47
+Rotterdam		51.92	4.48	0	868
+Sassenheim		52.23	4.52	0	16
+Scheveningen		52.10	4.28	0	23
+Schiebroek		51.96	4.47	0	16
+Schiedam		51.92	4.39	0	75
+Sliedrecht		51.82	4.78	0	24
+Spijkenisse		51.84	4.33	0	75
+The Hague		52.08	4.30	0	474
+Vlaardingen		51.91	4.34	0	74
+Voorburg		52.07	4.36	0	38
+Voorschoten		52.13	4.45	0	22
+Waddinxveen		52.05	4.65	0	25
+Wassenaar		52.15	4.40	0	25
+Ypenburg		52.04	4.37	0	30
+Zoetermeer		52.06	4.49	0	116
+Zwijndrecht		51.82	4.63	0	46
+#r	Utrecht
+Amersfoort		52.16	5.39	0	140
+Baarn		52.21	5.29	0	25
+Bilthoven		52.13	5.20	0	23
+De Meern		52.08	5.04	0	22
+Driebergen-Rijsenburg		52.05	5.28	0	19
+IJsselstein		52.02	5.04	0	34
+Leidsche Rijn		52.09	5.05	0	49
+Leusden		52.13	5.43	0	29
+Maarssen		52.14	5.04	0	40
+Mijdrecht		52.21	4.86	0	15
+Nieuwegein		52.03	5.08	0	61
+Rhenen		51.96	5.57	0	18
+Soest		52.17	5.29	0	45
+Utrecht		52.09	5.12	0	376
+Veenendaal		52.03	5.56	0	61
+Vianen		51.99	5.09	0	20
+Wijk bij Duurstede		51.97	5.34	0	17
+Woerden		52.09	4.88	0	48
+Zeist		52.09	5.23	0	61
+#r	Zeeland
+Borssele		51.42	3.73	0	22
+Goes		51.50	3.89	0	37
+Middelburg		51.50	3.61	0	46
+Terneuzen		51.34	3.83	0	28
+Vlissingen		51.44	3.57	0	45

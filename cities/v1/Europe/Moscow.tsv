@@ -1,0 +1,739 @@
+#z	Europe/Moscow
+#c	GE
+#r	Abkhazia
+Sokhumi		43.01	40.99	0	65
+#c	RU
+#r	
+Aznakayevo		54.86	53.08	0	35
+Kamenka		53.18	44.05	0	33
+#r	Adygeya
+Enem		44.93	38.91	0	18
+Giaginskaya		44.86	40.07	0	15
+Maykop		44.61	40.10	0	142
+Yablonovskiy		44.99	38.94	0	33
+#r	Arkhangelskaya
+Arkhangel’sk	Arkhangelsk	64.55	40.55	0	350
+Isakogorka		64.45	40.65	0	29
+Koryazhma		61.31	47.15	0	43
+Kotlas		61.26	46.65	0	59
+Mirnyy		62.76	40.34	0	28
+Novodvinsk		64.42	40.82	0	43
+Nyandoma		61.67	40.21	0	22
+Onega		63.91	38.10	0	23
+Severodvinsk		64.56	39.83	0	194
+Vel’sk	Velsk	61.07	42.10	0	23
+Yagry		64.59	39.81	0	40
+#r	Belgorod
+Alexeyevka		50.63	38.69	0	40
+Belgorod		50.60	36.58	0	345
+Chernyanka		50.94	37.82	0	15
+Gorod Shebekino		50.42	36.92	0	40
+Gubkin		51.28	37.54	0	87
+Novy Oskol		50.76	37.86	0	21
+Razumnoye		50.53	36.68	0	16
+Shebekino		50.41	36.93	0	45
+Staryy Oskol		51.30	37.85	0	227
+Stroitel		50.79	36.48	0	19
+Valuyki		50.20	38.12	0	36
+#r	Brjansk
+Bryansk		53.27	34.32	0	427
+Dyat’kovo	Dyatkovo	53.60	34.34	0	25
+Karachev		53.12	34.98	0	20
+Klintsy		52.76	32.24	0	66
+Novozybkov		52.54	31.94	0	43
+Pochep		52.93	33.45	0	15
+Sel’tso	Seltso	53.37	34.10	0	18
+Starodub		52.59	32.76	0	19
+Trubchevsk		52.58	33.77	0	16
+Unecha		52.84	32.69	0	29
+Zhukovka		53.53	33.73	0	20
+#r	Chechnya
+Achkhoy-Martan		43.19	45.28	0	17
+Argun		43.29	45.87	0	28
+Avtury		43.16	46.00	0	18
+Grozny		43.31	45.69	0	297
+Gudermes		43.35	46.10	0	33
+Kurchaloy		43.20	46.09	0	21
+Shali		43.15	45.90	0	25
+Tsotsin-Yurt		43.24	46.00	0	16
+Urus-Martan		43.13	45.54	0	41
+#r	Chuvashia
+Alatyr’	Alatyr	54.84	46.58	0	42
+Cheboksary		56.13	47.25	0	492
+Kanash		55.51	47.49	0	50
+Novocheboksarsk		56.11	47.48	0	128
+Shumerlya		55.50	46.41	0	35
+#r	Dagestan
+Belidzhi		41.89	48.41	0	16
+Buynaksk		42.82	47.13	0	63
+Dagestanskiye Ogni		42.12	48.19	0	28
+Derbent		42.07	48.29	0	106
+Izberbash		42.57	47.88	0	42
+Kaspiysk		42.88	47.64	0	82
+Khasavyurt		43.25	46.59	0	127
+Kizilyurt		43.20	46.87	0	33
+Kizlyar		43.85	46.71	0	51
+Makhachkala		42.98	47.50	0	596
+Semender		42.99	47.40	0	16
+#r	Ingushetiya
+Ekazhevo		43.21	44.82	0	26
+Kantyshevo		43.23	44.63	0	17
+Karabulak		43.31	44.90	0	35
+Malgobek		43.51	44.59	0	43
+Nazran		43.23	44.77	0	164
+Nesterovskaya		43.24	45.05	0	19
+Staryy Malgobek		43.54	44.60	0	46
+Sunzha		43.32	45.05	0	72
+Surkhakhi		43.19	44.90	0	16
+Troitskaya		43.31	44.98	0	24
+#r	Ivanovo
+Furmanov		57.25	41.11	0	38
+Ivanovo		57.00	40.97	0	406
+Kineshma		57.44	42.13	0	93
+Kokhma		56.93	41.09	0	29
+Privolzhsk		57.38	41.29	0	18
+Rodniki		57.11	41.74	0	28
+Shuya		56.85	41.39	0	61
+Teykovo		56.86	40.54	0	36
+Vichuga		57.21	41.93	0	39
+#r	Jaroslavl
+Danilov		58.19	40.17	0	17
+Gavrilov-Yam		57.30	39.85	0	17
+Pereslavl’-Zalesskiy	Pereslavl-Zalesskiy	56.74	38.86	0	40
+Rostov Veliky		57.19	39.41	0	31
+Rybinsk		58.05	38.84	0	217
+Tutayev		57.87	39.53	0	44
+Uglich		57.52	38.32	0	38
+Yaroslavl		57.63	39.87	0	609
+#r	Kabardino-Balkariya
+Baksan		43.68	43.54	0	38
+Chegem		43.57	43.59	0	18
+Dugulubgey		43.66	43.54	0	21
+Nalchik		43.50	43.62	0	239
+Nartkala		43.55	43.85	0	33
+Prokhladnyy		43.76	44.03	0	61
+Terek		43.48	44.14	0	21
+Tyrnyauz		43.38	42.92	0	20
+#r	Kalmykiya
+Elista		46.31	44.26	0	107
+#r	Kaluga
+Balabanovo		55.18	36.66	0	30
+Kaluga		54.53	36.27	0	341
+Kirov		54.07	34.30	0	39
+Kozel’sk	Kozelsk	54.04	35.77	0	20
+Lyudinovo		53.87	34.45	0	41
+Maloyaroslavets		55.01	36.47	0	33
+Obninsk		55.11	36.61	0	107
+Sukhinichi		54.10	35.34	0	16
+#r	Karachayevo-Cherkesiya
+Cherkessk		44.22	42.05	0	122
+Karachayevsk		43.77	41.91	0	20
+Uchkeken		43.95	42.52	0	15
+Ust’-Dzheguta	Ust-Dzheguta	44.08	41.98	0	34
+Zelenchukskaya		43.85	41.59	0	21
+#r	Komi Republic
+Ezhva		61.81	50.73	0	56
+Inta		66.03	60.17	0	32
+Pechora		65.15	57.22	0	46
+Sosnogorsk		63.60	53.89	0	29
+Syktyvkar		61.66	50.82	0	245
+Ukhta		63.57	53.69	0	102
+Usinsk		66.01	57.53	0	44
+Vorgashor		67.58	63.79	0	19
+Vorkuta		67.51	64.07	0	80
+Yemva		62.59	50.86	0	16
+#r	Kostroma
+Buy		58.48	41.54	0	26
+Galich		58.38	42.35	0	19
+Kostroma		57.77	40.93	0	277
+Manturovo		58.33	44.76	0	19
+Nerekhta		57.46	40.57	0	25
+Shar’ya	Sharya	58.37	45.52	0	30
+Volgorechensk		57.44	41.16	0	18
+#r	Krasnodarskiy
+Abinsk		44.87	38.16	0	35
+Adler		43.43	39.92	0	70
+Afipskiy		44.90	38.84	0	18
+Akhtyrskiy		44.85	38.30	0	19
+Anapa		44.89	37.32	0	54
+Apsheronsk		44.46	39.73	0	40
+Armavir		45.00	41.11	0	200
+Belaya Glina		46.08	40.87	0	18
+Belorechensk		44.77	39.87	0	55
+Bryukhovetskaya		45.80	39.00	0	22
+Dagomys		43.67	39.67	0	20
+Dinskaya		45.22	39.23	0	35
+Gelendzhik		44.58	38.07	0	51
+Goryachiy Klyuch		44.63	39.14	0	28
+Gul’kevichi	Gulkevichi	45.35	40.69	0	35
+Il’skiy	Ilskiy	44.84	38.57	0	23
+Kanevskaya		46.10	38.98	0	45
+Khadyzhensk		44.43	39.54	0	22
+Kholmskiy		44.85	38.38	0	17
+Khosta		43.51	39.87	0	20
+Korenovsk		45.47	39.45	0	42
+Krasnoarmeyskaya		45.37	38.21	0	29
+Krasnodar		45.05	38.98	0	900
+Kropotkin		45.44	40.57	0	80
+Krymsk		44.93	37.99	0	58
+Kudepsta		43.50	39.89	0	17
+Kurganinsk		44.88	40.59	0	48
+Kushchyovskaya		46.56	39.63	0	30
+Labinsk		44.64	40.74	0	62
+Lazarevskoye		43.91	39.33	0	30
+Leningradskaya		46.32	39.39	0	39
+Medvedovskaya		45.45	39.02	0	17
+Mostovskoy		44.41	40.79	0	25
+Novokubansk		45.11	41.04	0	36
+Novopokrovskaya		45.96	40.70	0	19
+Novorossiysk		44.73	37.76	0	242
+Novotitarovskaya		45.24	38.98	0	23
+Otradnaya		44.39	41.52	0	23
+Pashkovskiy		45.02	39.10	0	44
+Pavlovskaya		46.14	39.79	0	31
+Primorsko-Akhtarsk		46.05	38.18	0	33
+Severskaya		44.85	38.68	0	23
+Slavyansk-na-Kubani		45.25	38.12	0	65
+Sochi		43.60	39.72	0	328
+Starominskaya		46.53	39.05	0	30
+Staroshcherbinovskaya		46.63	38.66	0	19
+Tbilisskaya		45.36	40.20	0	24
+Temryuk		45.27	37.40	0	37
+Tikhoretsk		45.85	40.12	0	64
+Timashyovsk		45.62	38.95	0	54
+Tuapse		44.10	39.08	0	64
+Ust’-Labinsk	Ust-Labinsk	45.21	39.69	0	44
+Vyselki		45.58	39.66	0	19
+Yelizavetinskaya		45.05	38.79	0	19
+Yeysk		46.69	38.28	0	88
+#r	Kursk
+Kurchatov		51.65	35.69	0	47
+Kursk		51.73	36.18	0	449
+L’govskiy	Lgovskiy	51.63	35.28	0	24
+Ryl’sk	Rylsk	51.57	34.68	0	17
+Shchigry		51.88	36.91	0	19
+Zheleznogorsk		52.34	35.36	0	98
+#r	Leningrad
+Akademicheskoe		60.01	30.39	0	103
+Boksitogorsk		59.48	33.85	0	17
+Chernaya Rechka		59.99	30.30	0	56
+Finlyandskiy		59.97	30.36	0	72
+Gatchina		59.58	30.13	0	90
+Grazhdanka		60.02	30.42	0	71
+Kalininskiy		60.00	30.39	0	505
+Kingisepp		59.38	28.61	0	51
+Kirishi		59.47	32.04	0	56
+Kirovsk		59.88	31.00	0	25
+Kommunar		59.62	30.39	0	17
+Krestovskiy ostrov		59.97	30.26	0	20
+Kudrovo		59.90	30.51	0	30
+Kurortnyy		60.17	29.91	0	71
+Lodeynoye Pole		60.73	33.56	0	22
+Luga		58.74	29.85	0	40
+Nikol’skoye	Nikolskoye	59.70	30.78	0	19
+Otradnoye		59.78	30.82	0	21
+Parnas		60.07	30.35	0	67
+Pikalëvo	Pikalevo	59.52	34.17	0	22
+Podporozh’ye	Podporozhye	60.91	34.16	0	20
+Priozërsk	Priozersk	61.04	30.14	0	18
+Rybatskoye		59.84	30.50	0	55
+Sampsonievskiy		59.98	30.34	0	39
+Sertolovo		60.14	30.20	0	44
+Slantsy		59.12	28.09	0	36
+Sosnovyy Bor		59.90	29.09	0	69
+Svetlanovskiy		60.00	30.33	0	86
+Svetogorsk		61.11	28.86	0	16
+Tikhvin		59.64	33.53	0	62
+Tosno		59.54	30.88	0	40
+Untolovo		60.01	30.21	0	50
+Volkhov		59.92	32.34	0	46
+Vsevolozhsk		60.02	30.67	0	48
+Vyborg		60.71	28.75	0	79
+#r	Lipetsk
+Dankov		53.25	39.14	0	23
+Gryazi		52.50	39.94	0	47
+Lebedyan’	Lebedyan	53.02	39.14	0	23
+Lipetsk		52.59	39.55	0	510
+Usman’	Usman	52.04	39.73	0	20
+Yelets		52.61	38.51	0	116
+#r	Mariy-El
+Koz’modem’yansk	Kozmodemyansk	56.33	46.56	0	23
+Medvedevo		56.63	47.80	0	23
+Volzhsk		55.87	48.36	0	58
+Yoshkar-Ola		56.64	47.89	0	268
+#r	Mordoviya
+Kovylkino		54.04	43.92	0	21
+Ruzayevka		54.06	44.95	0	49
+Saransk		54.18	45.17	0	319
+#r	Moscow
+Altuf’yevskiy	Altufyevskiy	55.88	37.58	0	54
+Amin’yevo	Aminyevo	55.70	37.47	0	30
+Annino		55.58	37.60	0	30
+Babushkin		55.87	37.73	0	86
+Bibirevo		55.88	37.60	0	159
+Biryulëvo	Biryulevo	55.59	37.68	0	144
+Bol’shaya Setun’	Bolshaya Setun	55.72	37.42	0	20
+Brateyevo		55.64	37.76	0	102
+Chertanovo Yuzhnoye		55.59	37.60	0	142
+Davydkovo		55.72	37.47	0	30
+Gol’yanovo	Golyanovo	55.82	37.81	0	158
+Ivanovskoye		55.77	37.83	0	128
+Izmaylovo		55.80	37.78	0	104
+Kapotnya		55.64	37.79	0	30
+Khimki		55.90	37.43	0	240
+Kolomenskoye		55.67	37.68	0	30
+Kotlovka		55.66	37.60	0	64
+Kozeyevo		55.87	37.62	0	50
+Kuntsevo		55.74	37.40	0	147
+Kuskovo		55.74	37.80	0	30
+Kuz’minki	Kuzminki	55.70	37.80	0	143
+Lefortovo		55.77	37.70	0	91
+Leonovo		55.85	37.65	0	30
+Levoberezhnyy		55.86	37.47	0	52
+Lianozovo		55.90	37.59	0	86
+Likhobory		55.85	37.57	0	50
+Luzhniki		55.72	37.55	0	30
+Lyublino		55.68	37.76	0	172
+Mar’ino	Marino	55.65	37.72	0	243
+Matveyevskoye		55.71	37.48	0	30
+Metrogorodok		55.81	37.79	0	50
+Mikhalkovo		55.68	37.43	0	30
+Moscow		55.75	37.62	0	10381
+Nagornyy		55.65	37.62	0	76
+Nikol’skoye	Nikolskoye	55.68	37.48	0	50
+Nikulino		55.67	37.47	0	30
+Novo-Peredelkino		55.65	37.34	0	116
+Novokhovrino		55.87	37.50	0	50
+Novokuz’minki	Novokuzminki	55.72	37.78	0	50
+Novovladykino		55.85	37.58	0	50
+Novyye Cherëmushki	Novyye Cheremushki	55.70	37.58	0	101
+Novyye Kuz’minki	Novyye Kuzminki	55.70	37.75	0	143
+Obruchevo		55.66	37.52	0	86
+Ochakovo-Matveyevskoye		55.68	37.45	0	114
+Orekhovo-Borisovo		55.61	37.73	0	144
+Orekhovo-Borisovo Severnoye		55.62	37.68	0	128
+Ostankinskiy		55.83	37.62	0	60
+Otradnoye		55.87	37.60	0	18
+Pokrovskoye-Streshnëvo	Pokrovskoye-Streshnevo	55.81	37.46	0	55
+Ramenki		55.70	37.50	0	130
+Rostokino		55.83	37.67	0	37
+Rublëvo	Rublevo	55.79	37.35	0	20
+Ryazanskiy		55.73	37.77	0	101
+Setun’	Setun	55.72	37.42	0	20
+Severnyy		55.94	37.55	0	200
+Shchukino		55.80	37.45	0	102
+Slobodka		55.87	37.58	0	20
+Sokol		55.80	37.52	0	57
+Sokol’niki	Sokolniki	55.80	37.67	0	57
+Solntsevo		55.64	37.38	0	120
+Strogino		55.82	37.41	0	152
+Sviblovo		55.85	37.63	0	60
+Taganskiy		55.73	37.67	0	116
+Tekstil’shchiki	Tekstilshchiki	55.70	37.74	0	100
+Troparëvo	Troparevo	55.66	37.48	0	118
+Tsaritsyno		55.63	37.65	0	123
+Tyoply Stan		55.62	37.49	0	125
+Vagonoremont		55.90	37.55	0	50
+Vatutino		55.88	37.69	0	50
+Veshnyaki		55.72	37.82	0	122
+Vorob’yovo	Vorobyovo	55.72	37.53	0	30
+Vykhino-Zhulebino		55.70	37.81	0	216
+Yaroslavskiy		55.88	37.72	0	91
+Yasenevo		55.61	37.52	0	180
+Zagor’ye	Zagorye	55.58	37.67	0	30
+Zamoskvorech’ye	Zamoskvorechye	55.73	37.63	0	55
+Zelenograd		55.98	37.18	0	216
+Zhulebino		55.70	37.85	0	150
+Zyablikovo		55.62	37.77	0	129
+Zyuzino		55.66	37.57	0	121
+#r	Moskovskaya
+Alekseyevka		55.63	37.80	0	78
+Andreyevskoye		55.55	37.93	0	20
+Annino		55.58	37.26	0	30
+Aprelevka		55.55	37.08	0	18
+Balashikha		55.79	37.95	0	150
+Beloozyorskiy		55.46	38.44	0	18
+Biryulëvo Zapadnoye	Biryulevo Zapadnoye	55.59	37.65	0	89
+Bogorodskoye		55.81	37.72	0	103
+Bronnitsy		55.42	38.26	0	19
+Chekhov		55.15	37.46	0	76
+Chernogolovka		56.00	38.36	0	20
+Cherëmushki	Cheremushki	55.66	37.56	0	107
+Dedovsk		55.87	37.12	0	27
+Dmitrov		56.34	37.52	0	62
+Dolgoprudnyy		55.95	37.50	0	68
+Domodedovo		55.44	37.75	0	54
+Dorogomilovo		55.74	37.55	0	68
+Drozhzhino		55.53	37.60	0	32
+Dubna		56.74	37.19	0	61
+Dzerzhinskiy		55.63	37.84	0	41
+Dzerzhinsky		55.63	37.86	0	47
+Elektrogorsk		55.88	38.79	0	21
+Elektrostal’	Elektrostal	55.79	38.46	0	144
+Elektrougli		55.72	38.21	0	20
+Fili		55.75	37.49	0	80
+Fryazevo		55.73	38.46	0	53
+Fryazino		55.96	38.05	0	52
+Golitsyno		55.61	36.98	0	16
+Istra		55.92	36.87	0	33
+Ivanteyevka		55.97	37.92	0	51
+Kabanovo		55.75	38.94	0	23
+Kashira		54.85	38.18	0	40
+Kastanayevo		55.72	37.50	0	20
+Khoroshëvo-Mnevniki	Khoroshevo-Mnevniki	55.78	37.47	0	159
+Khot'kovo		56.26	38.00	0	21
+Klimovsk		55.36	37.53	0	55
+Klin		56.33	36.73	0	81
+Kolomna		55.07	38.78	0	148
+Korolev		55.91	37.83	0	140
+Kotel’niki	Kotelniki	55.65	37.86	0	18
+Kozhukhovo		55.71	37.68	0	50
+Krasnoarmeysk		56.10	38.13	0	26
+Krasnogorsk		55.82	37.33	0	93
+Krasnoznamensk		55.60	37.05	0	34
+Kubinka		55.58	36.70	0	26
+Kurovskoye		55.58	38.92	0	19
+Kur’yanovo	Kuryanovo	55.66	37.70	0	30
+Leninskiye Gory		55.70	37.57	0	30
+Likino-Dulevo		55.71	38.95	0	31
+Lobnya		56.03	37.47	0	62
+Losino-Petrovskiy		55.87	38.19	0	22
+Lukhovitsy		54.98	39.04	0	32
+Lytkarino		55.58	37.91	0	51
+Lyubertsy		55.68	37.89	0	155
+Malakhovka		55.65	38.02	0	18
+Monino		55.84	38.19	0	20
+Moskovskiy		55.60	37.35	0	15
+Mozhaysk		55.50	36.03	0	32
+Mytishchi		55.91	37.73	0	161
+Nakhabino		55.85	37.18	0	32
+Naro-Fominsk		55.39	36.73	0	73
+Noginsk		55.86	38.45	0	116
+Novogireyevo		55.75	37.82	0	95
+Odintsovo		55.67	37.28	0	137
+Orekhovo-Zuyevo		55.81	38.99	0	120
+Ozëry	Ozery	54.86	38.55	0	26
+Pavlovskiy Posad		55.78	38.65	0	60
+Petrovskaya		55.55	37.78	0	30
+Podolsk		55.42	37.55	0	179
+Presnenskiy		55.76	37.56	0	122
+Protvino		54.87	37.22	0	37
+Pushchino		54.83	37.61	0	20
+Pushkino		55.99	37.83	0	103
+Ramenskoye		55.56	38.24	0	96
+Reutov		55.76	37.86	0	78
+Roshal’	Roshal	55.67	39.87	0	22
+Semënovskoye	Semenovskoye	55.68	37.55	0	50
+Sergiyev Posad		56.31	38.14	0	109
+Serpukhov		54.92	37.42	0	128
+Shatura		55.57	39.53	0	30
+Shcherbinka		55.50	37.56	0	28
+Shchyolkovo		55.92	37.97	0	113
+Skhodnya		55.95	37.30	0	19
+Sofrino		56.15	37.93	0	15
+Solnechnogorsk		56.18	36.97	0	59
+Staraya Kupavna		55.81	38.18	0	22
+Stupino		54.90	38.07	0	61
+Tomilino		55.66	37.95	0	28
+Troitsk		55.48	37.31	0	38
+Tuchkovo		55.60	36.47	0	17
+Vidnoye		55.55	37.71	0	52
+Vnukovo		55.61	37.30	0	20
+Volokolamsk		56.03	35.97	0	25
+Voskresensk		55.31	38.69	0	77
+Vostochnoe Degunino		55.88	37.56	0	95
+Vostryakovo		55.67	37.45	0	30
+Vostryakovo		55.40	37.81	0	17
+Yegor’yevsk	Yegoryevsk	55.38	39.04	0	85
+Yubileyny		55.93	37.83	0	33
+Yushkovo		55.56	36.97	0	25
+Zaraysk		54.76	38.88	0	25
+Zarya		55.76	38.10	0	27
+Zavety Il’icha	Zavety Ilicha	56.04	37.85	0	20
+Zheleznodorozhnyy		55.74	38.02	0	142
+Zhukovsky		55.60	38.12	0	97
+Zvenigorod		55.73	36.86	0	16
+gorod Solnetchnogorsk		56.19	36.98	0	62
+#r	Murmansk
+Apatity		67.58	33.41	0	61
+Kandalaksha		67.15	32.41	0	38
+Kirovsk		67.61	33.67	0	30
+Kovdor		67.57	30.48	0	20
+Monchegorsk		67.94	32.87	0	50
+Murmansk		68.97	33.10	0	295
+Nikel		69.41	30.22	0	16
+Olenegorsk		68.14	33.25	0	24
+Polyarnyy		69.20	33.44	0	17
+Polyarnyye Zori		67.37	32.50	0	15
+Severomorsk		69.07	33.41	0	54
+Zapolyarnyy		69.43	30.81	0	18
+#r	Nenetskiy Avtonomnyy Okrug
+Nar'yan-Mar		67.64	53.00	0	18
+#r	Nizjnij Novgorod
+Arzamas		55.40	43.84	0	109
+Bogorodsk		56.10	43.51	0	37
+Bor		56.36	44.07	0	61
+Dzerzhinsk		56.24	43.46	0	233
+Gorodets		56.65	43.47	0	32
+Kstovo		56.15	44.20	0	67
+Kulebaki		55.41	42.53	0	38
+Lyskovo		56.03	45.04	0	24
+Nizhniy Novgorod		56.33	44.00	0	1259
+Novaya Balakhna		56.49	43.60	0	63
+Pavlovo		55.97	43.09	0	63
+Sarov		54.95	43.32	0	88
+Semënov	Semenov	56.79	44.50	0	24
+Sergach		55.53	45.46	0	22
+Shakhun’ya	Shakhunya	57.68	46.61	0	22
+Vyksa		55.32	42.17	0	62
+Zavolzh’ye	Zavolzhye	56.64	43.39	0	43
+#r	North Ossetia
+Alagir		43.04	44.22	0	20
+Ardon		43.18	44.29	0	18
+Beslan		43.19	44.53	0	36
+Mozdok		43.74	44.65	0	41
+Vladikavkaz		43.04	44.67	0	306
+#r	Novgorod
+Borovichi		58.39	33.92	0	57
+Chudovo		59.12	31.68	0	17
+Pestovo		58.59	35.80	0	16
+Staraya Russa		58.00	31.36	0	34
+Valday		57.98	33.25	0	19
+Velikiy Novgorod		58.52	31.27	0	223
+#r	Orjol
+Livny		52.42	37.60	0	47
+Mtsensk		53.28	36.58	0	48
+Orël	Orel	52.97	36.08	0	304
+#r	Penza
+Kuznetsk		53.12	46.60	0	90
+Nikol’sk	Nikolsk	53.72	46.07	0	24
+Nizhniy Lomov		53.53	43.68	0	24
+Penza		53.20	45.01	0	524
+Serdobsk		52.46	44.22	0	37
+Zarechnyy		53.20	45.19	0	64
+Zarechnyy		53.13	46.58	0	62
+#r	Pskov
+Nevel’	Nevel	56.02	29.93	0	18
+Ostrov		57.34	28.35	0	24
+Pskov		57.82	28.33	0	211
+Velikiye Luki		56.34	30.54	0	103
+#r	Republic of Karelia
+Kondopoga		62.20	34.27	0	34
+Kostomuksha		64.57	30.58	0	30
+Medvezh’yegorsk	Medvezhyegorsk	62.91	34.46	0	17
+Petrozavodsk		61.78	34.35	0	279
+Segezha		63.75	34.32	0	33
+Sortavala		61.71	30.71	0	21
+#r	Rjazan
+Kasimov		54.94	41.40	0	35
+Novomichurinsk		54.04	39.75	0	21
+Ryazan’	Ryazan	54.63	39.70	0	539
+Ryazhsk		53.71	40.08	0	22
+Rybnoye		54.73	39.51	0	19
+Sasovo		54.35	41.92	0	30
+Shilovo		54.32	40.88	0	16
+Skopin		53.82	39.55	0	24
+#r	Rostov
+Aksay		47.26	39.87	0	39
+Azov		47.11	39.41	0	82
+Bagayevskaya		47.32	40.38	0	15
+Bataysk		47.14	39.76	0	110
+Belaya Kalitva		48.18	40.78	0	48
+Donetsk		48.34	39.95	0	51
+Gukovo		48.05	39.93	0	66
+Kamensk-Shakhtinsky		48.32	40.26	0	76
+Konstantinovsk		47.58	41.09	0	19
+Krasnyy Sulin		47.89	40.07	0	44
+Millerovo		48.93	40.40	0	39
+Morozovsk		48.35	41.83	0	29
+Novocherkassk		47.42	40.09	0	167
+Novoshakhtinsk		47.76	39.93	0	99
+Orlovskiy		46.87	42.05	0	19
+Persianovka		47.53	39.42	0	16
+Proletarsk		46.70	41.72	0	19
+Rostov-on-Don		47.22	39.71	0	1130
+Sal’sk	Salsk	46.47	41.54	0	61
+Semikarakorsk		47.52	40.81	0	24
+Shakhty		47.72	40.22	0	221
+Taganrog		47.24	38.91	0	279
+Tsimlyansk		47.65	42.09	0	15
+Volgodonsk		47.51	42.15	0	168
+Yegorlykskaya		46.57	40.66	0	18
+Zernograd		46.85	40.31	0	29
+Zimovniki		47.15	42.47	0	18
+Zverevo		48.03	40.12	0	25
+#r	Smolensk
+Desnogorsk		54.15	33.28	0	32
+Gagarin		55.55	35.00	0	29
+Roslavl’	Roslavl	53.95	32.86	0	57
+Safonovo		55.11	33.24	0	46
+Smolensk		54.78	32.05	0	330
+Vyaz’ma	Vyazma	55.21	34.30	0	56
+Yartsevo		55.06	32.70	0	53
+#r	St.-Petersburg
+Admiralteisky		59.92	30.30	0	158
+Avtovo		59.87	30.27	0	45
+Centralniy		59.93	30.36	0	215
+Dachnoye		59.84	30.26	0	73
+Gorelovo		59.77	30.13	0	23
+Kolomyagi		60.02	30.28	0	40
+Kolpino		59.75	30.59	0	139
+Komendantsky aerodrom		60.00	30.28	0	84
+Krasnogvargeisky		59.97	30.48	0	337
+Krasnoye Selo		59.74	30.09	0	44
+Kronstadt		59.99	29.78	0	43
+Kupchino		59.86	30.39	0	54
+Lomonosov		59.91	29.77	0	43
+Metallostroy		59.80	30.55	0	26
+Novaya Derevnya		59.99	30.29	0	20
+Obukhovo		59.84	30.45	0	46
+Ozerki		60.04	30.31	0	95
+Pavlovsk		59.68	30.43	0	16
+Peterhof		59.88	29.90	0	73
+Petrodvorets		59.90	29.80	0	62
+Petrogradka		59.97	30.31	0	130
+Pushkin		59.71	30.40	0	93
+Saint Petersburg		59.94	30.31	0	5352
+Sestroretsk		60.10	29.96	0	37
+Shushary		59.81	30.38	0	16
+Sosnovaya Polyana		59.84	30.15	0	48
+Sosnovka		60.02	30.35	0	66
+Staraya Derevnya		59.99	30.24	0	35
+Uritsk		59.84	30.18	0	55
+Vasyl'evsky Ostrov		59.94	30.25	0	203
+#r	Stavropol'skiy
+Aleksandrovskoye		44.71	43.00	0	28
+Arzgir		45.37	44.22	0	16
+Blagodarnyy		45.10	43.44	0	36
+Budyonnovsk		44.78	44.17	0	68
+Divnoye		45.91	43.35	0	16
+Donskoye		45.45	41.97	0	15
+Georgiyevsk		44.15	43.47	0	73
+Goryachevodskiy		44.02	43.09	0	35
+Inozemtsevo		44.09	43.09	0	29
+Ipatovo		45.72	42.91	0	29
+Izobil’nyy	Izobilnyy	45.37	41.71	0	39
+Kislovodsk		43.91	42.72	0	133
+Kochubeyevskoye		44.64	41.85	0	28
+Krasnogvardeyskoye		45.84	41.52	0	16
+Lermontov		44.11	42.98	0	23
+Mikhaylovsk		45.13	42.03	0	59
+Mineralnye Vody		44.21	43.14	0	76
+Neftekumsk		44.76	44.99	0	28
+Nevinnomyssk		44.63	41.94	0	134
+Nezlobnaya		44.12	43.40	0	18
+Novoaleksandrovsk		45.50	41.23	0	28
+Novopavlovsk		43.96	43.63	0	24
+Pyatigorsk		44.05	43.05	0	143
+Stavropol		45.03	41.96	0	434
+Suvorovskaya		44.19	42.66	0	17
+Svetlograd		45.33	42.86	0	40
+Svobody		44.03	43.05	0	18
+Yessentuki		44.05	42.86	0	81
+Yessentukskaya		44.03	42.87	0	20
+Zelenokumsk		44.41	43.88	0	41
+Zheleznovodsk		44.14	43.00	0	25
+#r	Tambov
+Kirsanov		52.65	42.73	0	18
+Kotovsk		52.59	41.50	0	33
+Michurinsk		52.91	40.48	0	93
+Morshansk		53.44	41.81	0	43
+Rasskazovo		52.66	41.89	0	46
+Tambov		52.74	41.44	0	294
+Uvarovo		51.98	42.26	0	29
+Zherdevka		51.85	41.45	0	16
+#r	Tatarstan
+Agryz		56.52	52.99	0	19
+Al’met’yevsk	Almetyevsk	54.90	52.32	0	140
+Arsk		56.09	49.88	0	17
+Bavly		54.40	53.25	0	23
+Bugulma		54.54	52.80	0	92
+Buinsk		54.97	48.29	0	20
+Chistopol’	Chistopol	55.37	50.64	0	62
+Kazan		55.79	49.12	0	1244
+Kukmor		56.19	50.89	0	17
+Leninogorsk		54.60	52.45	0	66
+Mendeleyevsk		55.90	52.31	0	23
+Menzelinsk		55.73	53.10	0	17
+Naberezhnyye Chelny		55.74	52.42	0	510
+Nizhnekamsk		55.64	51.82	0	234
+Nurlat		54.43	50.81	0	34
+Vasil’yevo	Vasilyevo	55.83	48.72	0	17
+Yelabuga		55.76	52.04	0	73
+Zainsk		55.32	52.07	0	42
+Zelenodolsk		55.84	48.52	0	100
+#r	Tula
+Aleksin		54.50	37.07	0	67
+Belëv	Belev	53.81	36.13	0	15
+Bogoroditsk		53.77	38.12	0	30
+Donskoy		53.97	38.33	0	32
+Kimovsk		53.97	38.54	0	32
+Kireyevsk		53.93	37.92	0	26
+Kosaya Gora		54.12	37.54	0	18
+Novomoskovsk		54.01	38.29	0	131
+Plavsk		53.71	37.29	0	17
+Severo-Zadonsk		54.03	38.40	0	17
+Shchëkino	Shchekino	54.01	37.51	0	61
+Suvorov		54.12	36.50	0	21
+Tula		54.20	37.62	0	483
+Uzlovaya		53.98	38.16	0	58
+Venëv	Venev	54.35	38.26	0	16
+Yasnogorsk		54.48	37.70	0	18
+Yefremov		53.14	38.12	0	45
+#r	Tverskaya
+Bezhetsk		57.78	36.70	0	28
+Bologoye		57.89	34.05	0	25
+Kashin		57.36	37.61	0	17
+Kimry		56.87	37.36	0	52
+Konakovo		56.70	36.77	0	42
+Nelidovo		56.23	32.77	0	25
+Ostashkov		57.15	33.11	0	20
+Rzhev		56.26	34.33	0	62
+Torzhok		57.04	34.96	0	49
+Tver		56.86	35.90	0	420
+Udomlya		57.88	35.01	0	32
+Vyshniy Volochëk	Vyshniy Volochek	57.59	34.57	0	54
+#r	Vladimir
+Aleksandrov		56.40	38.71	0	64
+Gus’-Khrustal’nyy	Gus-Khrustalnyy	55.61	40.65	0	63
+Karabanovo		56.31	38.70	0	16
+Kirzhach		56.15	38.86	0	31
+Kol’chugino	Kolchugino	56.30	39.38	0	46
+Kovrov		56.36	41.32	0	154
+Lakinsk		56.02	39.95	0	17
+Melenki		55.34	41.63	0	16
+Murom		55.57	42.02	0	127
+Petushki		55.93	39.46	0	16
+Pokrov		55.92	39.17	0	16
+Raduzhnyy		56.00	40.34	0	18
+Sobinka		55.99	40.02	0	20
+Strunino		56.37	38.58	0	15
+Vladimir		56.14	40.40	0	357
+Vyazniki		56.24	42.15	0	39
+Yur’yev-Pol’skiy	Yuryev-Polskiy	56.50	39.68	0	20
+#r	Vologda
+Cherepovets		59.13	37.90	0	316
+Gryazovets		58.88	40.25	0	16
+Sheksna		59.21	38.51	0	21
+Sokol		59.46	40.12	0	42
+Velikiy Ustyug		60.76	46.31	0	33
+Vologda		59.22	39.88	0	312
+#r	Voronezj
+Anna		51.49	40.42	0	19
+Bobrov		51.10	40.03	0	21
+Boguchar		49.93	40.55	0	15
+Borisoglebsk		51.37	42.10	0	69
+Buturlinovka		50.83	40.60	0	29
+Gribanovskiy		51.45	41.96	0	17
+Kalach		50.42	41.02	0	20
+Liski		50.98	39.50	0	56
+Novaya Usman’	Novaya Usman	51.64	39.41	0	22
+Novovoronezh		51.32	39.22	0	37
+Ostrogozhsk		50.87	39.08	0	34
+Pavlovsk		50.45	40.12	0	27
+Povorino		51.20	42.25	0	18
+Pridonskoy		51.68	39.07	0	17
+Rossosh’	Rossosh	51.12	38.51	0	64
+Rossosh’	Rossosh	50.20	39.57	0	62
+Semiluki		51.68	39.03	0	26
+Voronezh		51.67	39.19	0	1048

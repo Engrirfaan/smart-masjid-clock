@@ -1,0 +1,161 @@
+#z	Europe/Budapest
+#c	HU
+#r	Bacs-Kiskun
+Baja		46.18	18.95	0	38
+Kalocsa		46.53	18.97	0	18
+Kecskemét	Kecskemet	46.91	19.69	0	110
+Kiskunfélegyháza	Kiskunfelegyhaza	46.71	19.84	0	32
+Kiskunhalas		46.43	19.48	0	29
+Kiskőrös	Kiskoros	46.62	19.29	0	15
+#r	Baranya
+Komló	Komlo	46.19	18.26	0	27
+Mohács	Mohacs	45.99	18.69	0	19
+Pécs	Pecs	46.08	18.23	0	145
+#r	Bekes
+Békés	Bekes	46.77	21.13	0	21
+Békéscsaba	Bekescsaba	46.68	21.10	0	60
+Gyomaendrőd	Gyomaendrod	46.93	20.83	0	15
+Gyula		46.65	21.28	0	32
+Orosháza	Oroshaza	46.57	20.67	0	31
+Szarvas		46.87	20.55	0	18
+#r	Borsod-Abauj-Zemplen
+Diósgyőr	Diosgyor	48.10	20.68	0	18
+Kazincbarcika		48.25	20.63	0	32
+Mezőkövesd	Mezokovesd	47.82	20.58	0	18
+Miskolc		48.10	20.78	0	155
+Sátoraljaújhely	Satoraljaujhely	48.39	21.66	0	18
+Tiszaújváros	Tiszaujvaros	47.93	21.08	0	17
+Ózd	Ozd	48.22	20.30	0	30
+#r	Budapest
+Alsórákos	Alsorakos	47.53	19.12	0	29
+Angyalföld	Angyalfold	47.55	19.08	0	62
+Buda		47.50	19.03	0	510
+Budafok		47.42	19.04	0	27
+Budapest		47.50	19.04	0	1741
+Budapest I. kerület	Budapest I. kerulet	47.50	19.04	0	25
+Budapest II. kerület	Budapest II. kerulet	47.52	19.02	0	89
+Budapest III. kerület	Budapest III. kerulet	47.54	19.05	0	124
+Budapest IV. kerület	Budapest IV. kerulet	47.56	19.09	0	98
+Budapest V. kerület	Budapest V. kerulet	47.50	19.05	0	26
+Budapest VI. kerület	Budapest VI. kerulet	47.50	19.07	0	42
+Budapest VIII. kerület	Budapest VIII. kerulet	47.49	19.07	0	82
+Budapest XI. kerület	Budapest XI. kerulet	47.48	19.04	0	139
+Budapest XII. kerület	Budapest XII. kerulet	47.49	19.01	0	57
+Budapest XIII. kerület	Budapest XIII. kerulet	47.53	19.08	0	114
+Budapest XIX. kerület	Budapest XIX. kerulet	47.45	19.15	0	62
+Budapest XV. kerület	Budapest XV. kerulet	47.56	19.12	0	80
+Budapest XVI. kerület	Budapest XVI. kerulet	47.51	19.17	0	68
+Budapest XVII. kerület	Budapest XVII. kerulet	47.48	19.25	0	78
+Budapest XVIII. kerület	Budapest XVIII. kerulet	47.44	19.18	0	93
+Budapest XX. kerület	Budapest XX. kerulet	47.44	19.10	0	63
+Budapest XXI. kerület	Budapest XXI. kerulet	47.42	19.07	0	76
+Budapest XXII. kerület	Budapest XXII. kerulet	47.43	19.04	0	50
+Budapest XXIII. kerület	Budapest XXIII. kerulet	47.40	19.11	0	20
+Csepel-Csillagtelep		47.41	19.06	0	19
+Csepel-Királyerdő	Csepel-Kiralyerdo	47.40	19.09	0	16
+Erzsébetváros	Erzsebetvaros	47.50	19.07	0	62
+Ferencváros	Ferencvaros	47.48	19.09	0	59
+Józsefváros	Jozsefvaros	47.49	19.07	0	77
+Kelenföld	Kelenfold	47.47	19.03	0	53
+Kispest		47.45	19.14	0	61
+Középső-Ferencváros	Kozepso-Ferencvaros	47.47	19.08	0	34
+Kőbánya	Kobanya	47.48	19.14	0	78
+Lágymányos	Lagymanyos	47.47	19.06	0	20
+Mátyásföld	Matyasfold	47.51	19.21	0	20
+Naphegy		47.49	19.03	0	25
+Pest		47.50	19.08	0	1002
+Pesterzsébet	Pesterzsebet	47.43	19.12	0	36
+Pestlőrinc	Pestlorinc	47.43	19.22	0	59
+Rákoskeresztúr	Rakoskeresztur	47.47	19.26	0	25
+Rákospalota	Rakospalota	47.56	19.12	0	39
+Rákosszentmihály	Rakosszentmihaly	47.52	19.16	0	23
+Sashalom		47.52	19.17	0	15
+Zugló	Zuglo	47.52	19.11	0	130
+Óbuda	Obuda	47.55	19.03	0	34
+Óhegy	Ohegy	47.48	19.15	0	26
+Újlipótváros	Ujlipotvaros	47.52	19.05	0	37
+Újpalota	Ujpalota	47.54	19.14	0	36
+Újpest	Ujpest	47.57	19.08	0	101
+#r	Csongrad
+Csongrád	Csongrad	46.71	20.14	0	19
+Hódmezővásárhely	Hodmezovasarhely	46.42	20.33	0	44
+Makó	Mako	46.22	20.48	0	25
+Szeged		46.25	20.15	0	161
+Szentes		46.66	20.26	0	28
+Újszeged	Ujszeged	46.25	20.17	0	25
+#r	Fejer
+Dunaújváros	Dunaujvaros	46.96	18.94	0	50
+Székesfehérvár	Szekesfehervar	47.19	18.41	0	102
+#r	Gyor-Moson-Sopron
+Győr	Gyor	47.68	17.64	0	129
+Mosonmagyaróvár	Mosonmagyarovar	47.87	17.27	0	30
+Sopron		47.69	16.59	0	62
+#r	Hajdu-Bihar
+Balmazújváros	Balmazujvaros	47.62	21.35	0	18
+Debrecen		47.53	21.62	0	202
+Hajdúböszörmény	Hajduboszormeny	47.67	21.52	0	32
+Hajdúnánás	Hajdunanas	47.85	21.43	0	18
+Hajdúszoboszló	Hajduszoboszlo	47.45	21.40	0	24
+Püspökladány	Puspokladany	47.32	21.12	0	16
+#r	Heves
+Eger		47.90	20.37	0	54
+Gyöngyös	Gyongyos	47.78	19.93	0	33
+Hatvan		47.67	19.68	0	20
+#r	Jasz-Nagykun-Szolnok
+Jászberény	Jaszbereny	47.50	19.92	0	27
+Karcag		47.32	20.93	0	22
+Mezőtúr	Mezotur	47.00	20.63	0	19
+Szolnok		47.18	20.20	0	71
+Törökszentmiklós	Torokszentmiklos	47.18	20.42	0	23
+#r	Komarom-Esztergom
+Esztergom		47.79	18.74	0	29
+Komárom	Komarom	47.74	18.12	0	19
+Oroszlány	Oroszlany	47.49	18.31	0	20
+Tata		47.65	18.32	0	23
+Tatabánya	Tatabanya	47.59	18.38	0	66
+#r	Nograd
+Salgótarján	Salgotarjan	48.10	19.80	0	35
+#r	Pest
+Abony		47.19	20.00	0	16
+Budaörs	Budaors	47.46	18.96	0	25
+Cegléd	Cegled	47.17	19.80	0	39
+Dabas		47.19	19.31	0	17
+Dunaharaszti		47.35	19.10	0	17
+Dunakeszi		47.64	19.14	0	30
+Fót	Fot	47.62	19.19	0	17
+Gyál	Gyal	47.38	19.22	0	22
+Göd	God	47.68	19.13	0	16
+Gödöllő	Godollo	47.60	19.36	0	32
+Monor		47.35	19.45	0	22
+Nagykőrös	Nagykoros	47.03	19.78	0	24
+Szentendre		47.67	19.08	0	24
+Szigetszentmiklós	Szigetszentmiklos	47.34	19.04	0	25
+Százhalombatta	Szazhalombatta	47.33	18.94	0	18
+Vecsés	Vecses	47.41	19.29	0	19
+Veresegyház	Veresegyhaz	47.65	19.30	0	18
+Vác	Vac	47.78	19.14	0	35
+Érd	Erd	47.39	18.91	0	62
+#r	Somogy
+Kaposvár	Kaposvar	46.37	17.80	0	64
+Siófok	Siofok	46.90	18.06	0	23
+#r	Szabolcs-Szatmar-Bereg
+Kisvárda	Kisvarda	48.22	22.08	0	18
+Mátészalka	Mateszalka	47.96	22.32	0	19
+Nyíregyháza	Nyiregyhaza	47.96	21.72	0	118
+#r	Tolna
+Dombóvár	Dombovar	46.38	18.14	0	21
+Paks		46.62	18.86	0	21
+Szekszárd	Szekszard	46.35	18.71	0	34
+#r	Vas
+Szombathely		47.23	16.62	0	78
+Sárvár	Sarvar	47.25	16.94	0	15
+#r	Veszprem
+Ajka		47.10	17.56	0	31
+Pápa	Papa	47.33	17.47	0	33
+Tapolca		46.88	17.44	0	18
+Veszprém	Veszprem	47.09	17.91	0	57
+Várpalota	Varpalota	47.20	18.14	0	21
+#r	Zala
+Keszthely		46.77	17.24	0	20
+Nagykanizsa		46.45	16.99	0	47
+Zalaegerszeg		46.84	16.84	0	62

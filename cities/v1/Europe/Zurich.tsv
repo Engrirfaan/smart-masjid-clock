@@ -1,0 +1,117 @@
+#z	Europe/Zurich
+#c	CH
+#r	Aargau
+Aarau		47.39	8.04	0	22
+Baden		47.47	8.31	0	19
+Wettingen		47.47	8.33	0	18
+#r	Appenzell Ausserrhoden
+Herisau		47.39	9.28	0	16
+#r	Basel-City
+Basel		47.56	7.57	0	178
+Riehen		47.58	7.65	0	20
+#r	Basel-Landschaft
+Allschwil		47.55	7.54	0	18
+Muttenz		47.52	7.65	0	17
+Reinach		47.50	7.59	0	19
+#r	Bern
+Bern		46.95	7.45	0	122
+Biel/Bienne		47.14	7.25	0	55
+Burgdorf		47.06	7.63	0	16
+Köniz	Koniz	46.92	7.41	0	42
+Steffisburg		46.78	7.63	0	16
+Thun		46.75	7.62	0	44
+#r	Fribourg
+Bulle		46.62	7.06	0	23
+Fribourg		46.80	7.15	0	38
+#r	Geneva
+Carouge		46.18	6.14	0	19
+Geneva		46.20	6.15	0	202
+Lancy		46.19	6.11	0	27
+Meyrin		46.23	6.08	0	20
+Onex		46.18	6.10	0	17
+Vernier		46.22	6.08	0	30
+#r	Grisons
+Chur		46.85	9.53	0	35
+#r	Lucerne
+Emmen		47.08	8.27	0	31
+Kriens		47.03	8.29	0	25
+Littau		47.05	8.26	0	16
+Luzern		47.05	8.31	0	82
+#r	Neuchatel
+La Chaux-de-Fonds		47.10	6.83	0	38
+Neuchâtel	Neuchatel	46.99	6.93	0	33
+#r	Saint Gallen
+Gossau		47.42	9.25	0	17
+Jona		47.23	8.84	0	18
+Rapperswil		47.23	8.82	0	35
+Sankt Gallen		47.42	9.37	0	76
+Wil		47.46	9.05	0	24
+#r	Schaffhausen
+Schaffhausen		47.70	8.63	0	37
+#r	Schwyz
+Einsiedeln		47.13	8.75	0	16
+Schwyz		47.02	8.65	0	15
+#r	Solothurn
+Grenchen		47.19	7.40	0	16
+Olten		47.35	7.90	0	18
+Solothurn		47.21	7.54	0	17
+#r	Thurgau
+Frauenfeld		47.56	8.90	0	26
+Kreuzlingen		47.65	9.18	0	22
+#r	Ticino
+Bellinzona		46.19	9.02	0	43
+Locarno		46.17	8.80	0	16
+Lugano		46.01	8.96	0	63
+#r	Valais
+Martigny-Ville		46.10	7.07	0	18
+Monthey		46.25	6.95	0	18
+Sierre		46.29	7.54	0	17
+Sitten		46.23	7.36	0	35
+#r	Vaud
+Lausanne		46.52	6.63	0	139
+Montreux		46.43	6.91	0	26
+Morges		46.51	6.50	0	16
+Nyon		46.38	6.24	0	17
+Pully		46.51	6.66	0	16
+Renens		46.54	6.59	0	21
+Vevey		46.46	6.84	0	20
+Yverdon-les-Bains		46.78	6.64	0	30
+#r	Zug
+Baar		47.20	8.53	0	21
+Cham		47.18	8.46	0	17
+Zug		47.17	8.52	0	31
+#r	Zurich
+Adliswil		47.31	8.52	0	15
+Bülach	Bulach	47.52	8.54	0	20
+Dietikon		47.40	8.40	0	21
+Dübendorf	Dubendorf	47.40	8.62	0	20
+Horgen		47.26	8.60	0	23
+Kloten		47.45	8.58	0	16
+Oberwinterthur (Kreis 2)		47.52	8.77	0	16
+Opfikon		47.43	8.58	0	22
+Seen (Kreis 3)		47.48	8.77	0	15
+Stadt Winterthur (Kreis 1)		47.49	8.72	0	16
+Uster		47.35	8.72	0	35
+Wetzikon		47.33	8.80	0	25
+Winterthur		47.51	8.72	0	112
+Zürich	Zurich	47.37	8.55	0	415
+Zürich (Kreis 10)	Zurich (Kreis 10)	47.41	8.50	0	36
+Zürich (Kreis 10) / Höngg	Zurich (Kreis 10) / Hongg	47.40	8.50	0	17
+Zürich (Kreis 10) / Wipkingen	Zurich (Kreis 10) / Wipkingen	47.40	8.53	0	16
+Zürich (Kreis 11)	Zurich (Kreis 11)	47.42	8.52	0	54
+Zürich (Kreis 11) / Affoltern	Zurich (Kreis 11) / Affoltern	47.42	8.51	0	17
+Zürich (Kreis 11) / Oerlikon	Zurich (Kreis 11) / Oerlikon	47.41	8.54	0	18
+Zürich (Kreis 11) / Seebach	Zurich (Kreis 11) / Seebach	47.42	8.55	0	18
+Zürich (Kreis 12)	Zurich (Kreis 12)	47.40	8.58	0	28
+Zürich (Kreis 2)	Zurich (Kreis 2)	47.34	8.52	0	29
+Zürich (Kreis 2) / Wollishofen	Zurich (Kreis 2) / Wollishofen	47.34	8.53	0	16
+Zürich (Kreis 3)	Zurich (Kreis 3)	47.36	8.50	0	46
+Zürich (Kreis 3) / Sihlfeld	Zurich (Kreis 3) / Sihlfeld	47.37	8.51	0	21
+Zürich (Kreis 4) / Aussersihl	Zurich (Kreis 4) / Aussersihl	47.38	8.52	0	27
+Zürich (Kreis 6)	Zurich (Kreis 6)	47.39	8.54	0	30
+Zürich (Kreis 6) / Unterstrass	Zurich (Kreis 6) / Unterstrass	47.40	8.54	0	20
+Zürich (Kreis 7)	Zurich (Kreis 7)	47.37	8.58	0	34
+Zürich (Kreis 8)	Zurich (Kreis 8)	47.35	8.56	0	16
+Zürich (Kreis 9)	Zurich (Kreis 9)	47.38	8.48	0	45
+Zürich (Kreis 9) / Albisrieden	Zurich (Kreis 9) / Albisrieden	47.37	8.49	0	16
+Zürich (Kreis 9) / Altstetten	Zurich (Kreis 9) / Altstetten	47.39	8.49	0	28

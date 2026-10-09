@@ -1,0 +1,716 @@
+#z	Europe/Paris
+#c	FR
+#r	Alsace
+Bischheim		48.62	7.75	0	17
+Colmar		48.08	7.36	0	65
+Haguenau		48.82	7.79	0	39
+Illkirch-Graffenstaden		48.53	7.72	0	27
+Illzach		47.77	7.35	0	15
+Lingolsheim		48.56	7.68	0	17
+Mulhouse		47.75	7.33	0	111
+Saint-Louis		47.59	7.56	0	21
+Schiltigheim		48.61	7.75	0	32
+Strasbourg		48.58	7.75	0	275
+Sélestat	Selestat	48.26	7.45	0	19
+Wittenheim		47.81	7.33	0	16
+#r	Aquitaine
+Agen		44.20	0.62	0	34
+Anglet		43.49	-1.52	0	41
+Bayonne		43.49	-1.47	0	44
+Bergerac		44.85	0.48	0	28
+Biarritz		43.48	-1.56	0	33
+Blanquefort		44.91	-0.64	0	17
+Bordeaux		44.84	-0.58	0	265
+Bègles	Begles	44.81	-0.55	0	24
+Cenon		44.86	-0.53	0	22
+Cestas		44.74	-0.68	0	18
+Dax		43.71	-1.05	0	22
+Eysines		44.88	-0.65	0	21
+Floirac		44.83	-0.53	0	16
+Gradignan		44.77	-0.61	0	24
+Gujan-Mestras		44.64	-1.07	0	19
+La Teste-de-Buch		44.63	-1.15	0	27
+Le Bouscat		44.86	-0.60	0	24
+Libourne		44.91	-0.24	0	24
+Lormont		44.88	-0.52	0	23
+Marmande		44.50	0.17	0	19
+Mont-de-Marsan		43.89	-0.50	0	36
+Mérignac	Merignac	44.84	-0.65	0	70
+Pau		43.31	-0.36	0	83
+Pessac		44.81	-0.63	0	58
+Périgueux	Perigueux	45.19	0.71	0	35
+Saint-Médard-en-Jalles	Saint-Medard-en-Jalles	44.90	-0.72	0	30
+Talence		44.81	-0.59	0	43
+Villenave-d'Ornon		44.78	-0.57	0	30
+Villeneuve-sur-Lot		44.41	0.70	0	26
+#r	Auvergne
+Aurillac		44.93	2.44	0	35
+Chamalières	Chamalieres	45.77	3.07	0	20
+Clermont-Ferrand		45.78	3.09	0	148
+Cournon-d'Auvergne		45.74	3.20	0	19
+Issoire		45.54	3.25	0	16
+Le Puy-en-Velay		45.04	3.89	0	23
+Montluçon	Montlucon	46.34	2.60	0	45
+Moulins		46.56	3.33	0	23
+Riom		45.89	3.11	0	20
+Vichy		46.13	3.43	0	27
+#r	Bourgogne
+Autun		46.95	4.30	0	18
+Auxerre		47.80	3.57	0	42
+Beaune		47.02	4.84	0	24
+Chalon-sur-Saône	Chalon-sur-Saone	46.78	4.85	0	47
+Chenôve	Chenove	47.29	5.00	0	16
+Dijon		47.31	5.01	0	160
+Le Creusot		46.81	4.42	0	26
+Montceau-les-Mines		46.67	4.37	0	20
+Nevers		46.99	3.16	0	44
+Saint-Leu		46.73	4.50	0	29
+Sens		48.20	3.28	0	29
+#r	Brittany
+Brest		48.39	-4.49	0	145
+Cesson-Sévigné	Cesson-Sevigne	48.12	-1.60	0	16
+Concarneau		47.88	-3.92	0	21
+Douarnenez		48.10	-4.33	0	17
+Fougères	Fougeres	48.35	-1.20	0	24
+Landerneau		48.45	-4.25	0	16
+Lanester		47.76	-3.34	0	24
+Lannion		48.73	-3.46	0	21
+Lorient		47.75	-3.37	0	58
+Morlaix		48.58	-3.83	0	18
+Ploemeur		47.74	-3.43	0	21
+Pontivy		48.07	-2.97	0	17
+Quimper		48.00	-4.10	0	64
+Rennes		48.11	-1.67	0	228
+Saint-Brieuc		48.52	-2.77	0	53
+Saint-Malo		48.65	-2.01	0	51
+Vannes		47.66	-2.76	0	54
+Vitré	Vitre	48.12	-1.21	0	17
+#r	Centre
+Blois		47.59	1.33	0	54
+Bourges		47.08	2.40	0	68
+Chartres		48.45	1.49	0	44
+Châteaudun	Chateaudun	48.07	1.34	0	16
+Châteauroux	Chateauroux	46.81	1.69	0	53
+Dreux		48.74	1.37	0	31
+Fleury-les-Aubrais		47.93	1.92	0	21
+Gien		47.69	2.63	0	16
+Joué-lès-Tours	Joue-les-Tours	47.35	0.67	0	37
+Lucé	Luce	48.44	1.46	0	18
+Montargis		48.00	2.73	0	17
+Olivet		47.86	1.90	0	23
+Orléans	Orleans	47.90	1.90	0	116
+Romorantin-Lanthenay		47.37	1.75	0	20
+Saint-Avertin		47.36	0.74	0	16
+Saint-Cyr-sur-Loire		47.40	0.67	0	17
+Saint-Jean-de-Braye		47.91	1.98	0	20
+Saint-Jean-de-la-Ruelle		47.91	1.86	0	18
+Saint-Pierre-des-Corps		47.39	0.75	0	15
+Saran		47.95	1.88	0	16
+Tours		47.39	0.70	0	142
+Vendôme	Vendome	47.79	1.07	0	19
+Vierzon		47.22	2.07	0	30
+#r	Champagne-Ardenne
+Charleville-Mézières	Charleville-Mezieres	49.77	4.72	0	52
+Chaumont		48.11	5.14	0	29
+Châlons-en-Champagne	Chalons-en-Champagne	48.95	4.37	0	51
+Reims		49.27	4.03	0	197
+Saint-Dizier		48.64	4.95	0	32
+Sedan		49.70	4.94	0	21
+Troyes		48.30	4.09	0	61
+Vitry-le-François	Vitry-le-Francois	48.72	4.58	0	17
+Épernay	Epernay	49.04	3.96	0	27
+#r	Corsica
+Ajaccio		41.92	8.74	0	54
+Bastia		42.70	9.45	0	41
+#r	Franche-Comte
+Audincourt		47.48	6.85	0	16
+Belfort		47.64	6.85	0	55
+Besançon	Besancon	47.25	6.02	0	128
+Dole		47.09	5.49	0	26
+Lons-le-Saunier		46.68	5.56	0	21
+Montbéliard	Montbeliard	47.51	6.80	0	29
+Pontarlier		46.90	6.36	0	20
+Vesoul		47.63	6.14	0	20
+#r	Haute-Normandie
+Canteleu		49.44	1.02	0	16
+Dieppe		49.92	1.08	0	36
+Elbeuf		49.29	1.00	0	17
+Fécamp	Fecamp	49.76	0.37	0	22
+Le Grand-Quevilly		49.40	1.05	0	27
+Le Havre		49.49	0.11	0	186
+Le Petit-Quevilly		49.41	1.06	0	23
+Louviers		49.22	1.17	0	19
+Mont-Saint-Aignan		49.46	1.09	0	23
+Montivilliers		49.55	0.19	0	17
+Rouen		49.44	1.10	0	116
+Saint-Étienne-du-Rouvray	Saint-Etienne-du-Rouvray	49.38	1.10	0	29
+Sotteville-lès-Rouen	Sotteville-les-Rouen	49.41	1.09	0	31
+Vernon		49.09	1.46	0	26
+Évreux	Evreux	49.02	1.15	0	58
+#r	Ile-de-France
+Achères	Acheres	48.96	2.07	0	22
+Alfortville		48.81	2.42	0	37
+Antony		48.75	2.30	0	60
+Arcueil		48.80	2.33	0	17
+Argenteuil		48.95	2.25	0	101
+Asnières-sur-Seine	Asnieres-sur-Seine	48.92	2.28	0	87
+Athis-Mons		48.71	2.39	0	31
+Aubervilliers		48.92	2.38	0	71
+Aulnay-sous-Bois		48.94	2.49	0	81
+Avon		48.40	2.72	0	15
+Bagneux		48.80	2.31	0	39
+Bagnolet		48.87	2.42	0	34
+Bel-Air		48.84	2.40	0	36
+Bezons		48.92	2.21	0	28
+Bobigny		48.91	2.45	0	45
+Bois-Colombes		48.92	2.27	0	24
+Boissy-Saint-Léger	Boissy-Saint-Leger	48.75	2.51	0	16
+Bondy		48.90	2.49	0	48
+Bonneuil-sur-Marne		48.77	2.48	0	19
+Boulogne-Billancourt		48.84	2.24	0	109
+Bourg-la-Reine		48.78	2.32	0	19
+Brie-Comte-Robert		48.69	2.61	0	16
+Brunoy		48.69	2.49	0	24
+Bry-sur-Marne		48.84	2.52	0	16
+Brétigny-sur-Orge	Bretigny-sur-Orge	48.61	2.31	0	24
+Cachan		48.80	2.34	0	27
+Carrières-sous-Poissy	Carrieres-sous-Poissy	48.95	2.04	0	15
+Cergy		49.04	2.08	0	58
+Cergy-Pontoise		49.04	2.08	0	183
+Champigny-sur-Marne		48.82	2.49	0	77
+Champs-sur-Marne		48.85	2.60	0	28
+Charenton-le-Pont		48.82	2.41	0	31
+Chatou		48.89	2.16	0	30
+Chaville		48.81	2.19	0	19
+Chelles		48.88	2.59	0	47
+Chennevières-sur-Marne	Chennevieres-sur-Marne	48.80	2.54	0	18
+Chevilly-Larue		48.76	2.35	0	20
+Chilly-Mazarin		48.71	2.32	0	19
+Choisy-le-Roi		48.77	2.42	0	36
+Châtenay-Malabry	Chatenay-Malabry	48.77	2.27	0	33
+Châtillon	Chatillon	48.80	2.29	0	32
+Clamart		48.80	2.27	0	51
+Clichy		48.90	2.31	0	57
+Clichy-sous-Bois		48.91	2.55	0	29
+Colombes		48.92	2.25	0	82
+Combs-la-Ville		48.66	2.57	0	22
+Conflans-Sainte-Honorine		49.00	2.10	0	36
+Corbeil-Essonnes		48.61	2.49	0	41
+Cormeilles-en-Parisis		48.97	2.20	0	22
+Coulommiers		48.81	3.08	0	15
+Courbevoie		48.90	2.26	0	85
+Croulebarbe		48.81	2.35	0	20
+Créteil	Creteil	48.79	2.47	0	85
+Dammarie-les-Lys		48.52	2.65	0	21
+Deuil-la-Barre		48.98	2.33	0	22
+Domont		49.03	2.33	0	17
+Drancy		48.93	2.45	0	62
+Draveil		48.68	2.41	0	29
+Eaubonne		49.00	2.28	0	24
+Ermont		48.99	2.26	0	28
+Folie Méricourt	Folie Mericourt	48.87	2.37	0	31
+Fontainebleau		48.41	2.70	0	20
+Fontenay-aux-Roses		48.79	2.29	0	25
+Fontenay-sous-Bois		48.85	2.48	0	52
+Franconville		48.98	2.23	0	34
+Fresnes		48.76	2.32	0	25
+Gagny		48.88	2.53	0	38
+Garches		48.84	2.18	0	19
+Gare		48.83	2.38	0	76
+Garges-lès-Gonesse	Garges-les-Gonesse	48.97	2.40	0	40
+Gennevilliers		48.93	2.30	0	42
+Gentilly		48.81	2.34	0	16
+Gif-sur-Yvette		48.68	2.13	0	24
+Gonesse		48.99	2.45	0	27
+Goussainville		49.01	2.47	0	30
+Grigny		48.65	2.39	0	25
+Guyancourt		48.77	2.07	0	32
+Herblay-sur-Seine		48.99	2.17	0	25
+Houilles		48.92	2.19	0	31
+Hôpital Saint-Louis	Hopital Saint-Louis	48.88	2.37	0	27
+Issy-les-Moulineaux		48.82	2.28	0	61
+Ivry-sur-Seine		48.82	2.38	0	58
+Joinville-le-Pont		48.83	2.47	0	18
+Jouy-le-Moutier		49.01	2.04	0	19
+L'Haÿ-les-Roses	L'Hay-les-Roses	48.78	2.34	0	30
+La Celle-Saint-Cloud		48.85	2.15	0	22
+La Courneuve		48.93	2.40	0	37
+La Defense		48.89	2.24	0	20
+La Garenne-Colombes		48.90	2.25	0	26
+Lagny-sur-Marne		48.87	2.72	0	21
+Le Blanc-Mesnil		48.94	2.46	0	48
+Le Chesnay		48.82	2.12	0	29
+Le Kremlin-Bicêtre	Le Kremlin-Bicetre	48.81	2.36	0	28
+Le Mée-sur-Seine	Le Mee-sur-Seine	48.53	2.63	0	22
+Le Pecq		48.89	2.10	0	17
+Le Perreux-sur-Marne		48.85	2.50	0	32
+Le Plessis-Robinson		48.79	2.27	0	23
+Le Plessis-Trévise	Le Plessis-Trevise	48.81	2.57	0	19
+Le Pré-Saint-Gervais	Le Pre-Saint-Gervais	48.89	2.40	0	18
+Le Vésinet	Le Vesinet	48.89	2.13	0	17
+Les Clayes-sous-Bois		48.82	1.99	0	18
+Les Lilas		48.88	2.42	0	21
+Les Mureaux		48.99	1.91	0	32
+Les Pavillons-sous-Bois		48.91	2.51	0	20
+Les Ulis		48.68	2.17	0	26
+Levallois-Perret		48.89	2.29	0	62
+Limay		49.00	1.74	0	19
+Limeil-Brévannes	Limeil-Brevannes	48.74	2.49	0	19
+Livry-Gargan		48.92	2.54	0	40
+Lognes		48.84	2.63	0	16
+Longjumeau		48.69	2.29	0	21
+Maison Blanche		48.83	2.35	0	64
+Maisons-Alfort		48.81	2.44	0	54
+Maisons-Laffitte		48.95	2.15	0	23
+Malakoff		48.82	2.30	0	29
+Mantes-la-Jolie		48.99	1.72	0	44
+Mantes-la-Ville		48.97	1.70	0	20
+Marly-le-Roi		48.87	2.08	0	17
+Marne La Vallée	Marne La Vallee	48.84	2.64	0	318
+Massy		48.73	2.28	0	39
+Maurepas		48.76	1.93	0	19
+Meaux		48.96	2.88	0	54
+Melun		48.55	2.65	0	39
+Meudon		48.81	2.23	0	45
+Mitry-Mory		48.98	2.62	0	19
+Moissy-Cramayel		48.63	2.60	0	16
+Montereau-Fault-Yonne		48.38	2.95	0	17
+Montesson		48.91	2.14	0	15
+Montfermeil		48.90	2.58	0	24
+Montgeron		48.71	2.45	0	23
+Montigny-le-Bretonneux		48.77	2.03	0	39
+Montigny-lès-Cormeilles	Montigny-les-Cormeilles	48.98	2.20	0	18
+Montmorency		48.99	2.34	0	21
+Montreuil		48.86	2.44	0	111
+Montrouge		48.82	2.31	0	39
+Morsang-sur-Orge		48.66	2.35	0	20
+Nanterre		48.89	2.21	0	87
+Neuilly-Plaisance		48.86	2.51	0	19
+Neuilly-sur-Marne		48.85	2.55	0	34
+Neuilly-sur-Seine		48.88	2.27	0	61
+Nogent-sur-Marne		48.84	2.48	0	31
+Noisiel		48.85	2.62	0	15
+Noisy-le-Grand		48.85	2.56	0	62
+Noisy-le-Sec		48.89	2.46	0	39
+Orly		48.75	2.39	0	21
+Orsay		48.70	2.19	0	18
+Osny		49.07	2.06	0	17
+Ozoir-la-Ferrière	Ozoir-la-Ferriere	48.77	2.67	0	23
+Palaiseau		48.72	2.25	0	32
+Pantin		48.89	2.41	0	53
+Paris		48.85	2.35	0	2139
+Paris 01 Louvre		48.86	2.34	0	15
+Paris 02 Bourse		48.87	2.34	0	20
+Paris 03 Temple		48.86	2.36	0	32
+Paris 04 Hôtel-de-Ville	Paris 04 Hotel-de-Ville	48.86	2.35	0	27
+Paris 05 Panthéon	Paris 05 Pantheon	48.84	2.35	0	55
+Paris 06 Luxembourg		48.85	2.33	0	40
+Paris 07 Palais-Bourbon		48.86	2.32	0	48
+Paris 08 Élysée	Paris 08 Elysee	48.88	2.32	0	35
+Paris 09 Opéra	Paris 09 Opera	48.87	2.34	0	57
+Paris 10 Entrepôt	Paris 10 Entrepot	48.87	2.36	0	84
+Paris 10e Arrondissement		48.88	2.36	0	83
+Paris 11 Popincourt		48.86	2.38	0	138
+Paris 11e Arrondissement		48.86	2.38	0	144
+Paris 12 Reuilly		48.84	2.39	0	138
+Paris 12e Arrondissement		48.84	2.44	0	140
+Paris 13 Gobelins		48.83	2.36	0	181
+Paris 13e Arrondissement		48.83	2.36	0	178
+Paris 14 Observatoire		48.83	2.33	0	136
+Paris 15 Vaugirard		48.84	2.30	0	230
+Paris 16 Passy		48.86	2.28	0	159
+Paris 17 Batignolles-Monceau		48.88	2.32	0	159
+Paris 18 Buttes-Montmartre		48.89	2.34	0	183
+Paris 19 Buttes-Chaumont		48.88	2.38	0	179
+Paris 20 Ménilmontant	Paris 20 Menilmontant	48.86	2.40	0	185
+Picpus		48.84	2.40	0	62
+Pierrefitte-sur-Seine		48.97	2.36	0	28
+Plaisir		48.82	1.95	0	36
+Poissy		48.93	2.05	0	36
+Pontault-Combault		48.80	2.61	0	35
+Pontoise		49.05	2.10	0	30
+Porte Saint-Denis		48.87	2.35	0	15
+Porte Saint-Martin		48.87	2.36	0	21
+Puteaux		48.88	2.24	0	41
+Quinze-Vingts		48.85	2.37	0	26
+Rambouillet		48.64	1.83	0	27
+Ris-Orangis		48.65	2.41	0	25
+Roissy-en-Brie		48.79	2.65	0	21
+Romainville		48.89	2.43	0	25
+Roquette		48.86	2.38	0	46
+Rosny-sous-Bois		48.87	2.50	0	42
+Rueil-Malmaison		48.88	2.19	0	77
+Saint-Ambroise		48.86	2.38	0	31
+Saint-Cloud		48.85	2.20	0	29
+Saint-Cyr-l'École	Saint-Cyr-l'Ecole	48.80	2.07	0	16
+Saint-Denis		48.94	2.35	0	96
+Saint-Germain-en-Laye		48.90	2.09	0	41
+Saint-Gratien		48.97	2.29	0	20
+Saint-Leu-la-Forêt	Saint-Leu-la-Foret	49.02	2.25	0	16
+Saint-Mandé	Saint-Mande	48.84	2.42	0	21
+Saint-Maur-des-Fossés	Saint-Maur-des-Fosses	48.79	2.49	0	75
+Saint-Michel-sur-Orge		48.63	2.31	0	21
+Saint-Ouen		48.91	2.33	0	39
+Saint-Ouen-l'Aumône	Saint-Ouen-l'Aumone	49.04	2.12	0	23
+Saint-Quentin-en-Yvelines		48.77	2.02	0	147
+Saint-Vincent de Paul		48.88	2.36	0	20
+Sainte-Geneviève-des-Bois	Sainte-Genevieve-des-Bois	48.65	2.32	0	34
+Sainte-Marguerite		48.85	2.39	0	36
+Salpêtrière	Salpetriere	48.84	2.36	0	18
+Sannois		48.97	2.25	0	27
+Sarcelles		49.00	2.38	0	58
+Sartrouville		48.95	2.19	0	54
+Savigny-le-Temple		48.57	2.58	0	26
+Savigny-sur-Orge		48.68	2.35	0	40
+Sceaux		48.78	2.29	0	22
+Sevran		48.94	2.53	0	47
+Soisy-sous-Montmorency		48.99	2.30	0	17
+Stains		48.95	2.38	0	33
+Sucy-en-Brie		48.77	2.53	0	25
+Suresnes		48.87	2.23	0	45
+Sèvres	Sevres	48.82	2.22	0	24
+Taverny		49.03	2.22	0	27
+Thiais		48.76	2.40	0	30
+Torcy		48.85	2.65	0	24
+Trappes		48.77	2.02	0	28
+Tremblay-en-France		48.95	2.57	0	36
+Vanves		48.82	2.29	0	26
+Vauréal	Vaureal	49.03	2.03	0	21
+Verneuil-sur-Seine		48.97	1.96	0	17
+Verrières-le-Buisson	Verrieres-le-Buisson	48.75	2.27	0	17
+Versailles		48.80	2.13	0	85
+Vigneux-sur-Seine		48.70	2.41	0	27
+Villejuif		48.79	2.36	0	48
+Villemomble		48.88	2.50	0	28
+Villeneuve-Saint-Georges		48.73	2.45	0	31
+Villeneuve-la-Garenne		48.94	2.31	0	22
+Villeneuve-le-Roi		48.74	2.40	0	18
+Villeparisis		48.94	2.61	0	24
+Villepinte		48.96	2.53	0	37
+Villiers-le-Bel		49.01	2.40	0	27
+Villiers-sur-Marne		48.83	2.55	0	30
+Vincennes		48.85	2.44	0	46
+Viroflay		48.80	2.16	0	16
+Viry-Châtillon	Viry-Chatillon	48.67	2.39	0	31
+Vitry-sur-Seine		48.79	2.40	0	81
+Vélizy-Villacoublay	Velizy-Villacoublay	48.78	2.19	0	22
+Yerres		48.72	2.49	0	29
+Élancourt	Elancourt	48.78	1.96	0	31
+Épinay-sur-Seine	Epinay-sur-Seine	48.95	2.32	0	46
+Éragny	Eragny	49.02	2.10	0	15
+Étampes	Etampes	48.44	2.16	0	23
+Évry	Evry	48.63	2.44	0	52
+#r	Languedoc-Roussillon
+Agde		43.31	3.48	0	23
+Alès	Ales	44.12	4.08	0	42
+Bagnols-sur-Cèze	Bagnols-sur-Ceze	44.16	4.62	0	20
+Béziers	Beziers	43.34	3.21	0	74
+Carcassonne		43.22	2.35	0	50
+Castelnau-le-Lez		43.64	3.90	0	18
+Frontignan		43.45	3.76	0	22
+Lattes		43.57	3.90	0	17
+Lunel		43.68	4.14	0	27
+Mauguio		43.62	4.01	0	18
+Montpellier		43.61	3.88	0	248
+Narbonne		43.18	3.00	0	51
+Nîmes	Nimes	43.84	4.36	0	148
+Perpignan		42.70	2.90	0	111
+Sète	Sete	43.40	3.69	0	41
+#r	Limousin
+Brive-la-Gaillarde		45.16	1.53	0	53
+Guéret	Gueret	46.17	1.87	0	16
+Limoges		45.83	1.25	0	141
+Tulle		45.27	1.77	0	17
+#r	Lorraine
+Bar-le-Duc		48.77	5.16	0	19
+Forbach		49.19	6.89	0	21
+Hayange		49.33	6.06	0	16
+Laxou		48.68	6.15	0	16
+Lunéville	Luneville	48.59	6.49	0	22
+Metz		49.12	6.17	0	124
+Montigny-lès-Metz	Montigny-les-Metz	49.10	6.15	0	26
+Nancy		48.68	6.18	0	105
+Pont-à-Mousson	Pont-a-Mousson	48.91	6.06	0	15
+Saint-Avold		49.10	6.70	0	18
+Saint-Dié-des-Vosges	Saint-Die-des-Vosges	48.28	6.95	0	25
+Sarreguemines		49.11	7.07	0	24
+Thionville		49.36	6.16	0	44
+Toul		48.68	5.89	0	18
+Vandœuvre-lès-Nancy	Vanduvre-les-Nancy	48.66	6.17	0	32
+Verdun		49.16	5.38	0	22
+Villers-lès-Nancy	Villers-les-Nancy	48.67	6.15	0	16
+Yutz		49.36	6.19	0	16
+Épinal	Epinal	48.18	6.45	0	40
+#r	Lower Normandy
+Alençon	Alencon	48.43	0.09	0	31
+Argentan		48.74	-0.02	0	18
+Bayeux		49.28	-0.70	0	16
+Caen		49.19	-0.36	0	111
+Cherbourg		49.64	-1.62	0	27
+Flers		48.74	-0.57	0	17
+Hérouville-Saint-Clair	Herouville-Saint-Clair	49.21	-0.31	0	24
+Lisieux		49.15	0.23	0	24
+Octeville		49.63	-1.64	0	17
+Saint-Lô	Saint-Lo	49.12	-1.09	0	22
+Tourlaville		49.64	-1.57	0	18
+Équeurdreville-Hainneville	Equeurdreville-Hainneville	49.65	-1.65	0	19
+#r	Midi-Pyrenees
+Albi		43.93	2.15	0	52
+Auch		43.65	0.59	0	24
+Balma		43.61	1.50	0	16
+Blagnac		43.64	1.39	0	24
+Cahors		44.45	1.44	0	23
+Castres		43.61	2.24	0	47
+Colomiers		43.61	1.33	0	31
+Cugnaux		43.54	1.34	0	15
+Lourdes		43.09	-0.05	0	16
+Millau		44.10	3.08	0	23
+Montauban		44.02	1.35	0	52
+Muret		43.46	1.33	0	24
+Pamiers		43.12	1.61	0	17
+Plaisance-du-Touch		43.57	1.30	0	19
+Rodez		44.35	2.57	0	28
+Tarbes		43.23	0.07	0	52
+Toulouse		43.60	1.44	0	512
+Tournefeuille		43.59	1.32	0	29
+#r	Nord-Pas-de-Calais
+Armentières	Armentieres	50.69	2.88	0	27
+Arras		50.29	2.78	0	47
+Avion		50.41	2.83	0	18
+Berck		50.40	1.60	0	16
+Berck-Plage		50.41	1.56	0	16
+Boulogne-sur-Mer		50.72	1.61	0	47
+Bruay-la-Buissière	Bruay-la-Buissiere	50.48	2.55	0	24
+Béthune	Bethune	50.53	2.64	0	32
+Calais		50.95	1.86	0	74
+Cambrai		50.18	3.23	0	36
+Carvin		50.49	2.96	0	19
+Coudekerque-Branche		51.02	2.39	0	25
+Croix		50.68	3.15	0	21
+Denain		50.33	3.39	0	21
+Douai		50.37	3.08	0	47
+Dunkirk		51.03	2.38	0	86
+Faches-Thumesnil		50.58	3.07	0	16
+Grande-Synthe		51.02	2.30	0	23
+Halluin		50.79	3.13	0	20
+Haubourdin		50.61	2.99	0	16
+Hautmont		50.25	3.92	0	16
+Hazebrouck		50.72	2.54	0	23
+Hem		50.65	3.19	0	20
+Hénin-Beaumont	Henin-Beaumont	50.41	2.96	0	25
+La Madeleine		50.65	3.08	0	24
+Lambersart		50.65	3.03	0	29
+Lens		50.43	2.83	0	38
+Lille		50.63	3.06	0	239
+Liévin	Lievin	50.42	2.78	0	34
+Lomme		50.64	2.99	0	30
+Loos		50.61	3.02	0	22
+Marcq-en-Barœul	Marcq-en-Barul	50.67	3.08	0	39
+Maubeuge		50.28	3.97	0	34
+Mons-en-Barœul	Mons-en-Barul	50.63	3.12	0	23
+Outreau		50.71	1.59	0	16
+Ronchin		50.60	3.09	0	18
+Roubaix		50.69	3.17	0	100
+Saint-Amand-les-Eaux		50.45	3.43	0	18
+Saint-Omer		50.75	2.26	0	18
+Saint-Pol-sur-Mer		51.03	2.34	0	24
+Sin-le-Noble		50.36	3.13	0	18
+Tourcoing		50.72	3.16	0	99
+Valenciennes		50.36	3.53	0	45
+Villeneuve-d'Ascq		50.62	3.17	0	62
+Wasquehal		50.67	3.13	0	19
+Wattrelos		50.70	3.22	0	43
+#r	Pays de la Loire
+Angers		47.47	-0.55	0	168
+Bouguenais		47.18	-1.62	0	17
+Carquefou		47.30	-1.49	0	18
+Challans		46.85	-1.88	0	19
+Cholet		47.06	-0.88	0	53
+Couëron	Coueron	47.21	-1.72	0	19
+Fontenay-le-Comte		46.47	-0.81	0	16
+Guérande	Guerande	47.33	-2.43	0	17
+La Baule-Escoublac		47.29	-2.36	0	18
+La Chapelle-sur-Erdre		47.30	-1.55	0	18
+La Flèche	La Fleche	47.70	-0.08	0	19
+La Roche-sur-Yon		46.67	-1.43	0	59
+Laval		48.07	-0.77	0	50
+Le Mans		48.00	0.20	0	145
+Les Herbiers		46.87	-1.02	0	16
+Les Sables-d'Olonne		46.50	-1.78	0	16
+Mayenne		48.30	-0.61	0	16
+Nantes		47.22	-1.55	0	325
+Orvault		47.27	-1.62	0	25
+Rezé	Reze	47.19	-1.57	0	39
+Saint-Herblain		47.21	-1.65	0	47
+Saint-Nazaire		47.28	-2.22	0	67
+Saint-Sébastien-sur-Loire	Saint-Sebastien-sur-Loire	47.21	-1.50	0	29
+Saumur		47.26	-0.08	0	33
+Vertou		47.17	-1.47	0	23
+#r	Picardie
+Abbeville		50.11	1.84	0	26
+Amiens		49.90	2.30	0	143
+Beauvais		49.43	2.08	0	53
+Château-Thierry	Chateau-Thierry	49.05	3.40	0	16
+Compiègne	Compiegne	49.42	2.83	0	44
+Creil		49.26	2.48	0	32
+Crépy-en-Valois	Crepy-en-Valois	49.23	2.89	0	16
+Laon		49.56	3.63	0	29
+Nogent-sur-Oise		49.27	2.47	0	20
+Noyon		49.58	3.00	0	15
+Saint-Quentin		49.85	3.29	0	55
+Senlis		49.21	2.59	0	19
+Soissons		49.38	3.32	0	31
+Tergnier		49.66	3.30	0	15
+#r	Poitou-Charentes
+Angoulême	Angouleme	45.65	0.15	0	49
+Bressuire		46.84	-0.49	0	21
+Châtellerault	Chatellerault	46.82	0.55	0	37
+Cognac		45.70	-0.33	0	21
+La Rochelle		46.16	-1.15	0	77
+Niort		46.32	-0.46	0	55
+Poitiers		46.58	0.34	0	86
+Rochefort		45.94	-0.97	0	29
+Royan		45.63	-1.03	0	19
+Saintes		45.75	-0.63	0	30
+#r	Provence-Alpes-Cote d'Azur
+Aix-en-Provence		43.53	5.45	0	147
+Allauch		43.34	5.48	0	21
+Antibes		43.58	7.12	0	76
+Arles		43.68	4.63	0	53
+Aubagne		43.29	5.57	0	45
+Avignon		43.95	4.81	0	90
+Brignoles		43.41	6.06	0	15
+Cagnes-sur-Mer		43.66	7.15	0	47
+Cannes		43.55	7.01	0	75
+Carpentras		44.06	5.05	0	30
+Cavaillon		43.83	5.04	0	27
+Digne-les-Bains		44.09	6.23	0	19
+Draguignan		43.54	6.46	0	39
+Fos-sur-Mer		43.44	4.94	0	17
+Fréjus	Frejus	43.43	6.74	0	53
+Gap		44.56	6.08	0	43
+Gardanne		43.45	5.47	0	21
+Grasse		43.66	6.93	0	48
+Hyères	Hyeres	43.12	6.13	0	50
+Istres		43.51	4.99	0	44
+Juan-les-Pins		43.57	7.11	0	60
+L'Isle-sur-la-Sorgue		43.92	5.05	0	17
+La Blancarde		43.30	5.41	0	15
+La Ciotat		43.17	5.60	0	33
+La Crau		43.15	6.07	0	18
+La Garde		43.12	6.01	0	28
+La Pomme		43.29	5.44	0	18
+La Seyne-sur-Mer		43.10	5.88	0	62
+La Valette-du-Var		43.14	5.98	0	23
+Le Camas		43.29	5.39	0	17
+Le Cannet		43.58	7.02	0	43
+Le Pontet		43.96	4.86	0	16
+Les Moulins		43.68	7.20	0	15
+Les Olives		43.32	5.46	0	15
+Les Pennes-Mirabeau		43.41	5.31	0	20
+Mandelieu-la-Napoule		43.55	6.94	0	19
+Manosque		43.83	5.79	0	21
+Marignane		43.42	5.21	0	36
+Marseille		43.30	5.38	0	877
+Marseille 01		43.30	5.38	0	41
+Marseille 02		43.30	5.37	0	26
+Marseille 03		43.30	5.38	0	45
+Marseille 04		43.30	5.40	0	47
+Marseille 05		43.30	5.40	0	45
+Marseille 06		43.29	5.38	0	43
+Marseille 07		43.28	5.36	0	36
+Marseille 08		43.27	5.38	0	79
+Marseille 09		43.25	5.41	0	77
+Marseille 10		43.28	5.42	0	51
+Marseille 11		43.29	5.44	0	57
+Marseille 12		43.30	5.44	0	59
+Marseille 13		43.32	5.41	0	89
+Marseille 14		43.34	5.38	0	62
+Marseille 15		43.37	5.35	0	78
+Marseille 16		43.36	5.33	0	18
+Martigues		43.41	5.06	0	46
+Mazargues		43.25	5.40	0	18
+Menton		43.78	7.50	0	30
+Miramas		43.59	5.00	0	24
+Mougins		43.60	7.00	0	19
+Nice		43.70	7.27	0	343
+Orange		44.14	4.81	0	31
+Pertuis		43.69	5.50	0	20
+Plaine du Var		43.68	7.20	0	21
+Port-de-Bouc		43.41	4.98	0	16
+Saint-Barthélémy	Saint-Barthelemy	43.33	5.40	0	19
+Saint-Laurent-du-Var		43.67	7.19	0	30
+Saint-Loup		43.28	5.43	0	16
+Saint-Maximin-la-Sainte-Baume		43.45	5.86	0	15
+Saint-Raphaël	Saint-Raphael	43.42	6.77	0	35
+Saint-Roch		43.71	7.29	0	19
+Sainte-Marguerite		43.26	5.40	0	20
+Salon-de-Provence		43.64	5.09	0	41
+Sanary-sur-Mer		43.12	5.80	0	19
+Six-Fours-les-Plages		43.09	5.82	0	35
+Sorgues		44.01	4.87	0	19
+Toulon		43.12	5.93	0	169
+Vallauris		43.58	7.05	0	27
+Vence		43.72	7.11	0	19
+Vitrolles		43.46	5.25	0	39
+#r	Rhone-Alpes
+Aix-les-Bains		45.69	5.91	0	28
+Albertville		45.67	6.39	0	19
+Annecy		45.91	6.13	0	49
+Annecy-le-Vieux		45.92	6.14	0	22
+Annemasse		46.19	6.24	0	28
+Annonay		45.24	4.67	0	18
+Bourg-en-Bresse		46.21	5.23	0	45
+Bourg-lès-Valence	Bourg-les-Valence	44.95	4.89	0	20
+Bron		45.74	4.91	0	38
+Caluire-et-Cuire		45.79	4.85	0	43
+Chambéry	Chambery	45.57	5.92	0	62
+Cluses		46.06	6.57	0	20
+Cran-Gevrier		45.90	6.10	0	19
+Décines-Charpieu	Decines-Charpieu	45.77	4.96	0	25
+Firminy		45.39	4.29	0	18
+Fontaine		45.19	5.69	0	25
+Givors		45.59	4.77	0	18
+Grenoble		45.18	5.71	0	159
+Lyon		45.75	4.85	0	521
+Lyon 01		45.77	4.83	0	30
+Lyon 02		45.75	4.83	0	31
+Lyon 03		45.76	4.85	0	103
+Lyon 04		45.78	4.83	0	36
+Lyon 05		45.76	4.83	0	50
+Lyon 06		45.77	4.85	0	53
+Lyon 07		45.75	4.84	0	83
+Lyon 08		45.74	4.87	0	86
+Lyon 09		45.77	4.80	0	52
+Meylan		45.21	5.78	0	20
+Meyzieu		45.77	5.00	0	29
+Montbrison		45.61	4.07	0	16
+Montélimar	Montelimar	44.55	4.75	0	36
+Mâcon	Macon	46.31	4.83	0	35
+Oullins		45.71	4.81	0	26
+Oyonnax		46.26	5.66	0	26
+Rillieux-la-Pape		45.82	4.90	0	28
+Roanne		46.04	4.07	0	40
+Romans-sur-Isère	Romans-sur-Isere	45.05	5.07	0	35
+Saint-Chamond		45.48	4.51	0	38
+Saint-Fons		45.71	4.85	0	16
+Saint-Genis-Laval		45.70	4.79	0	21
+Saint-Martin-d'Hères	Saint-Martin-d'Heres	45.18	5.76	0	36
+Saint-Priest		45.70	4.94	0	42
+Saint-Égrève	Saint-Egreve	45.23	5.68	0	16
+Saint-Étienne	Saint-Etienne	45.43	4.39	0	176
+Sainte-Foy-lès-Lyon	Sainte-Foy-les-Lyon	45.73	4.80	0	22
+Sallanches		45.94	6.63	0	17
+Seynod		45.89	6.09	0	19
+Tassin-la-Demi-Lune		45.75	4.79	0	17
+Thonon-les-Bains		46.37	6.48	0	32
+Valence		44.93	4.91	0	64
+Vaulx-en-Velin		45.79	4.93	0	37
+Vienne		45.53	4.87	0	32
+Villefontaine		45.61	5.15	0	20
+Villefranche-sur-Saône	Villefranche-sur-Saone	45.99	4.72	0	33
+Villeurbanne		45.77	4.88	0	131
+Voiron		45.36	5.59	0	22
+Vénissieux	Venissieux	45.70	4.89	0	58
+Échirolles	Echirolles	45.15	5.71	0	33
+Écully	Ecully	45.77	4.78	0	19

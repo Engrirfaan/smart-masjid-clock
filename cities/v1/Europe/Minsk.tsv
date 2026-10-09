@@ -1,0 +1,65 @@
+#z	Europe/Minsk
+#c	BY
+#r	
+Fanipol		53.75	27.33	0	19
+#r	Brest
+Baranovichi		53.13	26.01	0	170
+Brest		52.11	23.72	0	347
+Byaroza		52.53	24.98	0	28
+Ivanovo		52.15	25.53	0	16
+Ivatsevichi		52.71	25.34	0	22
+Kobryn		52.21	24.36	0	52
+Luninyets		52.25	26.80	0	23
+Pinsk		52.12	26.07	0	123
+Pruzhany		52.55	24.45	0	19
+#r	Gomel
+Dobrush		52.41	31.31	0	18
+Homyel'		52.43	30.98	0	501
+Kalinkovichi		52.13	29.33	0	37
+Mazyr		52.04	29.22	0	105
+Rahachow		53.09	30.05	0	31
+Rechytsa		52.36	30.39	0	65
+Svetlogorsk		52.63	29.74	0	62
+Zhlobin		52.89	30.02	0	76
+Žytkavičy	Zytkavicy	52.22	27.86	0	16
+#r	Grodnenskaya
+Astraviec		54.61	25.96	0	15
+Hrodna		53.68	23.83	0	364
+Lida		53.88	25.30	0	103
+Novogrudok		53.59	25.82	0	28
+Oshmyany		54.42	25.94	0	17
+Shchuchyn		53.60	24.75	0	15
+Slonim		53.09	25.32	0	48
+Smarhoń	Smarhon	54.48	26.40	0	35
+Vaukavysk		53.16	24.45	0	41
+#r	Minsk
+Barysaw		54.23	28.50	0	134
+Dzyarzhynsk		53.68	27.13	0	30
+Horad Zhodzina		54.10	28.33	0	63
+Kalodzishchy		53.94	27.78	0	17
+Logoysk		54.21	27.85	0	16
+Maladziečna	Maladziecna	54.32	26.85	0	87
+Mar’ina Gorka	Marina Gorka	53.51	28.15	0	20
+Minsk		53.90	27.57	0	1742
+Nesvizh		53.22	26.68	0	16
+Slutsk		53.02	27.54	0	59
+Smaliavičy	Smaliavicy	54.02	28.09	0	24
+Soligorsk		52.79	27.54	0	96
+Stowbtsy		53.48	26.74	0	18
+Vileyka		54.49	26.91	0	26
+Zaslawye		54.01	27.27	0	17
+#r	Mogilev
+Bobruysk		53.15	29.21	0	206
+Bykhov		53.52	30.23	0	16
+Horki		54.29	30.99	0	29
+Krychaw		53.72	31.71	0	23
+Mahilyow		53.91	30.34	0	353
+Osipovichi		53.31	28.63	0	29
+#r	Vitebsk
+Hlybokaye		55.14	27.69	0	18
+Lyepyel’	Lyepyel	54.88	28.70	0	17
+Novopolotsk		55.53	28.59	0	95
+Orsha		54.51	30.40	0	102
+Pastavy		55.12	26.83	0	18
+Polotsk		55.49	28.79	0	79
+Vitebsk		55.19	30.20	0	359

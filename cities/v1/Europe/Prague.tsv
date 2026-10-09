@@ -1,0 +1,141 @@
+#z	Europe/Prague
+#c	CZ
+#r	Central Bohemia
+Benešov	Benesov	49.78	14.69	0	17
+Beroun		49.96	14.07	0	22
+Bohnice		50.13	14.42	0	16
+Brandýs nad Labem-Stará Boleslav	Brandys nad Labem-Stara Boleslav	50.19	14.66	0	20
+Chodov		50.04	14.50	0	50
+Háje	Haje	50.04	14.53	0	22
+Kladno		50.15	14.10	0	70
+Kolín	Kolin	50.03	15.20	0	33
+Kralupy nad Vltavou		50.24	14.31	0	17
+Kutná Hora	Kutna Hora	49.95	15.27	0	22
+Mladá Boleslav	Mlada Boleslav	50.41	14.90	0	44
+Mělník	Melnik	50.35	14.47	0	19
+Neratovice		50.26	14.52	0	16
+Poděbrady	Podebrady	50.14	15.12	0	15
+Příbram	Pribram	49.69	14.01	0	33
+Rakovník	Rakovnik	50.10	13.73	0	16
+Slaný	Slany	50.23	14.09	0	15
+Stodůlky	Stodulky	50.05	14.32	0	61
+Řepy	Repy	50.07	14.30	0	22
+Říčany	Ricany	49.99	14.65	0	17
+#r	Jihocesky
+Jindřichův Hradec	Jindrichuv Hradec	49.14	15.00	0	23
+Písek	Pisek	49.31	14.15	0	30
+Strakonice		49.26	13.90	0	22
+Tábor	Tabor	49.41	14.66	0	36
+České Budějovice	Ceske Budejovice	48.97	14.47	0	93
+#r	Karlovarsky
+Cheb		50.08	12.37	0	33
+Karlovy Vary		50.23	12.87	0	46
+Ostrov		50.31	12.94	0	16
+Sokolov		50.18	12.64	0	22
+#r	Kralovehradecky
+Dvůr Králové nad Labem	Dvur Kralove nad Labem	50.43	15.81	0	16
+Hradec Králové	Hradec Kralove	50.21	15.83	0	91
+Jičín	Jicin	50.44	15.35	0	16
+Náchod	Nachod	50.42	16.16	0	21
+Trutnov		50.56	15.91	0	31
+#r	Liberecky
+Jablonec nad Nisou		50.72	15.17	0	46
+Liberec		50.77	15.06	0	103
+Česká Lípa	Ceska Lipa	50.69	14.54	0	37
+#r	Moravskoslezsky
+Bohumín	Bohumin	49.90	18.36	0	20
+Bruntál	Bruntal	49.99	17.46	0	15
+Frýdek-Místek	Frydek-Mistek	49.68	18.35	0	54
+Havířov	Havirov	49.78	18.44	0	83
+Karviná	Karvina	49.85	18.54	0	49
+Kopřivnice	Koprivnice	49.60	18.14	0	23
+Krnov		50.09	17.70	0	23
+Nový Jičín	Novy Jicin	49.59	18.01	0	27
+Opava		49.94	17.90	0	60
+Orlová	Orlova	49.85	18.43	0	28
+Ostrava		49.83	18.28	0	280
+Starý Bohumín	Stary Bohumin	49.92	18.34	0	23
+Třinec	Trinec	49.68	18.67	0	38
+Český Těšín	Cesky Tesin	49.75	18.63	0	26
+#r	Olomoucky
+Hranice		49.55	17.73	0	18
+Olomouc		49.60	17.25	0	99
+Prostějov	Prostejov	49.47	17.11	0	43
+Přerov	Prerov	49.46	17.45	0	41
+Šumperk	Sumperk	49.97	16.97	0	29
+#r	Pardubicky
+Chrudim		49.95	15.80	0	24
+Pardubice		50.04	15.78	0	89
+Svitavy		49.76	16.47	0	16
+Ústí nad Orlicí	Usti nad Orlici	49.97	16.39	0	15
+Česká Třebová	Ceska Trebova	49.90	16.44	0	15
+#r	Plzensky
+Klatovy		49.40	13.30	0	23
+Pilsen		49.75	13.38	0	169
+#r	Praha
+Braník	Branik	50.03	14.42	0	18
+Dejvice		50.10	14.39	0	23
+Hlubočepy	Hlubocepy	50.04	14.40	0	23
+Holešovice	Holesovice	50.10	14.45	0	38
+Horní Měcholupy	Horni Mecholupy	50.05	14.57	0	15
+Hostivař	Hostivar	50.05	14.52	0	19
+Kobylisy		50.12	14.45	0	27
+Košíře	Kosire	50.07	14.36	0	16
+Královské Vinohrady	Kralovske Vinohrady	50.07	14.44	0	49
+Krč	Krc	50.04	14.45	0	27
+Letňany	Letnany	50.13	14.52	0	22
+Libeň	Liben	50.11	14.47	0	36
+Michle		50.05	14.46	0	21
+Modřany	Modrany	50.01	14.41	0	34
+Nové Město	Nove Mesto	50.08	14.42	0	27
+Nusle		50.06	14.44	0	35
+Prague		50.09	14.42	0	1166
+Prosek		50.12	14.51	0	17
+Smíchov	Smichov	50.07	14.40	0	35
+Staré Strašnice	Stare Strasnice	50.08	14.51	0	38
+Střížkov	Strizkov	50.13	14.49	0	16
+Vršovice	Vrsovice	50.07	14.46	0	37
+Vysočany	Vysocany	50.11	14.52	0	17
+Záběhlice	Zabehlice	50.06	14.50	0	35
+Černý Most	Cerny Most	50.10	14.58	0	22
+Žižkov	Zizkov	50.08	14.45	0	58
+#r	South Moravian
+Blansko		49.36	16.64	0	20
+Brno		49.20	16.61	0	379
+Brno střed	Brno stred	49.19	16.61	0	87
+Bystrc		49.23	16.53	0	23
+Břeclav	Breclav	48.76	16.88	0	26
+Hodonín	Hodonin	48.85	17.13	0	24
+Královo Pole	Kralovo Pole	49.23	16.59	0	24
+Líšeň	Lisen	49.21	16.69	0	25
+Vyškov	Vyskov	49.28	17.00	0	21
+Znojmo		48.86	16.05	0	35
+Žabovřesky	Zabovresky	49.21	16.57	0	19
+Židenice	Zidenice	49.20	16.65	0	19
+#r	Ustecky
+Chomutov		50.46	13.42	0	47
+Děčín	Decin	50.78	14.21	0	46
+Jirkov		50.50	13.45	0	19
+Kadaň	Kadan	50.38	13.27	0	19
+Litoměřice	Litomerice	50.53	14.13	0	24
+Litvínov	Litvinov	50.60	13.62	0	22
+Louny		50.36	13.80	0	18
+Most		50.50	13.64	0	63
+Teplice		50.64	13.82	0	51
+Ústí nad Labem	Usti nad Labem	50.66	14.03	0	90
+Žatec	Zatec	50.33	13.55	0	19
+#r	Vysocina
+Havlíčkův Brod	Havlickuv Brod	49.61	15.58	0	24
+Jihlava		49.40	15.59	0	50
+Pelhřimov	Pelhrimov	49.43	15.22	0	17
+Třebíč	Trebic	49.21	15.88	0	35
+Žďár nad Sázavou	Zdar nad Sazavou	49.56	15.94	0	20
+#r	Zlin
+Kroměříž	Kromeriz	49.30	17.39	0	28
+Otrokovice		49.21	17.54	0	17
+Rožnov pod Radhoštěm	Roznov pod Radhostem	49.46	18.14	0	17
+Uherské Hradiště	Uherske Hradiste	49.07	17.46	0	25
+Uherský Brod	Uhersky Brod	49.03	17.65	0	16
+Valašské Meziříčí	Valasske Mezirici	49.47	17.97	0	27
+Vsetín	Vsetin	49.34	18.00	0	25
+Zlín	Zlin	49.23	17.67	0	73

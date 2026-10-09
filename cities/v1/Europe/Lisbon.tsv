@@ -1,0 +1,193 @@
+#z	Europe/Lisbon
+#c	PT
+#r	Aveiro
+Arouca		40.93	-8.24	0	21
+Aveiro		40.65	-8.65	0	81
+Espinho		41.01	-8.64	0	33
+Feira		40.93	-8.54	0	16
+Ovar		40.86	-8.63	0	18
+São João da Madeira	Sao Joao da Madeira	40.90	-8.49	0	22
+Vilar		40.63	-8.63	0	21
+Ílhavo	Ilhavo	40.60	-8.67	0	17
+#r	Beja
+Beja		38.01	-7.86	0	35
+#r	Braga
+Bairro Novo		41.54	-8.41	0	33
+Barcelos		41.53	-8.62	0	19
+Braga		41.55	-8.42	0	193
+Cabeceiras de Basto		41.51	-7.99	0	17
+Esposende		41.54	-8.78	0	35
+Fafe		41.45	-8.17	0	17
+Guimarães	Guimaraes	41.44	-8.30	0	41
+#r	Braganca
+Bragança	Braganca	41.81	-6.76	0	35
+#r	Castelo Branco
+Castelo Branco		39.82	-7.49	0	33
+Covilhã	Covilha	40.28	-7.51	0	18
+#r	Coimbra
+Coimbra		40.21	-8.42	0	141
+Condeixa-a-Nova		40.11	-8.50	0	17
+Eiras		40.25	-8.42	0	17
+Figueira da Foz		40.15	-8.86	0	47
+Ribeira de Frades		40.21	-8.48	0	15
+Santo António dos Olivais	Santo Antonio dos Olivais	40.22	-8.41	0	41
+São Martinho do Bispo	Sao Martinho do Bispo	40.21	-8.46	0	15
+São Paulo de Frades	Sao Paulo de Frades	40.25	-8.39	0	17
+#r	Evora
+Évora	Evora	38.57	-7.90	0	54
+#r	Faro
+Albufeira		37.09	-8.25	0	16
+Faro		37.02	-7.93	0	70
+Lagos		37.10	-8.67	0	33
+Laranjeiro		37.07	-7.81	0	20
+Loulé	Loule	37.14	-8.02	0	18
+Olhão	Olhao	37.03	-7.84	0	29
+Portimão	Portimao	37.14	-8.54	0	38
+Porto de Mós	Porto de Mos	37.09	-8.68	0	24
+Quarteira		37.07	-8.10	0	24
+Quelfes		37.06	-7.82	0	17
+Tavira		37.13	-7.65	0	15
+#r	Guarda
+Custoias		41.11	-7.32	0	19
+Guarda		40.54	-7.27	0	40
+Sequeira		40.55	-7.23	0	29
+#r	Leiria
+Alcobaça	Alcobaca	39.55	-8.98	0	16
+Caldas da Rainha		39.40	-9.14	0	27
+Leiria		39.74	-8.81	0	129
+Marinha Grande		39.75	-8.93	0	29
+Peniche		39.36	-9.38	0	16
+Pombal		39.92	-8.63	0	17
+#r	Lisbon
+Alcabideche		38.73	-9.41	0	33
+Alfornelos		38.76	-9.21	0	27
+Alfragide		38.73	-9.22	0	17
+Algueirão	Algueirao	38.80	-9.34	0	66
+Algés	Alges	38.70	-9.23	0	19
+Alvalade		38.75	-9.14	0	32
+Amadora		38.75	-9.23	0	179
+Areeiro		38.74	-9.14	0	21
+Azambuja		39.07	-8.87	0	21
+Belas		38.78	-9.26	0	21
+Belém	Belem	38.70	-9.19	0	17
+Benfica		38.75	-9.20	0	37
+Buraca		38.73	-9.20	0	16
+Cacém	Cacem	38.77	-9.30	0	94
+Camarate		38.80	-9.13	0	20
+Campo De Ourique		38.72	-9.17	0	22
+Campo Grande		38.75	-9.17	0	16
+Carcavelos		38.69	-9.32	0	20
+Carnaxide		38.73	-9.25	0	24
+Carnide		38.77	-9.18	0	18
+Cascais		38.70	-9.42	0	36
+Cidade Universitária	Cidade Universitaria	38.75	-9.16	0	37
+Damaia		38.75	-9.21	0	38
+Estoril		38.71	-9.40	0	24
+Falagueira		38.76	-9.23	0	21
+Linda-a-Velha		38.71	-9.24	0	21
+Lisbon		38.73	-9.15	0	518
+Loures		38.83	-9.17	0	66
+Lumiar		38.77	-9.16	0	46
+Marvila		38.74	-9.10	0	35
+Massamá	Massama	38.75	-9.28	0	28
+Monte Estoril		38.71	-9.41	0	23
+Moscavide e Portela		38.78	-9.10	0	22
+Odivelas		38.79	-9.18	0	55
+Oeiras		38.69	-9.31	0	35
+Olivais		38.77	-9.11	0	34
+Olival		38.77	-9.25	0	43
+Parede		38.69	-9.35	0	17
+Parque das Nações	Parque das Nacoes	38.77	-9.10	0	22
+Paço de Arcos	Paco de Arcos	38.70	-9.29	0	26
+Pontinha		38.77	-9.20	0	23
+Póvoa de Santa Iria	Povoa de Santa Iria	38.86	-9.06	0	29
+Queluz		38.76	-9.25	0	103
+Ramada		38.80	-9.19	0	18
+Rio de Mouro		38.77	-9.33	0	55
+Sacavém	Sacavem	38.79	-9.11	0	18
+Santa Iria da Azóia	Santa Iria da Azoia	38.84	-9.10	0	19
+Sete Rios		38.74	-9.16	0	23
+Sintra		38.80	-9.38	0	26
+São Domingos de Rana	Sao Domingos de Rana	38.70	-9.34	0	47
+São Jorge de Arroios	Sao Jorge de Arroios	38.73	-9.14	0	23
+São João da Talha	Sao Joao da Talha	38.82	-9.10	0	19
+Torres Vedras		39.09	-9.26	0	24
+Vialonga		38.87	-9.08	0	16
+Vila Franca de Xira		38.96	-8.99	0	18
+#r	Portalegre
+Portalegre		39.29	-7.43	0	22
+#r	Porto
+Afurada de Baixo		41.14	-8.65	0	34
+Aldoar		41.17	-8.67	0	29
+Alfena		41.24	-8.52	0	15
+Baguim do Monte		41.19	-8.54	0	16
+Baião	Baiao	41.16	-8.03	0	21
+Bomfim		41.15	-8.59	0	23
+Bougado		41.34	-8.55	0	22
+Campanhã	Campanha	41.16	-8.57	0	30
+Canidelo		41.12	-8.65	0	26
+Ermesinde		41.22	-8.55	0	39
+Felgueiras		41.37	-8.19	0	58
+Fânzeres	Fanzeres	41.17	-8.53	0	24
+Gondomar		41.14	-8.53	0	28
+Leça da Palmeira	Leca da Palmeira	41.19	-8.70	0	18
+Leça do Bailio	Leca do Bailio	41.21	-8.63	0	16
+Lordelo do Ouro		41.15	-8.65	0	22
+Maia		41.24	-8.62	0	36
+Matosinhos		41.18	-8.69	0	28
+Oliveira do Douro		41.12	-8.58	0	24
+Paranhos		41.17	-8.60	0	46
+Paredes		41.20	-8.33	0	20
+Pedroso		41.41	-8.75	0	19
+Porto		41.15	-8.61	0	253
+Póvoa de Varzim	Povoa de Varzim	41.38	-8.76	0	29
+Rio Tinto		41.18	-8.56	0	50
+Santo Ovídio	Santo Ovidio	41.11	-8.60	0	39
+Senhora da Hora		41.19	-8.65	0	29
+São Mamede de Infesta	Sao Mamede de Infesta	41.19	-8.61	0	26
+São Pedro da Cova	Sao Pedro da Cova	41.14	-8.50	0	17
+São Tiago de Custoias	Sao Tiago de Custoias	41.20	-8.63	0	19
+Trofa		41.34	-8.56	0	21
+Valadares		41.09	-8.63	0	22
+Valongo		41.19	-8.50	0	21
+Vermoim		41.24	-8.61	0	16
+Vila Nova de Gaia		41.12	-8.61	0	71
+Vila do Conde		41.35	-8.75	0	28
+Vilar de Andorinho		41.11	-8.59	0	19
+Águas Santas	Aguas Santas	41.21	-8.58	0	28
+#r	Santarem
+Entroncamento		39.47	-8.47	0	20
+Monsanto		39.46	-8.71	0	50
+Santarém	Santarem	39.23	-8.69	0	29
+Tomar		39.60	-8.41	0	19
+Torres Novas		39.48	-8.54	0	15
+#r	Setubal
+Alcântara	Alcantara	38.70	-9.17	0	20
+Almada		38.68	-9.16	0	34
+Amora		38.63	-9.12	0	53
+Arrentela		38.62	-9.10	0	30
+Azeitão	Azeitao	38.52	-9.01	0	19
+Barreiro		38.66	-9.07	0	51
+Caparica		38.66	-9.20	0	21
+Charneca de Caparica		38.62	-9.19	0	30
+Corroios		38.64	-9.15	0	53
+Laranjeiro		38.66	-9.15	0	21
+Lavradio		38.67	-9.05	0	22
+Moita		38.65	-8.99	0	18
+Montijo		38.71	-8.97	0	30
+Palmela		38.57	-8.90	0	17
+Piedade		38.67	-9.16	0	19
+Pinhal Novo		38.63	-8.91	0	24
+Quinta Do Conde		38.57	-9.04	0	26
+Sesimbra		38.44	-9.10	0	41
+Setúbal	Setubal	38.52	-8.89	0	118
+#r	Viana do Castelo
+Arcos de Valdevez		41.85	-8.42	0	23
+Monção	Moncao	42.08	-8.48	0	20
+Ponte de Lima		41.77	-8.58	0	45
+Viana do Castelo		41.69	-8.83	0	36
+#r	Vila Real
+Chaves		41.74	-7.47	0	18
+Vila Real		41.30	-7.74	0	17
+#r	Viseu
+Viseu		40.66	-7.91	0	104

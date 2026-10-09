@@ -1,0 +1,381 @@
+#z	Europe/Warsaw
+#c	PL
+#r	Greater Poland Voivodeship
+Chodzież	Chodziez	53.00	16.92	0	20
+Gniezno		52.53	17.58	0	70
+Gostyń	Gostyn	51.88	17.01	0	21
+Jarocin		51.97	17.50	0	26
+Kalisz		51.76	18.09	0	109
+Konin		52.22	18.25	0	81
+Koło	Koo	52.20	18.64	0	23
+Kościan	Koscian	52.09	16.65	0	24
+Krotoszyn		51.70	17.44	0	29
+Leszno		51.84	16.57	0	64
+Luboń	Lubon	52.35	16.89	0	26
+Nowy Tomyśl	Nowy Tomysl	52.32	16.13	0	15
+Oborniki		52.65	16.81	0	18
+Ostrów Wielkopolski	Ostrow Wielkopolski	51.66	17.81	0	73
+Piła	Pia	53.15	16.74	0	76
+Pleszew		51.90	17.79	0	18
+Poznań	Poznan	52.41	16.93	0	536
+Rawicz		51.61	16.86	0	21
+Swarzędz	Swarzedz	52.41	17.09	0	29
+Szamotuły	Szamotuy	52.61	16.58	0	19
+Trzcianka		53.04	16.46	0	17
+Turek		52.02	18.50	0	30
+Września	Wrzesnia	52.33	17.57	0	29
+Wągrowiec	Wagrowiec	52.81	17.20	0	26
+Złotów	Zotow	53.36	17.04	0	18
+Śrem	Srem	52.09	17.02	0	30
+Środa Wielkopolska	Sroda Wielkopolska	52.23	17.28	0	22
+#r	Kujawsko-Pomorskie
+Brodnica		53.26	19.40	0	27
+Bydgoszcz		53.12	18.01	0	330
+Chełmno	Chemno	53.35	18.43	0	21
+Chełmża	Chemza	53.18	18.60	0	15
+Fordon		53.15	18.17	0	70
+Grudziądz	Grudziadz	53.48	18.75	0	93
+Inowrocław	Inowrocaw	52.80	18.26	0	78
+Nakło nad Notecią	Nako nad Notecia	53.14	17.60	0	20
+Rypin		53.07	19.41	0	17
+Solec Kujawski		53.08	18.23	0	15
+Toruń	Torun	53.01	18.60	0	197
+Włocławek	Wocawek	52.65	19.07	0	120
+Świecie	Swiecie	53.41	18.45	0	26
+#r	Lesser Poland Voivodeship
+Andrychów	Andrychow	49.85	19.34	0	22
+Bieńczyce	Bienczyce	50.09	20.03	0	43
+Bochnia		49.97	20.43	0	29
+Brzesko		49.97	20.61	0	17
+Chrzanów	Chrzanow	50.14	19.40	0	40
+Gorlice		49.66	21.16	0	29
+Grzegórzki	Grzegorzki	50.06	19.97	0	29
+Kraków	Krakow	50.06	19.94	0	817
+Kęty	Kety	49.88	19.22	0	19
+Libiąż	Libiaz	50.10	19.32	0	18
+Myślenice	Myslenice	49.83	19.94	0	18
+Nowy Sącz	Nowy Sacz	49.62	20.70	0	84
+Nowy Targ		49.48	20.03	0	34
+Olkusz		50.28	19.57	0	38
+Oświęcim	Oswiecim	50.03	19.21	0	34
+Skawina		49.98	19.83	0	24
+Tarnów	Tarnow	50.01	20.99	0	118
+Trzebinia		50.16	19.47	0	19
+Wadowice		49.88	19.49	0	19
+Wieliczka		49.99	20.06	0	19
+Zakopane		49.30	19.95	0	27
+#r	Lodz Voivodeship
+Aleksandrów Łódzki	Aleksandrow odzki	51.82	19.30	0	20
+Bełchatów	Bechatow	51.37	19.36	0	63
+Głowno	Gowno	51.96	19.72	0	15
+Konstantynów Łódzki	Konstantynow odzki	51.75	19.33	0	18
+Kutno		52.23	19.36	0	48
+Opoczno		51.38	20.28	0	23
+Ozorków	Ozorkow	51.96	19.29	0	21
+Pabianice		51.66	19.35	0	71
+Piotrków Trybunalski	Piotrkow Trybunalski	51.41	19.70	0	80
+Radomsko		51.07	19.44	0	45
+Rawa Mazowiecka		51.76	20.25	0	18
+Sieradz		51.60	18.73	0	44
+Skierniewice		51.95	20.16	0	49
+Tomaszów Mazowiecki	Tomaszow Mazowiecki	51.53	20.01	0	67
+Wieluń	Wielun	51.22	18.57	0	22
+Zduńska Wola	Zdunska Wola	51.60	18.94	0	45
+Zgierz		51.86	19.41	0	58
+Łask	ask	51.59	19.13	0	19
+Łowicz	owicz	52.11	19.95	0	30
+Łódź	odz	51.77	19.47	0	640
+Łęczyca	eczyca	52.06	19.20	0	16
+#r	Lower Silesian Voivodeship
+Bielawa		50.69	16.62	0	29
+Biskupin-Sępolno-Dąbie-Bartoszowice	Biskupin-Sepolno-Dabie-Bartoszowice	51.11	17.09	0	20
+Bogatynia		50.91	14.96	0	16
+Boguszów-Gorce	Boguszow-Gorce	50.76	16.20	0	17
+Bolesławiec	Bolesawiec	51.26	15.57	0	41
+Dzierżoniów	Dzierzoniow	50.73	16.65	0	34
+Gaj		51.08	17.04	0	19
+Gajowice		51.10	17.00	0	22
+Gądów-Popowice Południowe	Gadow-Popowice Poudniowe	51.13	16.97	0	25
+Głogów	Gogow	51.66	16.08	0	65
+Huby		51.09	17.04	0	19
+Jawor		51.05	16.19	0	24
+Jelcz		51.02	17.32	0	15
+Jelcz Laskowice		51.02	17.32	0	15
+Jelenia Góra	Jelenia Gora	50.90	15.73	0	77
+Kamienna Góra	Kamienna Gora	50.78	16.03	0	22
+Karłowice-Różanka	Karowice-Rozanka	51.14	17.04	0	32
+Kozanów	Kozanow	51.14	16.97	0	16
+Krzyki-Partynice		51.06	17.00	0	21
+Kłodzko	Kodzko	50.43	16.66	0	26
+Legnica		51.21	16.16	0	106
+Lubań	Luban	51.12	15.29	0	22
+Lubin		51.40	16.20	0	78
+Nadodrze		51.13	17.03	0	23
+Nowa Ruda		50.58	16.50	0	25
+Oleśnica	Olesnica	51.21	17.39	0	37
+Osiedle Kosmonautów	Osiedle Kosmonautow	51.13	16.96	0	19
+Osiedle Powstańców Śląskich	Osiedle Powstancow Slaskich	51.09	17.02	0	24
+Oława	Oawa	50.95	17.29	0	33
+Ołbin	Obin	51.12	17.05	0	31
+Pilczyce-Kozanów-Popowice Północne	Pilczyce-Kozanow-Popowice Ponocne	51.13	16.98	0	31
+Polkowice		51.50	16.07	0	22
+Przedmieście Oławskie	Przedmiescie Oawskie	51.10	17.05	0	20
+Psie Pole		51.15	17.04	0	96
+Psie Pole Zawidawie		51.15	17.11	0	30
+Rejon placu Grunwaldzkiego		51.12	17.06	0	27
+Rejon placu Świętego Macieja	Rejon placu Swietego Macieja	51.12	17.04	0	44
+Rejon ulicy Traugutta		51.10	17.05	0	21
+Różanka-Polanka	Rozanka-Polanka	51.14	17.02	0	16
+Strzegom		50.96	16.35	0	16
+Szczepin		51.12	17.01	0	18
+Wałbrzych	Wabrzych	50.77	16.28	0	127
+Wrocław	Wrocaw	51.10	17.03	0	673
+Zgorzelec		51.15	15.01	0	33
+Ząbkowice Śląskie	Zabkowice Slaskie	50.59	16.81	0	15
+Złotoryja	Zotoryja	51.13	15.92	0	16
+Śródmieście	Srodmiescie	51.11	17.08	0	99
+Świdnica	Swidnica	50.84	16.49	0	60
+Świebodzice	Swiebodzice	50.86	16.32	0	23
+#r	Lublin Voivodeship
+Biała Podlaska	Biaa Podlaska	52.03	23.12	0	58
+Biłgoraj	Bigoraj	50.54	22.72	0	27
+Chełm	Chem	51.14	23.47	0	60
+Dęblin	Deblin	51.56	21.85	0	18
+Hrubieszów	Hrubieszow	50.81	23.89	0	19
+Krasnystaw		50.98	23.17	0	20
+Kraśnik	Krasnik	50.92	22.23	0	36
+Lubartów	Lubartow	51.46	22.61	0	23
+Lublin		51.25	22.57	0	336
+Międzyrzec Podlaski	Miedzyrzec Podlaski	51.99	22.78	0	17
+Puławy	Puawy	51.42	21.97	0	50
+Radzyń Podlaski	Radzyn Podlaski	51.78	22.62	0	16
+Tomaszów Lubelski	Tomaszow Lubelski	50.45	23.42	0	20
+Zamość	Zamosc	50.72	23.25	0	66
+Łuków	ukow	51.93	22.38	0	30
+Łęczna	eczna	51.30	22.88	0	22
+Świdnik	Swidnik	51.22	22.70	0	40
+#r	Lubusz
+Gorzów Wielkopolski	Gorzow Wielkopolski	52.73	15.23	0	115
+Gubin		51.95	14.73	0	17
+Kostrzyn nad Odrą	Kostrzyn nad Odra	52.59	14.65	0	18
+Międzyrzecz	Miedzyrzecz	52.44	15.58	0	19
+Nowa Sól	Nowa Sol	51.80	15.72	0	40
+Sulechów	Sulechow	52.08	15.63	0	18
+Słubice	Subice	52.35	14.56	0	18
+Zielona Góra	Zielona Gora	51.94	15.51	0	118
+Świebodzin	Swiebodzin	52.25	15.53	0	22
+Żagań	Zagan	51.62	15.31	0	26
+Żary	Zary	51.64	15.14	0	39
+#r	Masovian Voivodeship
+Bemowo		52.25	20.91	0	124
+Białołeka	Biaoeka	52.32	20.97	0	129
+Bielany		52.29	20.94	0	132
+Ciechanów	Ciechanow	52.88	20.62	0	46
+Garwolin		51.90	21.61	0	16
+Gostynin		52.43	19.46	0	19
+Grodzisk Mazowiecki		52.10	20.63	0	27
+Józefów	Jozefow	52.14	21.24	0	18
+Kabaty		52.13	21.08	0	30
+Kobyłka	Kobyka	52.34	21.20	0	18
+Konstancin-Jeziorna		52.09	21.12	0	17
+Kozienice		51.58	21.55	0	17
+Legionowo		52.40	20.93	0	51
+Marki		52.32	21.10	0	23
+Milanówek	Milanowek	52.12	20.67	0	16
+Mińsk Mazowiecki	Minsk Mazowiecki	52.18	21.57	0	37
+Mokotów	Mokotow	52.19	21.03	0	218
+Mława	Mawa	53.11	20.38	0	29
+Nowy Dwór Mazowiecki	Nowy Dwor Mazowiecki	52.43	20.72	0	28
+Ochota		52.22	20.99	0	83
+Ostrołęka	Ostroeka	53.09	21.58	0	54
+Ostrów Mazowiecka	Ostrow Mazowiecka	52.80	21.90	0	23
+Otwock		52.11	21.26	0	43
+Piaseczno		52.08	21.02	0	36
+Piastów	Piastow	52.18	20.84	0	23
+Pionki		51.48	21.45	0	20
+Praga Południe	Praga Poudnie	52.24	21.09	0	180
+Praga Północ	Praga Ponoc	52.25	21.03	0	93
+Pruszków	Pruszkow	52.17	20.81	0	55
+Przasnysz		53.02	20.88	0	17
+Pułtusk	Putusk	52.70	21.08	0	19
+Płock	Pock	52.55	19.71	0	127
+Płońsk	Ponsk	52.62	20.38	0	22
+Radom		51.40	21.15	0	227
+Rembertów	Rembertow	52.26	21.16	0	22
+Siedlce		52.17	22.29	0	77
+Sierpc		52.86	19.67	0	19
+Sochaczew		52.23	20.24	0	38
+Sokołów Podlaski	Sokoow Podlaski	52.41	22.25	0	18
+Sulejówek	Sulejowek	52.25	21.27	0	18
+Targówek	Targowek	52.29	21.05	0	124
+Ursus		52.20	20.88	0	47
+Ursynów	Ursynow	52.15	21.05	0	150
+Warsaw		52.23	21.01	0	1702
+Wawer		52.20	21.18	0	77
+Wesoła	Wesoa	52.25	21.22	0	20
+Wola		52.23	20.96	0	141
+Wołomin	Woomin	52.34	21.24	0	37
+Wyszków	Wyszkow	52.59	21.46	0	26
+Włochy	Wochy	52.18	20.95	0	36
+Zielonka		52.30	21.16	0	18
+Ząbki	Zabki	52.29	21.11	0	23
+Łomianki	omianki	52.33	20.89	0	15
+Śródmieście	Srodmiescie	52.23	21.02	0	100
+Żoliborz	Zoliborz	52.27	20.99	0	51
+Żyrardów	Zyrardow	52.05	20.45	0	41
+#r	Opole Voivodeship
+Brzeg		50.86	17.47	0	38
+Głuchołazy	Guchoazy	50.32	17.38	0	15
+Kluczbork		50.97	18.22	0	26
+Krapkowice		50.48	17.97	0	18
+Kędzierzyn-Koźle	Kedzierzyn-Kozle	50.35	18.23	0	66
+Namysłów	Namysow	51.08	17.72	0	16
+Nysa		50.47	17.33	0	47
+Opole		50.67	17.93	0	128
+Prudnik		50.32	17.57	0	23
+Strzelce Opolskie		50.51	18.30	0	20
+#r	Podlasie
+Augustów	Augustow	53.84	22.98	0	30
+Białystok	Biaystok	53.13	23.16	0	296
+Bielsk Podlaski		52.77	23.19	0	26
+Grajewo		53.65	22.46	0	23
+Hajnówka	Hajnowka	52.74	23.58	0	22
+Siemiatycze		52.43	22.86	0	15
+Sokółka	Sokoka	53.41	23.50	0	19
+Suwałki	Suwaki	54.11	22.93	0	69
+Zambrów	Zambrow	52.99	22.24	0	23
+Łapy	apy	52.99	22.88	0	16
+Łomża	omza	53.18	22.06	0	62
+#r	Pomeranian Voivodeship
+Bytów	Bytow	54.17	17.49	0	17
+Chełm	Chem	54.34	18.62	0	31
+Chojnice		53.70	17.56	0	39
+Gdańsk	Gdansk	54.35	18.65	0	487
+Gdynia		54.52	18.53	0	257
+Kartuzy		54.33	18.20	0	15
+Kościerzyna	Koscierzyna	54.12	17.98	0	23
+Kwidzyn		53.72	18.93	0	38
+Lębork	Lebork	54.54	17.75	0	35
+Malbork		54.04	19.03	0	37
+Orunia Górna-Gdańsk Południe	Orunia Gorna-Gdansk Poudnie	54.32	18.62	0	20
+Osowa		54.43	18.47	0	16
+Piecki-Migowo		54.36	18.58	0	27
+Pruszcz Gdański	Pruszcz Gdanski	54.26	18.64	0	24
+Przymorze Wielkie		54.41	18.60	0	24
+Reda		54.61	18.35	0	18
+Rumia		54.57	18.39	0	45
+Sopot		54.44	18.56	0	35
+Starogard Gdański	Starogard Gdanski	53.96	18.53	0	47
+Słupsk	Supsk	54.46	17.03	0	99
+Tczew		54.09	18.78	0	60
+Ujeścisko-Łostowice	Ujescisko-ostowice	54.32	18.60	0	30
+Ustka		54.58	16.86	0	16
+Wejherowo		54.61	18.24	0	47
+Wrzeszcz		54.38	18.61	0	65
+Wrzeszcz Dolny		54.38	18.61	0	22
+Wrzeszcz Górny	Wrzeszcz Gorny	54.38	18.60	0	21
+Środmieście	Srodmiescie	54.35	18.66	0	23
+#r	Silesian Voivodeship
+Bielsko-Biala		49.82	19.05	0	177
+Bieruń	Bierun	50.09	19.09	0	20
+Bytom		50.35	18.93	0	189
+Będzin	Bedzin	50.33	19.13	0	58
+Chorzów	Chorzow	50.31	18.97	0	113
+Cieszyn		49.75	18.63	0	36
+Czechowice-Dziedzice		49.91	19.00	0	35
+Czeladź	Czeladz	50.32	19.08	0	34
+Czerwionka-Leszczyny		50.15	18.68	0	29
+Częstochowa	Czestochowa	50.80	19.12	0	248
+Dąbrowa Górnicza	Dabrowa Gornicza	50.33	19.20	0	117
+Gliwice		50.30	18.68	0	199
+Jastrzębie Zdrój	Jastrzebie Zdroj	49.96	18.57	0	96
+Jaworzno		50.21	19.27	0	97
+Katowice		50.26	19.02	0	287
+Knurów	Knurow	50.22	18.65	0	40
+Lubliniec		50.67	18.68	0	24
+Lędziny	Ledziny	50.14	19.13	0	16
+Mikołów	Mikoow	50.17	18.90	0	39
+Myszków	Myszkow	50.58	19.32	0	33
+Mysłowice	Mysowice	50.21	19.17	0	72
+Orzesze		50.16	18.78	0	18
+Piekary Śląskie	Piekary Slaskie	50.38	18.93	0	60
+Pszczyna		49.98	18.95	0	25
+Pyskowice		50.40	18.63	0	19
+Racibórz	Raciborz	50.09	18.22	0	58
+Radlin		50.05	18.48	0	17
+Radzionków	Radzionkow	50.40	18.90	0	17
+Ruda Śląska	Ruda Slaska	50.26	18.86	0	146
+Rybnik		50.10	18.54	0	143
+Rydułtowy	Rydutowy	50.06	18.42	0	22
+Siemianowice Śląskie	Siemianowice Slaskie	50.33	19.03	0	73
+Sosnowiec		50.29	19.10	0	227
+Tarnowskie Góry	Tarnowskie Gory	50.45	18.86	0	61
+Tychy		50.14	18.97	0	130
+Ustroń	Ustron	49.72	18.80	0	16
+Wodzisław Śląski	Wodzisaw Slaski	50.00	18.47	0	50
+Zabrze		50.32	18.79	0	192
+Zawiercie		50.49	19.42	0	53
+Łaziska Górne	aziska Gorne	50.15	18.84	0	22
+Świętochłowice	Swietochowice	50.30	18.92	0	56
+Żory	Zory	50.05	18.70	0	63
+Żywiec	Zywiec	49.69	19.19	0	32
+#r	Subcarpathian Voivodeship
+Dębica	Debica	50.05	21.41	0	47
+Jarosław	Jarosaw	50.02	22.68	0	35
+Jasło	Jaso	49.75	21.47	0	38
+Krosno		49.69	21.77	0	48
+Mielec		50.29	21.42	0	60
+Nisko		50.52	22.14	0	16
+Przemyśl	Przemysl	49.78	22.77	0	67
+Przeworsk		50.06	22.49	0	16
+Ropczyce		50.05	21.61	0	15
+Rzeszów	Rzeszow	50.04	22.00	0	198
+Sanok		49.56	22.21	0	40
+Stalowa Wola		50.58	22.05	0	66
+Tarnobrzeg		50.57	21.68	0	50
+Łańcut	ancut	50.07	22.23	0	18
+#r	Swietokrzyskie
+Busko-Zdrój	Busko-Zdroj	50.47	20.72	0	17
+Jędrzejów	Jedrzejow	50.64	20.30	0	17
+Kielce		50.87	20.63	0	192
+Końskie	Konskie	51.19	20.41	0	21
+Ostrowiec Świętokrzyski	Ostrowiec Swietokrzyski	50.93	21.39	0	74
+Sandomierz		50.68	21.75	0	25
+Skarżysko-Kamienna	Skarzysko-Kamienna	51.11	20.87	0	49
+Starachowice		51.04	21.07	0	54
+Staszów	Staszow	50.56	21.17	0	16
+#r	Warmian-Masurian Voivodeship
+Bartoszyce		54.25	20.81	0	23
+Braniewo		54.38	19.82	0	18
+Działdowo	Dziadowo	53.24	20.17	0	21
+Elbląg	Elblag	54.15	19.41	0	128
+Ełk	Ek	53.83	22.36	0	56
+Gierłoż	Gieroz	54.08	21.50	0	28
+Giżycko	Gizycko	54.04	21.76	0	30
+Iława	Iawa	53.60	19.57	0	33
+Kętrzyn	Ketrzyn	54.08	21.38	0	27
+Lidzbark Warmiński	Lidzbark Warminski	54.13	20.58	0	17
+Mrągowo	Mragowo	53.86	21.31	0	22
+Olecko		54.03	22.51	0	16
+Olsztyn		53.78	20.49	0	170
+Ostróda	Ostroda	53.70	19.96	0	34
+Pisz		53.63	21.81	0	19
+Szczytno		53.56	20.99	0	26
+#r	West Pomeranian Voivodeship
+Białogard	Biaogard	54.01	15.99	0	24
+Choszczno		53.17	15.42	0	16
+Drzetowo-Grabowo		53.45	14.58	0	23
+Goleniów	Goleniow	53.56	14.83	0	23
+Gryfice		53.92	15.20	0	17
+Gryfino		53.25	14.49	0	21
+Koszalin		54.19	16.17	0	107
+Kołobrzeg	Koobrzeg	54.18	15.58	0	44
+Nowogard		53.67	15.12	0	17
+Police		53.55	14.57	0	34
+Stargard		53.34	15.05	0	71
+Szczecin		53.43	14.55	0	396
+Szczecinek		53.71	16.70	0	38
+Wałcz	Wacz	53.28	16.47	0	26
+Świdwin	Swidwin	53.77	15.78	0	16
+Świerczewo	Swierczewo	53.43	14.51	0	16
+Świnoujście	Swinoujscie	53.91	14.25	0	41

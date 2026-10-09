@@ -1,0 +1,49 @@
+#z	Europe/Dublin
+#c	IE
+#r	Connaught
+Galway		53.27	-9.05	0	86
+Sligo		54.27	-8.47	0	21
+#r	Leinster
+An Muileann gCearr		53.52	-7.34	0	23
+Athlone		53.42	-7.94	0	23
+Balbriggan		53.61	-6.18	0	22
+Blanchardstown		53.39	-6.38	0	17
+Bray		53.20	-6.10	0	34
+Carlow		52.84	-6.93	0	27
+Celbridge		53.34	-6.54	0	20
+Donaghmede		53.40	-6.16	0	15
+Drogheda		53.72	-6.35	0	44
+Droichead Nua		53.18	-6.80	0	23
+Dublin		53.33	-6.25	0	1024
+Dundalk		54.00	-6.42	0	43
+Dún Laoghaire	Dun Laoghaire	53.29	-6.14	0	31
+Finglas		53.39	-6.30	0	20
+Greystones		53.14	-6.06	0	22
+Kilkenny		52.65	-7.25	0	22
+Leixlip		53.37	-6.50	0	16
+Lucan		53.36	-6.45	0	15
+Malahide		53.45	-6.15	0	17
+Maynooth		53.38	-6.59	0	17
+Naas		53.22	-6.67	0	21
+Navan		53.65	-6.68	0	34
+Portlaoise		53.03	-7.30	0	23
+Rathfarnham		53.30	-6.28	0	17
+Sandyford		53.27	-6.23	0	22
+South Dublin		53.29	-6.34	0	301
+Swords		53.46	-6.22	0	41
+Tallaght		53.29	-6.37	0	81
+Templeogue		53.30	-6.31	0	18
+Tullamore		53.27	-7.49	0	16
+Wexford		52.33	-6.46	0	22
+#r	Munster
+Ballincollig		51.88	-8.58	0	19
+Carrigaline		51.81	-8.40	0	18
+Cluain Meala		52.35	-7.70	0	18
+Cork		51.90	-8.47	0	224
+Douglas		51.87	-8.44	0	27
+Ennis		52.84	-8.99	0	28
+Limerick		52.66	-8.62	0	102
+Tralee		52.27	-9.70	0	26
+Waterford		52.26	-7.11	0	60
+#r	Ulster
+Letterkenny		54.95	-7.73	0	23
