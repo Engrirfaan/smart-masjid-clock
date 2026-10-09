@@ -1,0 +1,115 @@
+#z	Africa/Accra
+#c	GH
+#r	
+Aflao		6.12	1.19	0	67
+Ahwiaa		6.90	-1.65	0	20
+Akatsi		6.13	0.80	0	32
+Anyinam		6.38	-0.55	0	30
+Assin Foso		5.70	-1.65	0	37
+Atebubu		7.76	-0.98	0	33
+Atronie		7.15	-2.40	0	30
+Bechem		7.09	-2.02	0	17
+Bekwai		6.45	-1.58	0	32
+Bimbila		8.85	0.06	0	34
+Dambai		8.07	0.18	0	22
+Damongo		9.08	-1.82	0	24
+Domaa-Ahenkro		7.27	-2.87	0	37
+Duayaw-Nkwanta		7.17	-2.10	0	17
+Dzodze		6.24	1.00	0	31
+Effiduase		6.85	-1.40	0	30
+Elubo		5.29	-2.77	0	24
+Goaso		6.80	-2.52	0	22
+Japekrom		7.58	-2.79	0	96
+Jirapa		10.54	-2.70	0	91
+Mim		6.90	-2.56	0	36
+Nalerigu		10.53	-0.37	0	17
+Nkoranza		7.57	-1.71	0	35
+Tepa		7.01	-2.17	0	18
+Twifu Praso		5.61	-1.55	0	101
+Yegyi		8.23	-0.65	0	30
+#r	Ashanti
+Agogo		6.80	-1.08	0	46
+Ahwiaa		6.76	-1.59	0	32
+Ejura		7.39	-1.36	0	71
+Konongo		6.62	-1.22	0	44
+Kumasi		6.69	-1.62	0	2545
+Mampong		7.06	-1.40	0	52
+New Tafo		6.72	-1.61	0	30
+Obuase		6.20	-1.67	0	180
+Tafo		6.73	-1.61	0	50
+#r	Brong-Ahafo
+Berekum		7.45	-2.58	0	71
+Kintampo		8.06	-1.73	0	54
+Nsoatre		7.40	-2.47	0	31
+Sunyani		7.34	-2.33	0	93
+Techiman		7.59	-1.94	0	84
+Wankyi		7.74	-2.10	0	46
+#r	Central
+Amanfrom		5.54	-0.40	0	119
+Apam		5.29	-0.75	0	20
+Buduburam		5.52	-0.48	0	63
+Cape Coast		5.11	-1.25	0	212
+Dunkwa		5.96	-1.78	0	43
+Elmina		5.08	-1.35	0	34
+Foso		5.70	-1.29	0	20
+Kasoa		5.53	-0.42	0	87
+Mankesim		5.27	-1.02	0	42
+Saltpond		5.21	-1.06	0	25
+Swedru		5.54	-0.70	0	54
+Winneba		5.35	-0.62	0	71
+#r	Eastern
+Aburi		5.85	-0.17	0	18
+Akim Oda		5.93	-0.99	0	61
+Akwatia		6.04	-0.81	0	34
+Asamankese		5.86	-0.66	0	46
+Begoro		6.39	-0.38	0	30
+Kade		6.09	-0.84	0	30
+Koforidua		6.09	-0.26	0	151
+Nkawkaw		6.55	-0.76	0	48
+Nsawam		5.81	-0.35	0	49
+Suhum		6.04	-0.45	0	51
+#r	Greater Accra
+Accra		5.56	-0.20	0	1963
+Adenta		5.71	-0.15	0	51
+Ashaiman		5.70	-0.03	0	191
+Atsiaman		5.70	-0.33	0	203
+Awoshi		5.58	-0.28	0	32
+Dome		5.65	-0.24	0	48
+Gbawe		5.58	-0.31	0	87
+Lashibi		5.68	-0.04	0	49
+Mandela		5.55	-0.34	0	77
+Medina Estates		5.67	-0.16	0	101
+New Achimota		5.63	-0.26	0	37
+Nungua		5.60	-0.08	0	70
+Osu		5.56	-0.19	0	44
+Sakumona		5.62	-0.05	0	33
+Taifa		5.66	-0.25	0	43
+Tema		5.67	-0.02	0	156
+Tema New Town		5.65	0.03	0	96
+Teshi Old Town		5.58	-0.11	0	144
+#r	Northern
+Salaga		8.55	-0.52	0	25
+Savelugu		9.62	-0.83	0	41
+Tamale		9.40	-0.84	0	464
+Yendi		9.44	-0.01	0	65
+#r	Upper East
+Bawku		11.06	-0.24	0	76
+Bolgatanga		10.79	-0.85	0	82
+Navrongo		10.89	-1.09	0	25
+#r	Upper West
+Wa		10.06	-2.50	0	78
+#r	Volta
+Anloga		5.79	0.90	0	34
+Ho		6.60	0.47	0	131
+Hohoe		7.15	0.47	0	92
+Keta		5.92	0.99	0	18
+Kpandu		7.00	0.29	0	28
+#r	Western
+Bibiani		6.45	-2.32	0	36
+Esim		4.87	-2.24	0	35
+Prestea		5.43	-2.14	0	36
+Sekondi		4.93	-1.71	0	286
+Sekondi-Takoradi		4.93	-1.76	0	139
+Shama Junction		5.02	-1.66	0	21
+Takoradi		4.90	-1.76	0	389
+Tarkwa		5.30	-1.99	0	50

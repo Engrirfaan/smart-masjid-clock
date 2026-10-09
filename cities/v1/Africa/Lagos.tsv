@@ -1,0 +1,309 @@
+#z	Africa/Lagos
+#c	NG
+#r	
+Igangan		7.68	3.18	0	36
+Irewe		6.42	3.14	0	139
+#r	Abia
+Aba		5.11	7.37	0	1160
+Amaigbo		5.79	7.84	0	127
+Bende		5.56	7.63	0	80
+Ohafia-Ifigh		5.61	7.81	0	73
+Umuahia		5.52	7.49	0	370
+#r	Abuja Federal Capital Territory
+Abuja		9.06	7.50	0	2690
+Kuje		8.88	7.23	0	97
+#r	Adamawa
+Ganye		8.43	12.05	0	15
+Gombi		10.17	12.74	0	20
+Jimeta		9.28	12.46	0	248
+Mubi		10.27	13.27	0	226
+Numan		9.46	12.03	0	78
+Yola		9.21	12.48	0	460
+#r	Akwa Ibom
+Eket		4.64	7.92	0	26
+Esuk Oron		4.80	8.25	0	112
+Ikot Ekpene		5.18	7.71	0	255
+Itu		5.20	7.98	0	36
+Uyo		5.05	7.93	0	437
+#r	Anambra
+Agulu		6.10	7.06	0	79
+Atani		6.01	6.75	0	230
+Awka		6.21	7.07	0	168
+Enugu-Ukwu		6.17	7.01	0	69
+Igbo-Ukwu		6.02	7.02	0	75
+Ihiala		5.85	6.86	0	83
+Nkpor		6.15	6.83	0	104
+Nnewi		6.02	6.92	0	194
+Onitsha		6.15	6.79	0	1553
+Ozubulu		5.96	6.85	0	74
+Uga		5.94	7.08	0	64
+#r	Bauchi
+Azare		11.67	10.19	0	106
+Bauchi		10.31	9.84	0	694
+Darazo		11.00	10.41	0	18
+Kari		11.25	10.56	0	19
+#r	Bayelsa
+Yenagoa		4.93	6.27	0	365
+#r	Benue
+Gboko		7.32	9.00	0	365
+Igbor		7.45	8.61	0	18
+Katsina-Ala		7.17	9.28	0	37
+Makurdi		7.73	8.52	0	390
+Otukpa		7.10	7.66	0	22
+Takum		7.27	9.98	0	25
+#r	Borno
+Bama		11.52	13.69	0	118
+Biu		10.61	12.19	0	95
+Damboa		11.16	12.76	0	22
+Dikwa		12.04	13.92	0	29
+Gamboru		12.37	14.21	0	85
+Gwoza		11.08	13.70	0	15
+Kukawa		12.92	13.57	0	16
+Magumeri		12.11	12.83	0	19
+Maiduguri		11.85	13.16	0	1110
+Marte		12.37	13.83	0	16
+Monguno		12.67	13.61	0	20
+#r	Cross River
+Calabar		4.96	8.33	0	540
+Ikom		5.97	8.71	0	79
+Obudu		6.67	9.16	0	20
+Ogoja		6.66	8.80	0	37
+Ugep		5.81	8.08	0	200
+#r	Delta
+Agbor		6.25	6.19	0	68
+Asaba		6.20	6.73	0	73
+Burutu		5.35	5.51	0	16
+Kwale		5.71	6.43	0	20
+Ogwashi-Uku		6.18	6.52	0	26
+Sapele		5.89	5.68	0	305
+Ughelli		5.49	6.00	0	80
+Warri		5.52	5.75	0	910
+#r	Ebonyi
+Abakaliki		6.32	8.11	0	134
+Afikpo		5.89	7.94	0	72
+Effium		6.63	8.06	0	87
+Ezza-Ohu		6.44	8.08	0	67
+Isieke		6.38	8.04	0	90
+#r	Edo
+Auchi		7.07	6.26	0	63
+Benin City		6.34	5.63	0	1782
+Ekpoma		6.74	6.14	0	60
+Ubiaja		6.66	6.38	0	22
+Uromi		6.70	6.33	0	109
+#r	Ekiti
+Ado-Ekiti		7.62	5.22	0	435
+Aramoko-Ekiti		7.70	5.04	0	74
+Emure-Ekiti		7.44	5.46	0	91
+Igbara-Odo		7.50	5.06	0	74
+Igede-Ekiti		7.67	5.13	0	87
+Ijero-Ekiti		7.82	5.07	0	168
+Ikere-Ekiti		7.50	5.23	0	103
+Ipoti		7.87	5.08	0	82
+Ise-Ekiti		7.46	5.42	0	190
+Oke Ila		7.95	4.98	0	35
+#r	Enugu
+Aku		6.71	7.32	0	74
+Awgu		6.07	7.48	0	23
+Eha Amufu		6.66	7.76	0	71
+Enugu		6.44	7.50	0	950
+Enugu-Ezike		6.98	7.46	0	19
+Nsukka		6.86	7.40	0	111
+#r	Gombe
+Biliri		9.87	11.23	0	16
+Deba		10.21	11.39	0	18
+Dukku		10.82	10.77	0	17
+Garko		10.18	11.16	0	21
+Gombe		10.29	11.17	0	560
+Kumo		10.05	11.21	0	36
+Nafada		11.10	11.33	0	23
+Pindiga		9.98	10.95	0	106
+#r	Imo
+Nkwerre		5.76	7.10	0	63
+Oguta		5.71	6.81	0	22
+Okigwe		5.83	7.35	0	115
+Owerri		5.48	7.03	0	545
+#r	Jigawa
+Birnin Kudu		11.45	9.48	0	27
+Chakwama		11.56	9.66	0	200
+Dutse		11.76	9.34	0	17
+Gumel		12.63	9.39	0	43
+Gwaram		11.28	9.88	0	16
+Hadejia		12.45	10.04	0	111
+Kiyawa		11.78	9.61	0	18
+#r	Kaduna
+Anchau		10.96	8.39	0	16
+Dutsen Wai		10.85	8.20	0	22
+Kachia		9.87	7.95	0	31
+Kaduna		10.53	7.44	0	1850
+Kafanchan		9.58	8.29	0	80
+Kagoro		9.61	8.39	0	77
+Lere		10.39	8.57	0	93
+Soba		10.98	8.06	0	16
+Sofo-Birnin-Gwari		11.02	6.78	0	22
+Zaria		11.11	7.72	0	980
+#r	Kano
+Gaya		11.86	9.00	0	21
+Gwarzo		11.92	7.93	0	16
+Kano		12.00	8.52	0	4910
+Rano		11.56	8.58	0	18
+Wudil		11.81	8.84	0	23
+#r	Katsina
+Daura		13.03	8.32	0	25
+Funtua		11.52	7.31	0	137
+Katsina		12.99	7.60	0	670
+Malumfashi		11.79	7.62	0	71
+#r	Kebbi
+Argungu		12.74	4.53	0	46
+Birnin Kebbi		12.45	4.20	0	108
+Jega		12.22	4.38	0	73
+Kamba		11.85	3.65	0	26
+Zuru		11.44	5.23	0	24
+#r	Kogi
+Ajaokuta		7.56	6.65	0	15
+Egbe		8.22	5.51	0	18
+Idah		7.11	6.74	0	69
+Isanlu-Itedoijowa		8.27	5.84	0	15
+Kabba		7.83	6.08	0	50
+Lokoja		7.80	6.74	0	61
+Ogaminana		7.59	6.22	0	84
+Okene		7.55	6.24	0	479
+#r	Kwara
+Bode Saadu		8.94	4.78	0	17
+Ilorin		8.50	4.54	0	1080
+Jebba		9.12	4.82	0	21
+Kaiama		9.61	3.94	0	22
+Lafiagi		8.85	5.42	0	103
+Offa		8.15	4.72	0	114
+Okuta		9.22	3.20	0	27
+Patigi		8.73	5.76	0	28
+#r	Lagos
+Agege		6.62	3.33	0	684
+Ajegunle		6.45	3.33	0	550
+Akowonjo		6.61	3.31	0	309
+Alasia		6.47	3.17	0	100
+Aliayabiagba		6.45	3.33	0	228
+Alimosho		6.61	3.30	0	308
+Badagry		6.42	2.88	0	26
+Ebute Ikorodu		6.60	3.49	0	536
+Epe		6.58	3.98	0	85
+Ikeja		6.60	3.34	0	313
+Lagos		6.45	3.39	0	15388
+Lekki		6.45	3.48	0	401
+Makoko		6.50	3.39	0	86
+Mushin		6.53	3.35	0	199
+Obalende		6.45	3.42	0	342
+Oshodi		6.56	3.34	0	171
+Shomolu		6.54	3.37	0	154
+Surulere		6.50	3.36	0	192
+#r	Nassarawa
+Akwanga		8.91	8.41	0	16
+Doma		8.39	8.36	0	15
+Keffi		8.85	7.87	0	86
+Lafia		8.49	8.52	0	127
+Nasarawa		8.54	7.71	0	31
+Wamba		8.94	8.60	0	27
+#r	Niger
+Babana		10.43	3.81	0	18
+Baro		8.62	6.42	0	27
+Bida		9.08	6.01	0	400
+Ibeto		10.49	5.15	0	16
+Kontagora		10.40	5.47	0	99
+Lapai		9.04	6.57	0	16
+Minna		9.62	6.55	0	425
+Mokwa		9.29	5.05	0	21
+Rijau		11.10	5.26	0	17
+Suleja		9.18	7.18	0	162
+Tegina		10.07	6.19	0	24
+Zungeru		9.81	6.15	0	24
+#r	Ogun
+Abeokuta		7.16	3.35	0	735
+Ado-Odo		6.60	2.94	0	15
+Ifo		6.81	3.20	0	88
+Ijebu Ode		6.82	3.92	0	360
+Ijebu-Igbo		6.97	4.00	0	109
+Ijoko		6.74	3.26	0	17
+Ilaro		6.89	3.01	0	47
+Iperu		6.91	3.67	0	16
+Iyesi		6.66	3.18	0	17
+Ota		6.69	3.23	0	252
+River Atuwara		6.68	3.14	0	16
+Shagamu		6.85	3.65	0	215
+#r	Ondo
+Akure		7.25	5.19	0	730
+Idanre		7.11	5.12	0	86
+Ikare		7.53	5.75	0	465
+Ode		7.79	5.71	0	75
+Ondo		7.09	4.84	0	375
+Owo		7.20	5.59	0	277
+#r	Osun
+Apomu		7.35	4.18	0	72
+Ede		7.74	4.44	0	160
+Efon-Alaaye		7.66	4.92	0	279
+Ejigbo		7.90	4.31	0	138
+Gbongan		7.48	4.35	0	139
+Ijebu-Jesa		7.68	4.82	0	52
+Ikire		7.37	4.19	0	222
+Ikirun		7.91	4.67	0	134
+Ila Orangun		8.02	4.90	0	179
+Ile-Ife		7.48	4.56	0	560
+Ilesa		7.63	4.74	0	325
+Ilobu		7.84	4.49	0	118
+Inisa		7.85	4.33	0	164
+Iwo		7.64	4.18	0	250
+Modakeke		7.38	4.26	0	120
+Oke Mesi		7.82	4.92	0	80
+Olupona		7.60	4.19	0	95
+Osogbo		7.77	4.56	0	645
+Otan Ayegbaju		7.95	4.79	0	38
+Oyan		8.05	4.77	0	74
+#r	Oyo
+Eruwa		7.54	3.42	0	35
+Fiditi		7.71	3.92	0	71
+Ibadan		7.38	3.91	0	3649
+Igbeti		8.75	4.13	0	25
+Igbo-Ora		7.43	3.29	0	93
+Igboho		8.84	3.76	0	137
+Iseyin		7.97	3.60	0	365
+Kisi		9.08	3.85	0	156
+Lalupon		7.47	4.07	0	81
+Ogbomoso		8.13	4.24	0	433
+Orita-Eruwa		7.56	3.44	0	71
+Oyo		7.85	3.93	0	736
+Saki		8.67	3.39	0	179
+#r	Plateau
+Bukuru		9.79	8.86	0	16
+Jos		9.93	8.89	0	1040
+Pankshin		9.33	9.44	0	32
+#r	Rivers
+Bonny		4.45	7.17	0	17
+Buguma		4.74	6.86	0	135
+Degema Hulk		4.76	6.75	0	19
+Elele		5.10	6.81	0	21
+Obonoma		4.71	6.79	0	69
+Okrika		4.74	7.08	0	133
+Port Harcourt		4.78	7.01	0	2120
+#r	Sokoto
+Gwadabawa		13.36	5.24	0	17
+Illela		13.73	5.30	0	17
+Sokoto		13.06	5.24	0	1040
+Tambuwal		12.41	4.65	0	21
+#r	Taraba
+Beli		7.86	10.97	0	17
+Gembu		6.73	11.26	0	20
+Ibi		8.18	9.74	0	23
+Jalingo		8.89	11.36	0	118
+Wukari		7.87	9.78	0	93
+#r	Yobe
+Damaturu		11.75	11.96	0	46
+Daura		11.55	11.41	0	78
+Gashua		12.87	11.04	0	126
+Geidam		12.89	11.93	0	41
+Kumagunnam		13.15	10.63	0	17
+Nguru		12.88	10.46	0	111
+Potiskum		11.71	11.08	0	86
+#r	Zamfara
+Gummi		12.14	5.12	0	39
+Gusau		12.17	6.66	0	227
+Kaura Namoda		12.59	6.59	0	70
+Moriki		12.87	6.49	0	29
+Talata Mafara		12.57	6.06	0	39

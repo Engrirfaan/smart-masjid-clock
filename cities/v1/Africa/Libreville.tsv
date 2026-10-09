@@ -1,0 +1,27 @@
+#z	Africa/Libreville
+#c	GA
+#r	
+Akanda		0.61	9.33	0	42
+#r	Estuaire
+Libreville		0.39	9.45	0	846
+Ntoum		0.39	9.76	0	62
+Owendo		0.29	9.50	0	95
+#r	Haut-Ogooue
+Franceville		-1.63	13.58	0	133
+Moanda		-1.57	13.20	0	71
+#r	Moyen-Ogooue
+Lambaréné	Lambarene	-0.70	10.24	0	47
+Oyam		-0.20	10.68	0	30
+#r	Ngounie
+Mouila		-1.87	11.06	0	43
+#r	Nyanga
+Tchibanga		-2.93	10.98	0	36
+#r	Ogooue-Ivindo
+Makokou		0.57	12.86	0	25
+#r	Ogooue-Lolo
+Koulamoutou		-1.14	12.46	0	31
+#r	Ogooue-Maritime
+Port-Gentil		-0.72	8.78	0	164
+#r	Woleu-Ntem
+Bitam		2.08	11.50	0	34
+Oyem		1.60	11.58	0	73
