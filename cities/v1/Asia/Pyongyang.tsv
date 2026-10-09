@@ -1,0 +1,111 @@
+#z	Asia/Pyongyang
+#c	KP
+#r	
+Chaeryŏng-ni	Chaeryong-ni	38.74	125.23	0	126
+Changam-ch’on	Changam-chon	40.61	128.78	0	207
+Chunggang		41.78	126.87	0	41
+Ch’ŏngdan-ŭp	Chongdan-up	37.97	125.94	0	143
+Hwadae		40.84	129.50	0	68
+Kangsŏn	Kangson	38.94	125.58	0	102
+Kop’ung	Kopung	40.60	125.95	0	32
+Kwail-ŭp	Kwail-up	38.45	125.02	0	90
+Manp’o	Manpo	41.15	126.29	0	117
+Paech’ŏn-ŭp	Paechon-up	37.99	126.30	0	160
+Pongch’ŏn-ŭp	Pongchon-up	38.12	126.20	0	80
+Samch’ŏn	Samchon	38.36	125.33	0	86
+Samjiyŏn-ŭp	Samjiyon-up	41.80	128.32	0	31
+Sijung		41.08	126.38	0	42
+Songwŏn	Songwon	40.38	125.88	0	38
+Songwŏn-ŭp	Songwon-up	40.37	126.31	0	38
+Sunch’ŏn	Sunchon	39.43	125.93	0	437
+Tŏkch’ŏn	Tokchon	39.75	126.26	0	237
+T’aet’an-ŭp	Taetan-up	38.09	125.30	0	64
+Yŏch’im-dong	Yochim-dong	40.36	126.66	0	47
+Yŏnsa-ŭp	Yonsa-up	41.91	129.01	0	38
+Ŭllyul	Ullyul	38.51	125.19	0	108
+#r	Chagang-do
+Kanggye		40.97	126.59	0	210
+#r	Hamgyong-bukto
+Aoji-ri		42.52	130.40	0	34
+Chongjin		41.80	129.78	0	327
+Hoeryŏng	Hoeryong	42.44	129.75	0	44
+Hwasŏng	Hwasong	41.26	129.49	0	100
+Kilju		40.96	129.33	0	64
+Kyŏngsŏng	Kyongsong	41.59	129.61	0	36
+Musan-ŭp	Musan-up	42.23	129.21	0	22
+Myŏngch’ŏn	Myongchon	41.07	129.43	0	66
+Myŏnggan-dong	Myonggan-dong	41.14	129.49	0	100
+Namyang		42.95	129.86	0	22
+Namyang-nodongjagu		42.95	129.86	0	66
+Onsŏng	Onsong	42.96	129.99	0	20
+Puryŏng-ŭp	Puryong-up	42.06	129.70	0	49
+Ranam		41.71	129.68	0	34
+Ŏrang	Orang	41.45	129.66	0	88
+Ŭndŏk	Undok	42.52	130.33	0	89
+#r	Hamgyong-namdo
+Hamhŭng	Hamhung	39.92	127.54	0	559
+Hongwŏn	Hongwon	40.03	127.96	0	71
+Hŭngnam	Hungnam	39.84	127.63	0	346
+Iwŏn-ŭp	Iwon-up	40.32	128.66	0	26
+Kowŏn-ŭp	Kowon-up	39.44	127.24	0	21
+Samho-rodongjagu		39.95	127.87	0	19
+Sinp’o	Sinpo	40.04	128.19	0	153
+Yuktae-dong		40.02	128.16	0	76
+Yŏnggwang-ŭp	Yonggwang-up	40.02	127.45	0	22
+#r	Hwanghae-bukto
+Anak		38.51	125.49	0	20
+Hwangju-ŭp	Hwangju-up	38.67	125.78	0	36
+Hŭkkyo-ri	Hukkyo-ri	38.80	125.79	0	25
+Sariwŏn-si	Sariwon-si	38.51	125.76	0	310
+Sinmak		38.42	126.23	0	19
+Songnim-ni		38.76	125.64	0	152
+Ŭnch’ŏn-ŭp	Unchon-up	38.57	125.43	0	96
+#r	Hwanghae-namdo
+Ayang-ni		38.25	125.79	0	16
+Chaeryŏng-ŭp	Chaeryong-up	38.40	125.62	0	53
+Changyŏn	Changyon	38.25	125.10	0	39
+Haeju		38.04	125.71	0	222
+Kaesŏng	Kaesong	37.97	126.55	0	338
+Kangnyŏng	Kangnyong	37.91	125.51	0	107
+Ongjin		37.93	125.36	0	64
+Sinch’ŏn-ŭp	Sinchon-up	38.35	125.48	0	141
+Sinwŏn-ŭp	Sinwon-up	38.24	125.76	0	83
+Songhwa		38.36	125.14	0	44
+Yŏnan-ŭp	Yonan-up	37.91	126.16	0	23
+#r	Kangwon-do
+Anbyŏn-ŭp	Anbyon-up	39.04	127.52	0	32
+Hoeyang		38.71	127.60	0	21
+Kosan		38.86	127.42	0	25
+T’ongch’ŏn-ŭp	Tongchon-up	38.95	127.89	0	21
+Wŏnsan	Wonsan	39.15	127.44	0	329
+#r	P'yongan-bukto
+Chŏngju	Chongju	39.69	125.21	0	29
+Kaech’ŏn	Kaechon	39.70	125.89	0	320
+Kujang-ŭp	Kujang-up	39.87	126.03	0	20
+Kusŏng-si	Kusong-si	39.98	125.25	0	31
+Sakchu-ŭp	Sakchu-up	40.39	125.05	0	18
+Sinŭiju	Sinuiju	40.10	124.40	0	288
+Uiju		40.20	124.53	0	50
+#r	P'yongan-namdo
+Anju		39.62	125.66	0	50
+Ch’ŏsal-li	Chosal-li	39.40	125.51	0	44
+Namp’o	Nampo	38.74	125.41	0	455
+Paek'ak		39.46	125.61	0	126
+P’yŏngsŏng	Pyongsong	39.25	125.87	0	100
+Sil-li		39.49	125.47	0	19
+Sinanju		39.60	125.61	0	16
+#r	Pyongyang
+Chunghwa		38.86	125.80	0	19
+Kangdong-ŭp	Kangdong-up	39.14	126.10	0	29
+Man’gyŏngdae-ri	Mangyongdae-ri	38.99	125.66	0	322
+Pyongyang		39.03	125.75	0	3222
+Sunan		39.20	125.69	0	37
+Sŭngho 1-tong	Sungho 1-tong	38.99	125.98	0	40
+#r	Rason
+Rajin		42.26	130.28	0	66
+Sŏnbong	Sonbong	42.35	130.38	0	27
+Unggi		42.34	130.41	0	27
+#r	Yanggang-do
+Hyesan		41.40	128.18	0	193
+Hyesan-dong		41.40	128.19	0	98
+Kapsan-ŭp	Kapsan-up	41.09	128.29	0	20

@@ -1,0 +1,178 @@
+#z	Asia/Yekaterinburg
+#c	RU
+#r	
+Fedorovskiy		61.61	73.71	0	23
+Krasnaya Glinka		53.74	52.94	0	86
+Mezgor'e		54.05	57.82	0	16
+Poykovskiy		61.00	71.89	0	28
+#r	Bashkortostan
+Agidel’	Agidel	55.91	53.93	0	19
+Baymak		52.59	58.31	0	17
+Belebey		54.11	54.12	0	63
+Beloretsk		53.96	58.40	0	70
+Birsk		55.42	55.54	0	41
+Blagoveshchensk		55.04	55.98	0	34
+Chishmy		54.59	55.38	0	22
+Davlekanovo		54.22	55.03	0	24
+Dyurtyuli		55.49	54.86	0	31
+Ishimbay		53.45	56.04	0	70
+Kumertau		52.76	55.79	0	65
+Meleuz		52.96	55.93	0	65
+Neftekamsk		56.09	54.26	0	127
+Oktyabrsky		54.48	53.47	0	108
+Priyutovo		53.90	53.93	0	21
+Rayevskiy		54.06	54.93	0	20
+Salavat		53.38	55.91	0	160
+Sibay		52.72	58.67	0	62
+Sterlitamak		53.64	55.95	0	267
+Tuymazy		54.61	53.71	0	69
+Uchaly		54.36	59.44	0	38
+Ufa		54.74	55.97	0	1121
+Yanaul		56.27	54.93	0	28
+#r	Chelyabinsk
+Asha		55.00	57.25	0	33
+Bakal		54.94	58.81	0	22
+Chebarkul’	Chebarkul	54.98	60.37	0	47
+Chelyabinsk		55.16	61.43	0	1202
+Karabash		55.49	60.21	0	16
+Kartaly		53.06	60.64	0	29
+Kasli		55.89	60.75	0	18
+Katav-Ivanovsk		54.75	58.20	0	19
+Kopeysk		55.12	61.62	0	71
+Korkino		54.89	61.39	0	40
+Kusa		55.35	59.44	0	20
+Kyshtym		55.72	60.55	0	42
+Magnitogorsk		53.40	59.01	0	413
+Miass		55.05	60.11	0	168
+Ozersk		55.76	60.70	0	81
+Plast		54.37	60.81	0	17
+Satka		55.04	59.05	0	49
+Sim		54.99	57.70	0	16
+Snezhinsk		56.08	60.75	0	50
+Troitsk		54.09	61.57	0	82
+Trëkhgornyy	Trekhgornyy	54.82	58.45	0	34
+Ust’-Katav	Ust-Katav	54.94	58.18	0	25
+Verkhniy Ufaley		56.05	60.23	0	33
+Yemanzhelinsk		54.75	61.32	0	30
+Yuzhnoural’sk	Yuzhnouralsk	54.45	61.26	0	39
+Zlatoust		55.17	59.65	0	191
+#r	Khanty-Mansiyskiy Avtonomnyy Okrug
+Beloyarskiy		63.71	66.67	0	20
+Belyy Yar		61.26	73.24	0	17
+Izluchinsk		60.98	76.92	0	18
+Khanty-Mansiysk		61.00	69.03	0	101
+Kogalym		62.27	74.48	0	58
+Langepas		61.25	75.21	0	40
+Lyantor		61.62	72.16	0	38
+Megion		61.03	76.11	0	49
+Nefteyugansk		61.10	72.60	0	113
+Nizhnesortymskiy		62.44	71.76	0	15
+Nizhnevartovsk		60.93	76.55	0	245
+Nyagan		62.14	65.39	0	52
+Pokachi		61.72	75.37	0	17
+Pyt-Yakh		60.75	72.86	0	42
+Raduzhny		62.10	77.47	0	48
+Sovetskiy		61.36	63.58	0	24
+Surgut		61.26	73.42	0	300
+Uray		60.13	64.79	0	40
+Yugorsk		61.31	63.33	0	31
+#r	Kurgan
+Kataysk		56.29	62.58	0	16
+Kurgan		55.45	65.34	0	309
+Kurtamysh		54.91	64.43	0	18
+Shadrinsk		56.09	63.64	0	79
+Shumikha		55.23	63.29	0	18
+#r	Orenburg
+Abdulino		53.69	53.66	0	21
+Buguruslan		53.66	52.44	0	54
+Buzuluk		52.78	52.26	0	88
+Gay		51.47	58.45	0	42
+Kuvandyk		51.48	57.36	0	29
+Mednogorsk		51.41	57.59	0	31
+Novotroitsk		51.20	58.31	0	106
+Orenburg		51.77	55.10	0	565
+Orsk		51.23	58.49	0	247
+Saraktash		51.79	56.36	0	17
+Sol’-Iletsk	Sol-Iletsk	51.16	54.99	0	27
+Sorochinsk		52.43	53.15	0	31
+Yasnyy		51.04	59.87	0	17
+#r	Perm
+Aleksandrovsk		59.16	57.57	0	15
+Berezniki		59.41	56.82	0	168
+Chaykovskiy		56.76	54.11	0	87
+Chernushka		56.51	56.08	0	36
+Chusovoy		58.29	57.81	0	50
+Dobryanka		58.46	56.41	0	33
+Gubakha		58.84	57.55	0	27
+Kizel		59.05	57.65	0	22
+Krasnokamsk		58.08	55.76	0	53
+Krasnovishersk		60.41	57.08	0	18
+Kudymkar		59.02	54.65	0	32
+Kungur		57.41	56.97	0	66
+Lys’va	Lysva	58.11	57.81	0	69
+Nytva		57.94	55.34	0	21
+Ochër	Ocher	57.88	54.72	0	15
+Osa		57.28	55.46	0	23
+Perm		58.01	56.25	0	982
+Solikamsk		59.67	56.74	0	101
+Vereshchagino		58.08	54.66	0	22
+#r	Sverdlovsk
+Alapayevsk		57.85	61.69	0	44
+Aramil		56.70	60.84	0	15
+Artëmovskiy	Artemovskiy	57.35	61.87	0	34
+Asbest		57.01	61.46	0	75
+Beryozovsky		56.91	60.80	0	47
+Bogdanovich		56.78	62.05	0	32
+Degtyarsk		56.70	60.09	0	15
+Irbit		57.67	63.07	0	42
+Ivdel’	Ivdel	60.69	60.42	0	19
+Kachkanar		58.70	59.48	0	44
+Kamensk-Ural’skiy	Kamensk-Uralskiy	56.41	61.93	0	182
+Kamyshlov		56.85	62.71	0	28
+Karpinsk		59.77	60.01	0	30
+Kirovgrad		57.43	60.06	0	23
+Krasnoturinsk		59.77	60.21	0	63
+Krasnoufimsk		56.61	57.77	0	43
+Krasnoural’sk	Krasnouralsk	58.36	60.04	0	27
+Kushva		58.29	59.75	0	34
+Lesnoy		58.64	59.79	0	24
+Lesnoy		57.62	63.08	0	55
+Nev’yansk	Nevyansk	57.49	60.21	0	26
+Nizhny Tagil		57.92	59.97	0	381
+Nizhnyaya Salda		58.08	60.72	0	17
+Nizhnyaya Tura		58.62	59.85	0	23
+Novoural’sk	Novouralsk	57.25	60.09	0	94
+Pervouralsk		56.91	59.94	0	134
+Polevskoy		56.44	60.19	0	66
+Reftinskiy		57.09	61.68	0	18
+Revda		56.80	59.94	0	62
+Rezh		57.37	61.40	0	37
+Serov		59.60	60.59	0	98
+Severoural’sk	Severouralsk	60.15	59.95	0	34
+Sredneuralsk		56.99	60.47	0	20
+Sukhoy Log		56.91	62.03	0	36
+Sysert’	Sysert	56.50	60.82	0	22
+Talitsa		56.88	60.02	0	19
+Talitsa		57.01	63.73	0	19
+Tavda		58.04	65.27	0	39
+Turinsk		58.05	63.70	0	19
+Verkhnyaya Pyshma		56.97	60.58	0	59
+Verkhnyaya Salda		58.05	60.55	0	49
+Yekaterinburg		56.86	60.62	0	1495
+Zarechnyy		56.81	61.33	0	28
+#r	Tjumen
+Borovskiy		57.04	65.72	0	15
+Ishim		56.11	69.49	0	68
+Tobolsk		58.20	68.25	0	114
+Tyumen		57.15	65.53	0	768
+Yalutorovsk		56.65	66.30	0	36
+Zavodoukovsk		56.50	66.55	0	26
+#r	Yamalo-Nenetskiy Avtonomnyy Okrug
+Gubkinskiy		64.43	76.50	0	20
+Labytnangi		66.66	66.42	0	27
+Muravlenko		63.79	74.52	0	39
+Nadym		65.53	72.52	0	46
+Novyy Urengoy		66.08	76.63	0	94
+Noyabrsk		63.19	75.44	0	110
+Salekhard		66.53	66.61	0	49
+Tarko-Sale		64.92	77.77	0	19

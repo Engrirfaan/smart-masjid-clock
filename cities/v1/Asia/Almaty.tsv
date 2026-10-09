@@ -1,0 +1,70 @@
+#z	Asia/Almaty
+#c	KZ
+#r	
+Abay		41.35	68.95	0	24
+Maqanshy		46.78	82.02	0	19
+Satpayev		47.90	67.54	0	70
+Shelek		43.60	78.26	0	29
+#r	Almaty Oblysy
+Burunday		43.36	76.85	0	21
+Esik		43.36	77.45	0	33
+Konayev		43.87	77.06	0	42
+Otegen Batyra		43.42	77.02	0	19
+Sarqant		45.41	79.92	0	77
+Taldykorgan		45.02	78.37	0	117
+Talghar		43.30	77.24	0	42
+Tekeli		44.87	78.73	0	27
+Ushtobe		45.25	77.98	0	20
+Zharkent		44.17	80.01	0	34
+#r	Almaty Qalasy
+Almaty		43.25	76.91	0	1977
+#r	Aqmola
+Akkol’	Akkol	53.30	69.60	0	17
+Atbasar		51.81	68.36	0	35
+Kokshetau		53.28	69.39	0	151
+Makinsk		52.63	70.42	0	18
+Stepnogorsk		52.35	71.88	0	47
+#r	Astana Qalasy
+Astana		51.18	71.45	0	1544
+#r	East Kazakhstan
+Altay		49.74	84.25	0	45
+Ayagoz		47.96	80.43	0	33
+Kalbatau		49.33	81.57	0	22
+Ridder		50.35	83.52	0	53
+Semey		50.42	80.25	0	293
+Shemonaikha		50.63	81.91	0	20
+Ust-Kamenogorsk		49.97	82.61	0	319
+Zaysan		47.47	84.87	0	18
+#r	Ongtustik Qazaqstan
+Aksu		42.42	69.83	0	26
+Arys		42.43	68.81	0	36
+Kentau		43.52	68.50	0	57
+Lenger		42.18	69.89	0	21
+Saryaghash		41.46	69.17	0	25
+Shardara		41.26	67.97	0	25
+Shymkent		42.31	69.60	0	1200
+Turar Ryskulov		42.53	70.35	0	18
+Turkistan		43.29	68.26	0	227
+Zhetysay		40.78	68.33	0	36
+#r	Pavlodar
+Aksu		52.04	76.93	0	45
+Ekibastuz		51.72	75.32	0	121
+Pavlodar		52.28	76.97	0	329
+#r	Qaraghandy
+Abay		49.64	72.87	0	35
+Balqash		46.85	74.98	0	81
+Karagandy		49.80	73.10	0	498
+Saran		49.80	72.83	0	43
+Shakhtinsk		49.71	72.59	0	42
+Temirtau		50.05	72.95	0	171
+Zhezqazghan		47.79	67.71	0	104
+#r	Soltustik Qazaqstan
+Petropavl		54.87	69.15	0	201
+Shchuchinsk		52.94	70.19	0	47
+#r	Zhambyl
+Karatau		43.18	70.46	0	38
+Merke		42.87	73.20	0	16
+Sarykemer		43.01	71.51	0	15
+Shu		43.61	73.76	0	40
+Taraz		42.90	71.37	0	358
+Zhangatas		43.56	69.73	0	33

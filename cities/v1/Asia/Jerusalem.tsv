@@ -1,0 +1,118 @@
+#z	Asia/Jerusalem
+#c	IL
+#r	Central District
+Be’er Ya‘aqov	Beer Yaaqov	31.94	34.84	0	28
+Bāqa el Gharbīya	Baqa el Gharbiya	32.42	35.04	0	30
+El‘ad	Elad	32.05	34.95	0	49
+Eṭ Ṭaiyiba	Et Taiyiba	32.27	35.01	0	44
+Eṭ Ṭīra	Et Tira	32.23	34.95	0	27
+Gan Yavne		31.79	34.71	0	24
+Ganei Tikva		32.06	34.87	0	25
+Gedera		31.81	34.78	0	31
+Hod HaSharon		32.16	34.89	0	63
+Kadima Zoran		32.28	34.92	0	22
+Kafr Qāsim	Kafr Qasim	32.11	34.98	0	24
+Kfar Saba		32.17	34.91	0	110
+Kfar Yona		32.32	34.94	0	25
+Kiryat Ono		32.06	34.86	0	40
+Lod		31.95	34.89	0	77
+Modi‘in Makkabbim Re‘ut	Modiin Makkabbim Reut	31.89	35.02	0	93
+Ness Ziona		31.93	34.80	0	50
+Netanya		32.33	34.86	0	228
+Petaẖ Tiqva	Petah Tiqva	32.09	34.89	0	254
+Qalansuwa		32.28	34.98	0	17
+Qiryat Mal’akhi	Qiryat Malakhi	31.73	34.75	0	25
+Ra'anana		32.18	34.87	0	75
+Ramla		31.93	34.86	0	76
+Reẖovot	Rehovot	31.89	34.81	0	149
+Rishon LeTsiyyon		31.97	34.79	0	259
+Rosh Ha‘Ayin	Rosh HaAyin	32.10	34.96	0	73
+Shoham		32.00	34.95	0	21
+Yavné	Yavne	31.88	34.74	0	48
+Yehud		32.03	34.89	0	26
+Yehud-Monosson		32.03	34.88	0	29
+#r	Haifa
+Binyamina-Giv'at Ada		32.52	34.95	0	16
+Binyamina-Giv‘at ‘Ada	Binyamina-Givat Ada	32.52	34.94	0	16
+Daliyat al Karmel		32.69	35.05	0	25
+Hadera		32.44	34.90	0	97
+Haifa		32.81	35.00	0	285
+Kafr Qari‘	Kafr Qari	32.51	35.05	0	19
+Nesher		32.77	35.04	0	24
+Or Akiva		32.51	34.92	0	19
+Pardés H̱anna Karkur	Pardes Hanna Karkur	32.47	34.98	0	45
+Qiryat Ata		32.81	35.11	0	59
+Qiryat Bialik		32.83	35.09	0	44
+Qiryat Motsqin		32.84	35.08	0	43
+Qiryat Yam		32.85	35.07	0	40
+Shefar‘am	Shefaram	32.81	35.17	0	42
+Tirat Karmel		32.76	34.97	0	28
+Umm el Faḥm	Umm el Fahm	32.52	35.15	0	56
+Yoqne‘am ‘Illit	Yoqneam Illit	32.65	35.09	0	24
+Zikhron Ya‘aqov	Zikhron Yaaqov	32.57	34.95	0	23
+‘Ara-‘Ar‘ara	Ara-Arara	32.50	35.09	0	25
+#r	Jerusalem
+Ariel		32.11	35.18	0	21
+Bet Shemesh		31.73	34.99	0	125
+Giv`at H̱ananya	Giv`at Hananya	31.77	35.23	0	16
+Jerusalem		31.77	35.22	0	972
+Mevasseret Tsiyyon		31.80	35.15	0	24
+Modiin Ilit		31.93	35.04	0	76
+Qiryat HaYovel		31.77	35.17	0	25
+West Jerusalem		31.78	35.22	0	400
+#r	Northern District
+Acre		32.93	35.08	0	51
+Afula		32.61	35.29	0	45
+Ar Rayna		32.72	35.32	0	16
+Bet She’an	Bet Shean	32.50	35.50	0	17
+Judeida Makr		32.93	35.16	0	21
+Kafr Kannā	Kafr Kanna	32.75	35.34	0	23
+Kafr Mandā	Kafr Manda	32.81	35.26	0	20
+Karmi’el	Karmiel	32.91	35.30	0	46
+Maghār	Maghar	32.89	35.41	0	23
+Majd el Kurūm	Majd el Kurum	32.92	35.25	0	15
+Migdal Ha‘Emeq	Migdal HaEmeq	32.68	35.24	0	26
+Nahariyya		33.01	35.10	0	58
+Nazareth		32.70	35.30	0	77
+Naẕerat ‘Illit	Nazerat Illit	32.71	35.32	0	44
+Qiryat Shmona		33.21	35.57	0	23
+Qiryat Tiv‘on	Qiryat Tivon	32.71	35.13	0	18
+Safed		32.96	35.50	0	36
+Sakhnīn	Sakhnin	32.87	35.30	0	32
+Tamra		32.85	35.20	0	26
+Tiberias		32.79	35.53	0	45
+Yirkā	Yirka	32.95	35.21	0	17
+Yāfā	Yafa	32.69	35.28	0	19
+maalot Tarshīhā	maalot Tarshiha	33.02	35.27	0	22
+#r	Southern District
+Arad		31.26	35.21	0	28
+Ashdod		31.79	34.65	0	227
+Ashkelon		31.67	34.57	0	144
+Beersheba		31.25	34.79	0	187
+Dimona		31.07	35.03	0	36
+Eilat		29.56	34.95	0	52
+H̱ura	Hura	31.30	34.94	0	22
+Kiryat Gat		31.61	34.76	0	62
+Kuseifa		31.25	35.09	0	21
+Netivot		31.42	34.59	0	44
+Ofaqim		31.31	34.62	0	35
+Rahat		31.40	34.76	0	20
+Sderot		31.52	34.60	0	28
+Tel Sheva‘	Tel Sheva	31.25	34.86	0	20
+‘Ar‘ara BaNegev	Arara BaNegev	31.16	35.02	0	18
+#r	Tel Aviv
+Bat Yam		32.02	34.75	0	129
+Bnei Brak		32.08	34.83	0	214
+Giv'at Shmuel		32.08	34.85	0	29
+Givatayim		32.07	34.81	0	61
+Herzliya		32.17	34.83	0	97
+H̱olon	Holon	32.01	34.78	0	196
+Jaffa		32.05	34.75	0	100
+Or Yehuda		32.03	34.86	0	37
+Ramat Gan		32.08	34.81	0	171
+Ramat HaSharon		32.15	34.84	0	47
+Tel Aviv		32.08	34.78	0	433
+#c	PS
+#r	West Bank
+Battir		31.70	35.12	0	57
+Ma‘ale Adummim	Maale Adummim	31.78	35.30	0	38

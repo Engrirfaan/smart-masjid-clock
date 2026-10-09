@@ -1,0 +1,121 @@
+#z	Asia/Baghdad
+#c	IQ
+#r	
+Batifa		37.17	43.01	0	28
+Qal‘at Sukkar	Qalat Sukkar	31.86	46.07	0	110
+Tāzah Khūrmātū	Tazah Khurmatu	35.30	44.33	0	22
+Şafwān	Safwan	30.12	47.72	0	23
+Ḩarir	Harir	36.55	44.35	0	32
+#r	Al Muthanna
+Ar Rumaythah		31.53	45.20	0	47
+As Samawah		31.33	45.29	0	153
+#r	Al Qadisiyah
+Al Diwaniyah		31.99	44.93	0	319
+Ash Shāmīyah	Ash Shamiyah	31.96	44.60	0	58
+Nahiyat Ghammas		31.74	44.62	0	31
+Nāḩiyat ash Shināfīyah	Nahiyat ash Shinafiyah	31.58	44.65	0	23
+‘Afak	Afak	32.06	45.25	0	36
+#r	An Najaf
+Al Mishkhāb	Al Mishkhab	31.80	44.49	0	23
+Kufa		32.05	44.44	0	110
+Najaf		32.03	44.35	0	483
+#r	Anbar
+Al Fallūjah	Al Fallujah	33.35	43.79	0	190
+Al Qā’im	Al Qaim	34.39	40.99	0	74
+Ar Ruţbah	Ar Rutbah	33.04	40.29	0	22
+Hīt	Hit	33.64	42.83	0	32
+Ramadi		33.42	43.31	0	224
+Ḩadīthah	Hadithah	34.14	42.38	0	31
+‘Anah	Anah	34.37	41.98	0	27
+‘Anat al Qadīmah	Anat al Qadimah	34.47	41.94	0	20
+#r	Arbil
+Baḥarkah	Baharkah	36.32	44.04	0	131
+Erbil		36.19	44.01	0	1613
+Khalīfān	Khalifan	36.61	44.40	0	20
+Khasnahzān	Khasnahzan	36.20	44.14	0	147
+Koysinceq		36.08	44.63	0	45
+Pīrmām	Pirmam	36.39	44.20	0	39
+Shaqlāwah	Shaqlawah	36.40	44.33	0	33
+Soran		36.66	44.54	0	92
+Ṟuwandiz	Ruwandiz	36.61	44.52	0	23
+#r	As Sulaymaniyah
+Baynjiwayn		35.62	45.95	0	27
+Hajiawa		36.24	44.79	0	80
+Halabja		35.18	45.99	0	57
+Jamjamāl	Jamjamal	35.53	44.83	0	43
+Kelar		34.63	45.32	0	250
+Qeładizê	Qeadize	36.18	45.13	0	141
+Rānyah	Ranyah	36.26	44.88	0	114
+Shūrash	Shurash	35.52	44.84	0	30
+Sulaymaniyah		35.56	45.43	0	878
+#r	Babil
+Al Hillah		32.46	44.42	0	456
+Al Maḩāwīl	Al Mahawil	32.66	44.41	0	31
+Al-Musayab		32.78	44.29	0	102
+Al-Qāsim	Al-Qasim	32.30	44.68	0	94
+Nāḩiyat al Iskandarīyah	Nahiyat al Iskandariyah	32.89	44.35	0	101
+Saddat al Hindīyah	Saddat al Hindiyah	32.72	44.28	0	36
+#r	Basra Governorate
+Abū al-Kahṣīb	Abu al-Kahsib	30.44	47.88	0	358
+Al Başrah al Qadīmah	Al Basrah al Qadimah	30.50	47.82	0	2015
+Al Fāw	Al Faw	29.97	48.47	0	105
+Al Hārithah	Al Harithah	30.58	47.76	0	92
+Al Madīnah	Al Madinah	30.96	47.27	0	255
+Al Qurnah		31.02	47.43	0	134
+Az Zubayr		30.39	47.70	0	123
+Basrah		30.51	47.78	0	1327
+Umm Qaşr	Umm Qasr	30.04	47.92	0	108
+#r	Dahuk
+Dihok		36.87	42.99	0	341
+Simele		36.86	42.85	0	153
+Sumayl		36.86	42.85	0	153
+Sīnah	Sinah	36.81	43.04	0	129
+Zaxo		37.15	42.69	0	95
+#r	Dhi Qar
+Ash Shaţrah	Ash Shatrah	31.41	46.17	0	182
+Nasiriyah		31.06	46.26	0	558
+Nāḩiyat al Fuhūd	Nahiyat al Fuhud	30.97	46.72	0	22
+#r	Diyala
+Al Miqdādīyah	Al Miqdadiyah	33.98	44.94	0	156
+Baqubah		33.75	44.61	0	153
+Khāliş	Khalis	33.81	44.53	0	70
+Khānaqīn	Khanaqin	34.35	45.39	0	175
+Kifrī	Kifri	34.69	44.96	0	30
+Mandalī	Mandali	33.75	45.56	0	30
+#r	Mayorality of Baghdad
+Abū Ghurayb	Abu Ghurayb	33.31	44.18	0	900
+Al Maḩmūdīyah	Al Mahmudiyah	33.06	44.37	0	350
+Baghdad		33.34	44.40	0	7216
+Sadr City		33.39	44.46	0	1212
+#r	Maysan
+Al ‘Amārah	Al Amarah	31.84	47.14	0	323
+Qal‘at Şāliḩ	Qalat Salih	31.53	47.29	0	40
+‘Alī al Gharbī	Ali al Gharbi	32.46	46.69	0	20
+#r	Muhafazat Karbala'
+Al Hindīyah	Al Hindiyah	32.54	44.22	0	140
+Karbala		32.62	44.02	0	1219
+#r	Muhafazat Kirkuk
+Kirkuk		35.47	44.39	0	1031
+#r	Ninawa
+'Ākra	'Akra	36.73	43.88	0	105
+Al Mawşil al Jadīdah	Al Mawsil al Jadidah	36.33	43.11	0	2066
+Al-Hamdaniya		36.27	43.38	0	50
+Mosul		36.34	43.12	0	1683
+Sinjār	Sinjar	36.32	41.88	0	38
+Tallkayf		36.49	43.12	0	24
+‘Aqrah	Aqrah	36.76	43.89	0	23
+#r	Salah ad Din Governorate
+Ad Dujayl		33.85	44.23	0	26
+Al-'Alam		34.71	43.70	0	26
+Ash Sharqāt	Ash Sharqat	35.52	43.23	0	160
+Balad		34.01	44.15	0	42
+Bayjī	Bayji	34.93	43.49	0	174
+Sāmarrā’	Samarra	34.20	43.89	0	159
+Tikrīt	Tikrit	34.62	43.68	0	42
+Ţūz Khūrmātū	Tuz Khurmatu	34.89	44.63	0	121
+#r	Wasit
+Al Ḩayy	Al Hayy	32.17	46.04	0	78
+Al ‘Azīzīyah	Al Aziziyah	32.91	45.06	0	45
+Al-Kut		32.51	45.82	0	315
+An Nu‘mānīyah	An Numaniyah	32.56	45.41	0	110
+Aş Şuwayrah	As Suwayrah	32.93	44.78	0	77

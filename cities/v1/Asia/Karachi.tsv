@@ -1,0 +1,380 @@
+#z	Asia/Karachi
+#c	PK
+#r	
+Buni		36.27	72.26	0	50
+Dayal		33.31	73.70	0	19
+Dhirkot		34.04	73.58	0	195
+Dursh Khela		35.00	72.45	0	32
+Fatehjang		33.56	72.64	0	81
+Hajira		33.77	73.89	0	29
+Harappa		30.63	72.87	0	24
+Hub		25.03	66.89	0	196
+Jaglot		35.69	74.62	0	27
+Jahanian		30.04	71.82	0	50
+Jamrud		34.00	71.38	0	57
+Lawa		32.70	71.93	0	21
+Manhala		31.53	74.55	0	29
+Manjhand		25.91	68.24	0	141
+Mian Sahib		28.15	68.64	0	25
+Nok Kundi		28.83	62.75	0	31
+Oghi		34.50	73.01	0	21
+Qubo Saeed Khan		27.87	67.71	0	99
+Rahim Yar Khan		28.42	70.30	0	517
+Sharifabad		33.43	73.36	0	55
+Taftan		28.95	61.59	0	19
+Wah Cantt		33.77	72.75	0	401
+Washuk		27.73	64.81	0	41
+#r	Azad Kashmir
+Bhimber		32.97	74.08	0	28
+Bāgh	Bagh	33.98	73.78	0	34
+Chaksawari		33.26	73.79	0	21
+Islamgarh		33.19	73.84	0	17
+Khai Gala		33.85	73.83	0	19
+Kotli		33.52	73.90	0	47
+Muzaffarābād	Muzaffarabad	34.37	73.47	0	725
+New Mirpur City		33.15	73.75	0	124
+Pallandri		33.72	73.68	0	23
+Rawalakot		33.86	73.76	0	50
+#r	Balochistan
+Arif Wala		26.32	66.30	0	157
+Bela		26.23	66.31	0	29
+Chaman		30.92	66.45	0	130
+Dadhar		29.47	67.65	0	17
+Dera Bugti		29.04	69.16	0	18
+Dera Murad Jamali		28.55	68.22	0	107
+Gadani		25.12	66.73	0	18
+Garhi Khairo		28.06	67.98	0	193
+Gwadar		25.12	62.33	0	71
+Jiwani		25.05	61.75	0	25
+Kalat		29.03	66.59	0	27
+Kharan		28.58	65.42	0	31
+Khuzdar		27.81	66.61	0	218
+Kot Malik Barkhurdar		30.20	66.99	0	69
+Loralai		30.37	68.60	0	38
+Mach		29.86	67.33	0	45
+Mastung		29.80	66.85	0	29
+Mehrabpur		28.11	68.03	0	35
+Nushki		29.55	66.02	0	49
+Pasni		25.26	63.47	0	43
+Pishin		30.58	66.99	0	24
+Quetta		30.18	67.00	0	1566
+Sibi		29.54	67.88	0	64
+Turbat		26.00	63.05	0	76
+Usta Muhammad		28.18	68.04	0	65
+Uthal		25.81	66.62	0	16
+Zhob		31.34	69.45	0	51
+#r	Gilgit-Baltistan
+Gilgit		35.92	74.31	0	217
+Karimabad		36.33	74.66	0	16
+Skardu		35.30	75.63	0	260
+#r	Islamabad
+Islamabad		33.72	73.04	0	602
+#r	Khyber Pakhtunkhwa
+Abbottabad		34.15	73.21	0	276
+Akora Khattak		34.00	72.13	0	30
+Amangarh		34.01	71.93	0	42
+Baffa		34.44	73.22	0	18
+Bannu		32.99	70.60	0	1358
+Bat Khela		34.62	71.97	0	74
+Battagram		34.68	73.02	0	700
+Charsadda		34.15	71.74	0	120
+Chitral		35.85	71.79	0	57
+Dera Ismail Khan		31.83	70.90	0	763
+Hangu		33.53	71.06	0	36
+Haripur		34.00	72.93	0	57
+Havelian		34.05	73.16	0	38
+Jahangira		33.96	72.22	0	57
+Khalabat		34.06	72.89	0	39
+Kohat		33.58	71.45	0	151
+Kulachi		31.93	70.46	0	24
+Lachi		33.38	71.34	0	19
+Lakki		32.61	70.91	0	36
+Mansehra		34.33	73.20	0	66
+Mardan		34.20	72.05	0	300
+Mingora		34.78	72.36	0	361
+Musa Banda/Musa khan kallay		34.03	72.48	0	18
+Nowshera Cantonment		34.00	72.00	0	31
+Nowshera Kalan		34.02	71.97	0	88
+Pabbi		34.01	71.79	0	53
+Paharpur		32.11	70.97	0	76
+Peshawar		34.01	71.58	0	4759
+Risalpur Cantonment		34.06	71.99	0	36
+Sarai Naurang		32.83	70.78	0	20
+Shabqadar		34.22	71.55	0	102
+Shorkot		31.91	70.88	0	67
+Swabi		34.12	72.47	0	97
+Tangi		34.30	71.65	0	36
+Tank		32.22	70.38	0	38
+Thal		35.48	72.24	0	29
+Topi		34.07	72.62	0	75
+Tordher		33.99	72.29	0	150
+Upper Dir		35.21	71.88	0	30
+Utmanzai		34.19	71.76	0	34
+Zaida		34.06	72.47	0	34
+#r	Punjab
+Ahmadpur East		29.14	71.26	0	197
+Ahmadpur Sial		30.68	71.74	0	25
+Alahabad		30.88	74.06	0	80
+Alipur		33.65	73.18	0	18
+Alipur		29.38	70.91	0	34
+Arifwala		30.29	73.07	0	854
+Attock City		33.77	72.36	0	142
+Baddomalhi		31.99	74.66	0	19
+Bahawalnagar		30.00	73.25	0	242
+Bahawalnagar		30.55	73.39	0	242
+Bahawalpur		29.40	71.68	0	904
+Basirpur		30.58	73.84	0	66
+Bhakkar		31.63	71.06	0	132
+Bhalwal		32.27	72.90	0	75
+Bhaun		32.86	72.76	0	22
+Bhawana		31.57	72.65	0	374
+Bhera		32.48	72.91	0	32
+Bhopalwala		32.43	74.36	0	17
+Burewala		30.17	72.65	0	362
+Chak Azam Sahu		30.75	73.03	0	38
+Chak Five Hundred Seventy-five		31.55	73.83	0	31
+Chak Jhumra		31.57	73.18	0	385
+Chak One Hundred Twenty Nine Left		30.43	73.05	0	24
+Chak Thirty-one -Eleven Left		30.42	72.70	0	46
+Chakwal		32.93	72.85	0	101
+Chawinda		32.34	74.71	0	27
+Chichawatni		30.53	72.69	0	112
+Chiniot		31.72	72.98	0	318
+Chishtian		29.80	72.86	0	150
+Choa Saidan Shah		32.72	72.99	0	40
+Chuhar Kana		31.75	73.80	0	69
+Chunian		30.97	73.98	0	634
+Dajal		29.56	70.38	0	200
+Darya Khan		31.78	71.10	0	69
+Daska Kalan		32.32	74.35	0	127
+Daud Khel		32.88	71.57	0	26
+Dera Ghazi Khan		30.05	70.64	0	494
+Dhanot		29.58	71.75	0	16
+Dhaunkal		32.41	74.14	0	20
+Dijkot		31.22	73.00	0	97
+Dinga		32.64	73.72	0	90
+Dipalpur		30.67	73.65	0	100
+Dullewala		31.83	71.44	0	54
+Dunga Bunga		29.75	73.24	0	26
+Dunyapur		29.80	71.74	0	42
+Eminabad		32.04	74.26	0	151
+Faisalabad		31.42	73.09	0	3800
+Faqirwali		29.47	73.03	0	62
+Faruka		31.89	72.41	0	60
+Fatehpur		31.18	71.20	0	44
+Fazilpur		32.18	75.07	0	28
+Fort Abbas		29.19	72.86	0	83
+Garh Maharaja		30.83	71.90	0	29
+Gojra		31.15	72.68	0	214
+Gujar Khan		33.25	73.30	0	69
+Gujranwala		32.16	74.19	0	2511
+Gujrat		32.57	74.08	0	574
+Hadali		32.64	74.57	0	50
+Hafizabad		32.07	73.69	0	319
+Harnoli		32.28	71.55	0	16
+Harunabad		29.61	73.14	0	150
+Hasilpur		29.69	72.55	0	168
+Haveli Lakha		30.45	73.69	0	122
+Hazro City		33.91	72.49	0	26
+Hujra Shah Muqim		30.74	73.82	0	76
+Jahanian Shah		31.81	72.28	0	29
+Jalalpur Jattan		32.64	74.21	0	147
+Jalalpur Pirwala		29.51	71.22	0	500
+Jampur		29.64	70.60	0	155
+Jand		33.43	72.02	0	18
+Jaranwala		31.33	73.42	0	150
+Jatoi Shimali		29.52	70.84	0	47
+Jauharabad		32.29	72.28	0	113
+Jhang Sadr		31.27	72.32	0	607
+Jhawarian		32.36	72.62	0	28
+Jhelum		32.93	73.73	0	190
+Kabirwala		30.40	71.86	0	92
+Kahna Nau		31.37	74.37	0	79
+Kahror Pakka		29.62	71.91	0	70
+Kahuta		33.59	73.39	0	23
+Kalabagh		32.96	71.55	0	16
+Kaleke Mandi		31.98	73.60	0	16
+Kallar Kahar		32.78	72.70	0	16
+Kalur Kot		32.16	71.27	0	30
+Kamalia		30.73	72.65	0	167
+Kamar Mushani		32.84	71.36	0	39
+Kamoke		31.98	74.22	0	292
+Kamra		33.75	73.51	0	44
+Kamra		33.85	72.39	0	46
+Kanganpur		30.76	74.12	0	45
+Karor		31.22	70.95	0	26
+Kasur		31.12	74.45	0	511
+Khairpur Tamewah		29.58	72.24	0	31
+Khangah Dogran		31.83	73.62	0	35
+Khangarh		29.91	71.16	0	20
+Khanpur		28.65	70.66	0	142
+Kharian		32.82	73.89	0	103
+Khewra		32.65	73.01	0	80
+Khurarianwala		31.50	73.27	0	97
+Khushāb	Khushab	32.30	72.35	0	103
+Kot Addu		30.47	70.97	0	104
+Kot Ghulam Muhammad		32.33	74.55	0	21
+Kot Mumin		32.19	73.03	0	51
+Kot Radha Kishan		31.17	74.10	0	102
+Kot Samaba		28.55	70.47	0	23
+Kotli Loharan		32.59	74.49	0	21
+Kundian		32.46	71.48	0	43
+Kunjah		32.53	73.97	0	91
+Kuri Dulal		33.38	73.26	0	22
+Ladhewala Waraich		32.16	74.12	0	40
+Lahore		31.56	74.35	0	13004
+Lala Musa		32.70	73.96	0	65
+Lalian		31.82	72.80	0	53
+Layyah		30.96	70.94	0	151
+Lodhran		29.53	71.63	0	145
+Mailsi		29.80	72.17	0	125
+Malakwal		32.55	73.21	0	35
+Malakwal City		32.55	73.21	0	35
+Mamu Kanjan		30.83	72.80	0	32
+Mananwala		31.59	73.69	0	28
+Mandi Bahauddin		32.59	73.49	0	130
+Mangla		31.89	72.38	0	16
+Mian Channun		30.44	72.36	0	140
+Mianwali		32.58	71.53	0	130
+Minchinabad		30.16	73.57	0	67
+Mitha Tiwana		32.25	72.11	0	26
+Model Town		31.48	74.33	0	100
+Multan		30.20	71.48	0	2170
+Muridke		31.80	74.26	0	254
+Murree		33.91	73.39	0	25
+Mustafabad		30.89	73.50	0	46
+Muzaffargarh		30.07	71.19	0	236
+Nankana Sahib		31.45	73.71	0	130
+Narang Mandi		31.90	74.52	0	35
+Narowal		32.10	74.87	0	131
+Naushahra Virkan		31.96	73.97	0	41
+Okara		30.81	73.45	0	534
+Pakpattan		30.34	73.39	0	127
+Pasrur		32.26	74.66	0	103
+Pattoki		31.02	73.85	0	114
+Phalia		32.43	73.58	0	62
+Phool Nagar		31.20	73.95	0	115
+Pind Dadan Khan		32.59	73.04	0	30
+Pindi Bhattian		31.90	73.27	0	493
+Pindi Gheb		33.24	72.26	0	64
+Pir Mahal		30.77	72.43	0	52
+Qabula		30.18	73.07	0	52
+Qadirpur Ran		30.29	71.67	0	200
+Rabwah		31.76	72.91	0	70
+Raiwind		31.25	74.22	0	32
+Raja Jang		31.22	74.25	0	100
+Rajanpur		29.10	70.33	0	51
+Rawalpindi		33.60	73.05	0	3358
+Renala Khurd		30.88	73.60	0	100
+Saddiqabad		28.31	70.13	0	274
+Sahiwal		31.97	72.33	0	538
+Sahiwal		30.67	73.10	0	538
+Sambrial		32.48	74.35	0	120
+Sangla Hill		31.72	73.38	0	104
+Sarai Alamgir		32.90	73.76	0	74
+Sarai Sidhu		30.59	71.97	0	16
+Sargodha		32.09	72.67	0	976
+Shahkot		31.57	73.49	0	245
+Shahr Sultan		29.58	71.02	0	16
+Shakargarh		32.26	75.16	0	127
+Sharqpur Sharif		31.46	74.10	0	32
+Shekhupura		31.71	73.99	0	591
+Shujaabad		29.88	71.29	0	151
+Sialkot		32.49	74.53	0	912
+Sillanwali		31.83	72.54	0	49
+Sodhri		32.46	74.18	0	16
+Sook Kalan		32.60	74.15	0	20
+Sukheke Mandi		31.87	73.51	0	43
+Surkhpur		32.72	74.45	0	20
+Talagang		32.93	72.42	0	79
+Talamba		30.53	72.24	0	28
+Tandlianwala		31.03	73.13	0	38
+Taunsa		30.70	70.65	0	116
+Toba Tek Singh		30.97	72.48	0	123
+Vihari		30.04	72.36	0	113
+Wazirabad		32.44	74.12	0	153
+Yazman		29.12	71.74	0	61
+Zafarwal		32.34	74.90	0	23
+Zahir Pir		28.81	70.52	0	77
+#r	Sindh
+Badin		24.66	68.84	0	117
+Bhan		26.56	67.72	0	17
+Bhit Shah		25.81	68.49	0	19
+Chak		27.86	68.83	0	40
+Chhor		25.51	69.78	0	21
+Chuhar Jamali		24.39	67.99	0	19
+Dadu		26.73	67.78	0	201
+Daharki		28.05	69.70	0	90
+Daur		26.46	68.32	0	129
+Dhoro Naro		25.50	69.57	0	20
+Digri		25.16	69.11	0	235
+Dokri		27.37	68.10	0	125
+Gambat		27.35	68.52	0	94
+Gharo		24.74	67.59	0	20
+Ghauspur		28.14	69.08	0	30
+Ghotki		28.00	69.32	0	120
+Goth Radhan		27.20	67.95	0	17
+Hala		25.81	68.42	0	71
+Hingorja		27.21	68.42	0	22
+Hyderabad		25.40	68.38	0	1921
+Jacobabad		28.28	68.44	0	219
+Jhol		25.96	68.89	0	19
+Johi		26.69	67.61	0	16
+Kambar		27.59	68.00	0	77
+Kandhkot		28.25	69.18	0	99
+Kandiaro		27.06	68.21	0	44
+Karachi		24.86	67.01	0	11624
+Karachi University Employees Co-operative Housing Society		24.96	67.12	0	41
+Kashmor		28.43	69.58	0	34
+Khairpur		28.06	69.70	0	40
+Khairpur Mir’s	Khairpur Mirs	27.53	68.76	0	191
+Khairpur Nathan Shah		27.09	67.73	0	30
+Khanpur Mahar		27.84	69.41	0	22
+Kot Diji		27.34	68.71	0	26
+Kotri		25.37	68.31	0	107
+Kunri		25.18	69.57	0	237
+Larkana		27.56	68.21	0	364
+Malir Cantonment		24.94	67.21	0	300
+Matiari		25.60	68.45	0	19
+Matli		25.04	68.66	0	50
+Mehar		27.18	67.82	0	30
+Mirpur Khas		25.53	69.01	0	268
+Mirpur Mathelo		28.02	69.55	0	75
+Mithi		24.74	69.80	0	52
+Moro		26.66	68.00	0	143
+Nasirabad		27.38	67.92	0	28
+Naudero		27.67	68.36	0	33
+Naukot		24.86	69.40	0	22
+Naushahro Firoz		26.84	68.12	0	18
+Nawabshah		26.24	68.40	0	363
+New Badah		27.34	68.03	0	39
+Pad Idan		26.77	68.30	0	21
+Pakistan Employees Cooperative Housing Society		24.87	67.06	0	20
+Pano Aqil		27.86	69.11	0	103
+Pir Jo Goth		27.59	68.62	0	54
+Ranipur		27.29	68.51	0	34
+Ratodero		27.80	68.29	0	82
+Rohri		27.69	68.90	0	92
+Sakrand		26.14	68.27	0	72
+Sanghar		26.05	68.95	0	62
+Sehwan		26.42	67.86	0	41
+Setharja Old		27.21	68.47	0	33
+Shahdad Kot		27.85	67.91	0	121
+Shahdadpur		25.93	68.62	0	113
+Shahpur Chakar		26.15	68.65	0	21
+Shikarpur		27.96	68.64	0	205
+Sinjhoro		26.03	68.81	0	355
+Sita Road		27.03	67.85	0	28
+Sukkur		27.70	68.86	0	564
+Talhar		24.88	68.81	0	200
+Tando Adam		25.77	68.66	0	174
+Tando Allahyar		25.46	68.72	0	422
+Tando Bago		24.79	68.97	0	427
+Tando Jam		25.43	68.53	0	72
+Tando Muhammad Khan		25.12	68.54	0	114
+Tharu Shah		26.94	68.12	0	18
+Thatta		24.75	67.92	0	44
+Thul		28.24	68.78	0	89
+Ubauro		28.16	69.73	0	51
+Umarkot		25.36	69.74	0	145
+Warah		27.45	67.80	0	19

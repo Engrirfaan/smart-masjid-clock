@@ -1,0 +1,551 @@
+#z	Asia/Manila
+#c	PH
+#r	
+Banco Filipino Homes		14.43	121.02	0	93
+Culion		11.89	120.02	0	23
+Cupang		14.43	121.04	0	57
+Paranaque City		14.48	121.02	0	703
+#r	Autonomous Region in Muslim Mindanao
+Bongao		5.03	119.77	0	27
+Budta		7.20	124.44	0	1274
+Buluan		6.72	124.80	0	61
+City of Isabela		6.70	121.97	0	67
+Cotabato		7.22	124.25	0	383
+General Salipada K. Pendatun		6.83	124.72	0	31
+Jolo		6.05	121.00	0	101
+Maganoy		6.86	124.44	0	17
+Maluso		6.54	121.88	0	31
+Marawi City		8.00	124.28	0	260
+Nunungan		7.82	123.97	0	19
+Pagaluñgan	Pagalungan	7.14	124.38	0	31
+Parang		7.37	124.27	0	45
+Sitangkai		4.66	119.40	0	17
+Sultan Kudarat		7.23	124.26	0	125
+Talitay		7.03	124.70	0	20
+Wao		7.68	124.67	0	18
+#r	Bicol
+Baao		13.45	123.37	0	20
+Bato		13.35	123.37	0	17
+Buhi		13.43	123.52	0	30
+Bulan		12.67	123.88	0	29
+Calabanga		13.71	123.21	0	89
+Daet		14.11	122.96	0	78
+Esperanza		11.74	124.04	0	18
+Goa		13.70	123.49	0	21
+Gubat		12.92	124.12	0	61
+Iriga City		13.43	123.41	0	115
+Irosin		12.70	124.03	0	21
+Jose Pañganiban	Jose Panganiban	14.29	122.69	0	21
+Labo		14.15	122.83	0	18
+Legaspi		13.14	123.74	0	179
+Libon		13.30	123.44	0	69
+Magarao		13.66	123.19	0	15
+Malilipot		13.32	123.74	0	41
+Masbate		12.37	123.62	0	47
+Mercedes		14.11	123.01	0	54
+Nabua		13.41	123.37	0	26
+Naga		13.62	123.18	0	175
+Oas		13.26	123.50	0	65
+Polangui		13.29	123.49	0	89
+San Jose		13.35	123.55	0	36
+Sorsogon		12.97	123.99	0	188
+Tabaco		13.36	123.73	0	58
+Tagas		13.17	123.72	0	15
+Tiwi		13.46	123.68	0	17
+Vinzons		14.17	122.91	0	45
+Virac		13.58	124.24	0	75
+#r	Cagayan Valley
+Aglipay		16.49	121.64	0	31
+Alicia		16.78	121.70	0	75
+Aparri		18.36	121.64	0	68
+Baggabag B		16.51	121.19	0	25
+Bambang		16.39	121.11	0	60
+Bayombong		16.48	121.15	0	48
+Cabagan		17.43	121.77	0	25
+Diadi		16.73	121.36	0	16
+Dupax Del Norte		16.31	121.11	0	33
+Dupax del Sur		16.28	121.09	0	21
+Ilagan		17.15	121.89	0	164
+Ramon		16.78	121.54	0	36
+Roxas		17.12	121.62	0	17
+San Mateo		16.88	121.59	0	16
+Sanchez-Mira		18.56	121.23	0	26
+Santiago		16.69	121.55	0	108
+Solana		17.65	121.69	0	71
+Solano		16.52	121.18	0	36
+Tuguegarao		17.62	121.72	0	167
+#r	Calabarzon
+Alaminos		14.06	121.25	0	31
+Amadeo		14.17	120.92	0	44
+Angono		14.53	121.15	0	135
+Antipolo		14.63	121.12	0	914
+Atimonan		14.00	121.92	0	29
+Aurora		13.35	122.52	0	16
+Ayala Alabang		14.41	121.02	0	25
+Bacoor		14.46	120.94	0	357
+Bagong Barrio		14.67	120.99	0	77
+Bagong Pagasa		14.66	121.03	0	29
+Bagong Silangan		14.71	121.11	0	107
+Balayan		13.94	120.73	0	50
+Baras		14.52	121.27	0	20
+Batangas		13.76	121.06	0	237
+Bauan		13.79	121.01	0	34
+Bay		14.18	121.29	0	34
+Bayanan		14.41	121.05	0	38
+Bignay Uno		13.86	121.49	0	22
+Binangonan		14.46	121.19	0	219
+Biñan	Binan	14.34	121.08	0	300
+Cabuyao		14.27	121.13	0	309
+Cainta		14.58	121.12	0	283
+Calaca		13.93	120.81	0	37
+Calamba		14.21	121.17	0	575
+Calatagan		13.83	120.63	0	16
+Calauag		13.96	122.29	0	69
+Calauan		14.15	121.32	0	90
+Candelaria		13.93	121.42	0	138
+Cardona		14.49	121.23	0	51
+Carmona		14.31	121.06	0	112
+Catanauan		13.59	122.32	0	27
+Cavite City		14.48	120.90	0	116
+Commonwealth		14.70	121.08	0	215
+Concepcion Ibaba		13.92	121.46	0	26
+Cuenca		13.90	121.05	0	22
+Dasmariñas	Dasmarinas	14.33	120.94	0	442
+Del Remedio		14.09	121.31	0	18
+General Emilio Aguinaldo		14.18	120.80	0	24
+General Trias		14.39	120.88	0	96
+Gumaca		13.92	122.10	0	22
+Imus		14.43	120.94	0	482
+Indang		14.20	120.88	0	70
+Jalajala		14.35	121.32	0	35
+Kawit		14.44	120.90	0	73
+Las Piñas	Las Pinas	14.45	120.98	0	616
+Lilio		14.13	121.44	0	15
+Lipa City		13.94	121.16	0	212
+Lopez		13.88	122.26	0	26
+Los Baños	Los Banos	14.17	121.24	0	117
+Lucban		14.11	121.56	0	31
+Lucena		13.93	121.62	0	229
+Lumbang		14.30	121.46	0	30
+Majayjay		14.15	121.47	0	29
+Malabanban Norte		13.95	121.43	0	19
+Malabon		14.67	120.94	0	366
+Malanday		14.72	120.96	0	19
+Malanday		14.71	121.13	0	22
+Malvar		14.04	121.16	0	30
+Mamatid		14.23	121.16	0	40
+Maragondon		14.27	120.74	0	42
+Marikina City		14.65	121.11	0	471
+Mauban		14.19	121.73	0	70
+Mendez-Nuñez	Mendez-Nunez	14.13	120.91	0	37
+Morong		14.52	121.24	0	50
+Muntinlupa		14.39	121.05	0	552
+Nagcarlan		14.14	121.42	0	25
+Naic		14.32	120.77	0	55
+Nasugbu		14.07	120.63	0	63
+Navotas		14.67	120.95	0	249
+Novaliches Proper		14.72	121.05	0	16
+Noveleta		14.43	120.88	0	46
+Paete		14.36	121.48	0	27
+Pagbilao		13.97	121.70	0	82
+Pangil		14.40	121.47	0	25
+Pateros		14.54	121.07	0	64
+Patuto		14.12	120.97	0	53
+Pila		14.23	121.36	0	34
+Pililla		14.49	121.31	0	30
+Poblacion		14.38	121.03	0	125
+Pulong Santa Cruz		14.27	121.08	0	127
+Putatan		14.40	121.05	0	102
+Rodriguez		14.76	121.20	0	134
+Rosario		13.63	121.22	0	128
+Sampaloc		14.54	121.36	0	20
+San Mateo		14.70	121.12	0	134
+San Pablo		14.07	121.33	0	300
+San Pascual		13.81	121.02	0	39
+San Pedro		14.36	121.05	0	349
+Santa Cruz		14.28	121.42	0	108
+Santa Rosa		14.31	121.11	0	217
+Santo Tomas		14.11	121.14	0	57
+Sariaya		13.96	121.53	0	45
+Silang		14.22	120.97	0	119
+Taal		13.88	120.92	0	40
+Tagaytay		14.10	120.93	0	88
+Taguig		14.52	121.08	0	1308
+Talipapa		14.69	121.03	0	39
+Talisay		14.09	121.02	0	25
+Tanauan		14.09	121.15	0	68
+Tanay		14.50	121.28	0	60
+Tayabas		14.03	121.59	0	115
+Taytay		14.56	121.13	0	231
+Teresa		14.56	121.22	0	35
+Ternate		14.29	120.72	0	20
+Tunasan		14.38	121.05	0	61
+Upper Bicutan		14.50	121.05	0	47
+Valenzuela		14.70	120.97	0	725
+Victoria		14.23	121.33	0	24
+#r	Caraga
+Bah-Bah		8.61	125.91	0	29
+Bayugan		8.76	125.77	0	110
+Bislig		8.22	126.32	0	100
+Buenavista		8.98	125.41	0	71
+Bunawan		8.17	125.99	0	51
+Butuan		8.95	125.54	0	310
+Cabadbaran		9.12	125.54	0	31
+Hinatuan		8.37	126.33	0	44
+Libertad		8.94	125.50	0	250
+Prosperidad		8.58	125.90	0	90
+San Francisco		8.54	125.95	0	80
+San Jose		10.18	125.57	0	27
+Surigao		9.79	125.50	0	88
+Tagbina		8.45	126.17	0	41
+Talacogon		8.46	125.78	0	16
+Tandag		9.08	126.20	0	29
+Trento		8.05	126.06	0	16
+Veruela		8.07	125.96	0	18
+#r	Central Luzon
+Abucay		14.73	120.53	0	36
+Aliaga		15.50	120.84	0	34
+Angat		14.93	121.03	0	68
+Angeles City		15.15	120.58	0	483
+Apalit		14.95	120.77	0	121
+Arayat		15.15	120.77	0	88
+Babo-Pangulo		15.08	120.52	0	15
+Bagong Silang		14.78	121.04	0	262
+Balagtas		14.82	120.87	0	60
+Balanga		14.68	120.54	0	73
+Baliuag		14.95	120.90	0	136
+Bamban		15.27	120.57	0	78
+Bocaue		14.80	120.93	0	99
+Bongabon		15.63	121.14	0	69
+Botolan		15.29	120.02	0	23
+Bulacan		14.79	120.88	0	83
+Bulaon		15.08	120.66	0	132
+Burgos		15.73	120.57	0	28
+Bustos		14.96	120.92	0	81
+Cabanatuan City		15.49	120.97	0	344
+Cabiao		15.25	120.85	0	50
+Calumpit		14.92	120.77	0	122
+Camiling		15.69	120.41	0	40
+Candaba		15.10	120.83	0	47
+Capas		15.33	120.59	0	163
+Castillejos		14.93	120.20	0	27
+Concepcion		15.33	120.66	0	179
+Del Pilar		15.04	120.70	0	37
+Dinalupihan		14.88	120.45	0	67
+Gapan		15.31	120.95	0	130
+General Mamerto Natividad		15.60	121.05	0	18
+General Tinio		15.35	121.05	0	33
+Gerona		15.61	120.60	0	41
+Guiguinto		14.83	120.88	0	118
+Guimba		15.66	120.77	0	32
+Guyong		14.84	120.98	0	155
+Hagonoy		14.83	120.73	0	124
+Hermosa		14.83	120.51	0	34
+Iba		15.33	119.98	0	27
+Jaen		15.33	120.92	0	40
+La Paz		15.44	120.73	0	72
+Laur		15.59	121.18	0	19
+Limay		14.56	120.60	0	82
+Loma de Gato		14.79	121.00	0	22
+Lubao		14.94	120.60	0	56
+Mabalacat City		15.22	120.57	0	188
+Magalang		15.22	120.66	0	69
+Malolos		14.84	120.81	0	270
+Manibaug Pasig		15.10	120.56	0	25
+Marilao		14.76	120.95	0	83
+Mariveles		14.43	120.49	0	156
+Masantol		14.90	120.71	0	41
+Masinloc		15.54	119.95	0	57
+Mexico		15.06	120.72	0	44
+Meycauayan		14.74	120.96	0	228
+Morong		14.68	120.27	0	16
+Muñoz	Munoz	15.72	120.90	0	85
+Norzagaray		14.91	121.05	0	141
+Obando		14.71	120.94	0	60
+Olongapo		14.83	120.28	0	221
+Orani		14.80	120.54	0	45
+Orion		14.62	120.58	0	63
+Palayan City		15.54	121.08	0	24
+Pandacaqui		15.17	120.65	0	29
+Pandi		14.87	120.96	0	163
+Paniqui		15.67	120.58	0	106
+Pantubig		14.97	120.95	0	39
+Paombong		14.83	120.79	0	58
+Papaya		15.32	120.84	0	39
+Peñaranda	Penaranda	15.35	121.00	0	27
+Pilar		14.66	120.57	0	18
+Pio		15.05	120.52	0	24
+Plaridel		14.89	120.86	0	121
+Porac		15.07	120.54	0	22
+Pulilan		14.90	120.85	0	111
+Quezon		15.55	120.81	0	18
+Ramos		15.67	120.64	0	15
+Rizal		15.71	121.11	0	26
+Samal		14.77	120.54	0	41
+San Antonio		15.31	120.86	0	26
+San Antonio		14.95	120.09	0	39
+San Fernando		15.03	120.68	0	251
+San Francisco		15.36	120.84	0	20
+San Ildefonso		15.08	120.94	0	66
+San Jose del Monte		14.81	121.05	0	358
+San Leonardo		15.36	120.96	0	69
+San Luis		15.04	120.79	0	33
+San Marcelino		14.97	120.16	0	19
+San Miguel		15.44	120.60	0	19
+San Miguel		15.14	120.98	0	66
+San Narciso		15.01	120.08	0	32
+San Simon		15.00	120.78	0	29
+San Vicente		15.29	120.65	0	16
+Santa Ana		15.10	120.77	0	47
+Santa Cruz		15.77	119.91	0	67
+Santa Cruz		14.91	120.57	0	15
+Santol		15.16	120.57	0	299
+Sasmuan		14.94	120.62	0	21
+Subic		14.88	120.23	0	68
+Talavera		15.59	120.92	0	65
+Tarlac City		15.48	120.60	0	402
+Telabastagan		15.12	120.61	0	26
+Zaragoza		15.45	120.80	0	53
+#r	Central Visayas
+Apas		10.34	123.90	0	23
+Bais		9.59	123.12	0	88
+Balamban		10.50	123.72	0	22
+Bantayan		11.17	123.72	0	87
+Bayawan		9.36	122.80	0	127
+Bogo		11.05	124.01	0	24
+Canlaon		10.39	123.22	0	45
+Carcar		10.11	123.64	0	41
+Cebu City		10.32	123.89	0	965
+Cogan		10.59	124.02	0	60
+Compostela		10.46	124.01	0	19
+Consolacion		10.38	123.96	0	49
+Cordova		10.24	123.94	0	29
+Daanbantayan		11.25	124.01	0	95
+Danao		10.52	124.03	0	70
+Danao		9.55	123.76	0	20
+Dumaguete		9.31	123.31	0	114
+Guihulñgan	Guihulngan	10.12	123.27	0	23
+Inabanga		10.03	124.07	0	49
+Jagna		9.65	124.37	0	33
+Jetafe		10.15	124.15	0	33
+Lapu-Lapu City		10.31	123.95	0	498
+Liloan		10.40	124.00	0	49
+Loboc		9.64	124.03	0	16
+Mandaue City		10.32	123.92	0	331
+Minglanilla		10.24	123.80	0	62
+Naga		10.21	123.76	0	139
+Pinamungahan		10.27	123.58	0	23
+San Fernando		10.16	123.71	0	24
+Santa Catalina		9.33	122.86	0	26
+Sibonga		10.02	123.62	0	55
+Sibulan		9.36	123.28	0	28
+Tagbilaran City		9.66	123.85	0	86
+Talisay		10.24	123.85	0	133
+Tanjay		9.52	123.16	0	85
+Toledo		10.38	123.64	0	207
+#r	Cordillera
+Baguio		16.42	120.59	0	273
+Bangued		17.61	120.64	0	48
+Bontoc		17.09	120.98	0	23
+Itogon		16.36	120.68	0	60
+La Trinidad		16.45	120.59	0	143
+Lagawe		16.80	121.12	0	19
+Mankayan		16.86	120.78	0	16
+Tabuk		17.47	121.47	0	123
+Tabuk		17.41	121.28	0	123
+#r	Davao
+Bansalan		6.79	125.21	0	21
+Cabayangan		7.41	125.73	0	17
+Compostela		7.67	126.09	0	43
+Davao		7.07	125.61	0	1849
+Digos		6.75	125.36	0	116
+Lupon		6.90	126.01	0	69
+Maco		7.36	125.86	0	88
+Magsaysay		6.77	125.18	0	58
+Magugpo Poblacion		7.45	125.80	0	233
+Malita		6.42	125.61	0	118
+Manay		7.21	126.54	0	20
+Mati		6.96	126.22	0	106
+Monkayo		7.82	126.05	0	96
+Nabunturan		7.61	125.97	0	17
+New Corella		7.59	125.82	0	21
+Norala		6.52	124.66	0	48
+Panabo		7.31	125.68	0	211
+Polomolok		6.22	125.06	0	64
+Samal		7.07	125.71	0	44
+San Mariano		7.50	126.00	0	19
+Santa Maria		6.55	125.47	0	17
+Tupi		6.33	124.95	0	79
+#r	Eastern Visayas
+Abuyog		10.75	125.01	0	16
+Baybay		10.68	124.80	0	18
+Borongan		11.61	125.43	0	71
+Burauen		10.98	124.89	0	55
+Calbayog City		12.07	124.60	0	68
+Carigara		11.30	124.68	0	17
+Catarman		12.50	124.64	0	98
+Catbalogan		11.78	124.89	0	108
+Inopacan		10.50	124.74	0	21
+Laoang		12.57	125.01	0	17
+Maasin		10.13	124.84	0	18
+Ormoc		11.01	124.61	0	239
+Palo		11.16	124.99	0	18
+Panalanoy		11.25	125.01	0	189
+Tacloban		11.24	125.00	0	259
+Tanauan		11.11	125.02	0	17
+Zumarraga		11.64	124.84	0	16
+#r	Ilocos
+Agoo		16.08	120.10	0	29
+Aringay		16.39	120.35	0	30
+Bantay		17.58	120.39	0	37
+Batac City		18.06	120.56	0	57
+Bauang		16.53	120.33	0	78
+Bayambang		15.81	120.46	0	130
+Binmaley		16.03	120.27	0	44
+Calasiao		16.01	120.36	0	101
+Dagupan		16.04	120.33	0	171
+Domalanoan		16.00	120.21	0	15
+Guiset East		16.07	120.68	0	22
+Laoag		18.20	120.60	0	112
+Lingayen		16.02	120.23	0	57
+Manaoag		16.04	120.49	0	59
+Mangaldan		16.07	120.40	0	89
+Rosales		15.89	120.63	0	68
+San Fernando		16.62	120.32	0	83
+San Nicolas		18.17	120.60	0	34
+Santa Barbara		16.00	120.40	0	15
+Santa Maria		16.95	120.44	0	28
+Tagudin		16.94	120.44	0	36
+Urdaneta		15.98	120.57	0	146
+Vigan		17.57	120.39	0	49
+Villasis		15.90	120.59	0	65
+#r	Metro Manila
+Baclaran		14.53	120.99	0	34
+Bel Air		14.56	121.03	0	36
+Binondo		14.60	120.97	0	20
+Caloocan		14.65	120.97	0	1713
+Calumpang		14.62	121.09	0	16
+Makati City		14.55	121.03	0	510
+Mandaluyong		14.58	121.04	0	425
+Mandaluyong City		14.58	121.04	0	466
+Manila		14.60	120.98	0	1600
+Paco		14.59	120.99	0	80
+Pasay		14.54	121.00	0	417
+Pasig City		14.59	121.06	0	853
+Port Area		14.59	120.97	0	73
+Quezon City		14.65	121.05	0	3084
+Quiapo		14.60	120.98	0	32
+San Juan		14.60	121.03	0	134
+Santa Cruz		14.60	120.98	0	127
+Tanza		14.68	120.94	0	106
+#r	Mimaropa
+Brookes Point		8.77	117.84	0	77
+Calapan		13.41	121.18	0	66
+El Nido		11.19	119.40	0	51
+Jose Rizal		8.88	117.50	0	59
+Mamburao		13.22	120.60	0	24
+Mansalay		12.52	121.44	0	23
+Mapun		6.97	118.51	0	29
+Narra		9.27	118.40	0	28
+Pinamalayan		13.05	121.46	0	44
+Puerto Princesa		9.74	118.74	0	223
+Romblon		12.58	122.27	0	15
+Roxas		10.32	119.35	0	15
+Sablayan		12.83	120.77	0	91
+San Jose		12.35	121.07	0	143
+Victoria		13.18	121.28	0	52
+#r	Northern Mindanao
+Balulang		8.45	124.63	0	42
+Boroon		8.18	124.18	0	15
+Bugo		8.51	124.76	0	46
+Cagayan de Oro		8.48	124.65	0	742
+Dologon		7.84	125.04	0	15
+Don Carlos		7.68	125.00	0	74
+Gingoog		8.83	125.10	0	139
+Iligan		8.23	124.24	0	343
+Impasugong		8.31	125.00	0	56
+Jasaan		8.65	124.76	0	16
+Malaybalay		8.16	125.13	0	62
+Manolo Fortich		8.37	124.86	0	118
+Mantampay		8.17	124.22	0	265
+Maramag		7.76	125.01	0	110
+Mariano		8.83	125.12	0	71
+NIA Valencia		7.91	125.09	0	224
+Oroquieta		8.49	123.80	0	71
+Ozamiz City		8.15	123.84	0	93
+Quezon		7.73	125.10	0	115
+Tagoloan		8.54	124.75	0	30
+Tangub		8.06	123.75	0	30
+Tubod		8.06	123.79	0	50
+#r	Soccsksargen
+Alabel		6.10	125.29	0	90
+Banga		6.42	124.78	0	92
+Bañga	Banga	6.42	124.78	0	59
+Dinaig		7.17	124.21	0	117
+General Santos		6.11	125.17	0	722
+Glan		5.82	125.20	0	24
+Iligan City		8.25	124.40	0	312
+Isulan		6.63	124.61	0	101
+Kabacan		7.11	124.83	0	32
+Kalamansig		6.55	124.05	0	52
+Kidapawan		7.01	125.09	0	80
+Koronadal		6.50	124.85	0	202
+Laguilayan		6.67	124.52	0	18
+Lake Sebu		6.22	124.71	0	22
+Lambayong		6.52	125.04	0	81
+Malapatan		5.97	125.29	0	83
+Malingao		7.16	124.47	0	1122
+Maluñgun	Malungun	6.28	125.28	0	52
+Midsayap		7.19	124.53	0	117
+Sultan sa Barongis		6.80	124.64	0	39
+Surallah		6.38	124.75	0	91
+Tacurong		6.69	124.68	0	117
+#r	Western Visayas
+Asia		9.55	122.52	0	24
+Bacolod City		10.67	122.95	0	455
+Bago City		10.53	122.83	0	193
+Binalbagan		10.19	122.86	0	39
+Binonga		10.77	122.98	0	84
+Cadiz		10.95	123.29	0	129
+Enrique B. Magalona		10.88	122.98	0	64
+Escalante		10.84	123.50	0	97
+Estancia		11.46	123.15	0	55
+Himamaylan		10.10	122.87	0	117
+Hinigaran		10.27	122.85	0	40
+Iloilo		10.70	122.56	0	474
+Isabela		10.20	122.99	0	16
+Kabankalan		9.98	122.81	0	211
+Kalibo (poblacion)		11.71	122.36	0	89
+La Carlota		10.42	122.92	0	68
+La Castellana		10.32	123.02	0	24
+Maao		10.49	122.99	0	26
+Manapla		10.96	123.12	0	34
+Mansilingan		10.63	122.98	0	454
+Murcia		10.61	123.04	0	17
+Pacol		10.45	122.82	0	20
+Pandan		11.74	122.10	0	37
+Paraiso		10.88	123.36	0	30
+Passi		11.11	122.64	0	43
+Pulupandan		10.52	122.80	0	27
+Roxas City		11.59	122.75	0	185
+Sagay		10.94	123.42	0	72
+Sipalay		9.75	122.40	0	74
+Suay		10.05	122.84	0	20
+Sumag		10.60	122.92	0	19
+Talisay		10.74	122.97	0	109
+Taloc		10.57	122.90	0	20
+Tinongan		10.21	123.04	0	62
+Ualog		10.57	123.39	0	61
+Victorias		10.90	123.07	0	87
+#r	Zamboanga Peninsula
+Al-Barka		6.49	122.18	0	24
+Dapitan		8.66	123.42	0	88
+Dipolog		8.57	123.33	0	94
+Ipil		7.78	122.59	0	19
+Mahayag		8.12	123.45	0	17
+Molave		8.08	123.49	0	21
+Muricay		7.83	123.48	0	132
+Pagadian		7.83	123.44	0	206
+Recodo		6.95	121.96	0	43
+Siocon		7.71	122.14	0	51
+Zamboanga		6.91	122.07	0	1019
