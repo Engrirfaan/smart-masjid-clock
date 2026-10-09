@@ -1,0 +1,159 @@
+#z	America/Santiago
+#c	CL
+#r	
+Cabildo		-32.43	-71.07	0	19
+Caldera		-27.07	-70.82	0	16
+Casablanca		-33.32	-71.40	0	25
+Coelemu		-36.49	-72.70	0	16
+Cunco		-38.93	-72.03	0	16
+Curacaví	Curacavi	-33.40	-71.13	0	18
+Los Vilos		-31.91	-71.50	0	18
+Los Álamos	Los Alamos	-37.63	-73.46	0	19
+Maullín	Maullin	-41.62	-73.60	0	16
+Paillaco		-40.07	-72.88	0	19
+Pozo Almonte		-20.26	-69.79	0	17
+Quillón	Quillon	-36.75	-72.47	0	17
+Quintero		-32.79	-71.53	0	22
+Teodoro Schmidt		-38.99	-73.09	0	16
+Villa Mercedes		-37.40	-71.98	0	132
+#r	Antofagasta
+Antofagasta		-23.65	-70.40	0	401
+Calama		-22.46	-68.92	0	166
+Tocopilla		-22.09	-70.20	0	25
+#r	Araucania
+Angol		-37.80	-72.72	0	45
+Carahue		-38.71	-73.16	0	24
+Collipulli		-37.95	-72.43	0	23
+Freire		-38.95	-72.63	0	22
+Labranza		-38.77	-72.75	0	36
+Lautaro		-38.53	-72.44	0	34
+Loncoche		-39.37	-72.63	0	21
+Nueva Imperial		-38.74	-72.95	0	29
+Padre Las Casas		-38.76	-72.60	0	73
+Panguipulli		-39.64	-72.33	0	33
+Pitrufquén	Pitrufquen	-38.99	-72.64	0	22
+Pucón	Pucon	-39.28	-71.95	0	27
+Temuco		-38.74	-72.60	0	238
+Traiguén	Traiguen	-38.25	-72.67	0	17
+Victoria		-38.23	-72.33	0	32
+Vilcún	Vilcun	-38.67	-72.23	0	22
+Villarrica		-39.29	-72.23	0	49
+#r	Arica y Parinacota
+Arica		-18.48	-70.30	0	242
+#r	Atacama
+Copiapó	Copiapo	-27.37	-70.33	0	129
+Vallenar		-28.58	-70.76	0	45
+#r	Biobio
+Arauco		-37.25	-73.32	0	25
+Cabrero		-37.03	-72.40	0	28
+Cañete	Canete	-37.80	-73.40	0	20
+Cañete	Canete	-37.80	-73.38	0	32
+Chiguayante		-36.93	-73.03	0	85
+Chillán	Chillan	-36.61	-72.10	0	150
+Chillán Viejo	Chillan Viejo	-36.62	-72.13	0	29
+Coihueco		-36.63	-71.83	0	25
+Concepción	Concepcion	-36.83	-73.05	0	224
+Coronel		-37.03	-73.14	0	108
+Curanilahue		-37.48	-73.34	0	32
+Hualpén	Hualpen	-36.79	-73.10	0	87
+Hualqui		-36.97	-72.94	0	24
+Lebu		-37.61	-73.65	0	22
+Los Ángeles	Los Angeles	-37.47	-72.35	0	125
+Lota		-37.09	-73.16	0	47
+Mulchén	Mulchen	-37.72	-72.24	0	28
+Nacimiento		-37.50	-72.67	0	27
+Penco		-36.74	-73.00	0	46
+San Carlos		-36.42	-71.96	0	32
+San Pedro de la Paz		-36.84	-73.10	0	122
+Talcahuano		-36.72	-73.12	0	150
+Tomé	Tome	-36.62	-72.96	0	53
+#r	Coquimbo
+Coquimbo		-29.95	-71.34	0	161
+Illapel		-31.63	-71.17	0	23
+La Serena		-29.91	-71.25	0	155
+Ovalle		-30.60	-71.20	0	77
+Vicuña	Vicuna	-30.04	-70.71	0	28
+#r	Los Lagos
+Ancud		-41.87	-73.82	0	41
+Calbuco		-41.77	-73.13	0	33
+Castro		-42.47	-73.77	0	42
+Frutillar		-41.12	-73.06	0	15
+La Unión	La Union	-40.29	-73.08	0	26
+Las Animas		-39.81	-73.22	0	30
+Llanquihue		-41.26	-73.01	0	16
+Osorno		-40.57	-73.13	0	136
+Puerto Montt		-41.47	-72.94	0	246
+Puerto Varas		-41.32	-72.99	0	38
+Purranque		-40.91	-73.16	0	21
+Quellón	Quellon	-43.12	-73.62	0	22
+#r	Los Rios
+Río Bueno	Rio Bueno	-40.33	-72.96	0	31
+Valdivia		-39.81	-73.25	0	133
+#r	Maule
+Cauquenes		-35.97	-72.32	0	39
+Colbún	Colbun	-35.69	-71.41	0	18
+Constitución	Constitucion	-35.33	-72.41	0	41
+Curicó	Curico	-34.98	-71.24	0	102
+Linares		-35.85	-71.59	0	70
+Longaví	Longavi	-35.96	-71.68	0	28
+Molina		-35.11	-71.28	0	40
+Parral		-36.14	-71.83	0	27
+Sagrada Familia		-35.00	-71.38	0	18
+San Clemente		-35.54	-71.49	0	40
+San Javier		-35.60	-71.73	0	40
+Talca		-35.42	-71.65	0	197
+#r	O'Higgins
+Chimbarongo		-34.71	-71.04	0	33
+Graneros		-34.07	-70.73	0	23
+Machalí	Machali	-34.18	-70.65	0	43
+Rancagua		-34.17	-70.74	0	213
+Rengo		-34.41	-70.86	0	38
+San Vicente		-34.43	-71.08	0	23
+San Vicente de Tagua Tagua		-34.44	-71.08	0	44
+Santa Cruz		-34.64	-71.37	0	35
+#r	Santiago Metropolitan
+Batuco		-33.23	-70.81	0	17
+Buin		-33.73	-70.74	0	63
+Chicureo		-33.28	-70.65	0	17
+Colina		-33.20	-70.67	0	146
+El Monte		-33.68	-70.98	0	26
+La Pintana		-33.58	-70.63	0	201
+Lampa		-33.29	-70.88	0	102
+Lo Prado		-33.44	-70.73	0	104
+Maipú	Maipu	-33.51	-70.77	0	504
+Melipilla		-33.69	-71.22	0	63
+Padre Hurtado		-33.57	-70.81	0	63
+Paine		-33.81	-70.74	0	73
+Peñaflor	Penaflor	-33.61	-70.88	0	86
+Peñalolén	Penalolen	-33.47	-70.53	0	242
+Puente Alto		-33.61	-70.58	0	568
+Quilicura		-33.37	-70.71	0	210
+Renca		-33.40	-70.71	0	147
+San Bernardo		-33.59	-70.70	0	250
+Santiago		-33.46	-70.65	0	4837
+Talagante		-33.66	-70.93	0	57
+Ñuñoa	Nunoa	-33.45	-70.58	0	256
+#r	Tarapaca
+Alto Hospicio		-20.27	-70.10	0	142
+Iquique		-20.21	-70.15	0	200
+#r	Valparaiso
+Cartagena		-33.55	-71.61	0	18
+Concón	Concon	-32.92	-71.52	0	42
+El Quisco		-33.40	-71.69	0	17
+Hacienda La Calera		-32.78	-71.22	0	49
+La Calera		-32.79	-71.20	0	50
+La Cruz		-32.83	-71.23	0	17
+La Ligua		-32.45	-71.23	0	32
+Limache		-33.01	-71.26	0	46
+Llaillay		-32.84	-70.96	0	23
+Los Andes		-32.83	-70.60	0	63
+Placilla		-33.11	-71.57	0	39
+Putaendo		-32.63	-70.72	0	15
+Quillota		-32.88	-71.25	0	68
+Quilpué	Quilpue	-33.05	-71.44	0	130
+San Antonio		-33.59	-71.61	0	88
+San Esteban		-32.80	-70.58	0	17
+San Felipe		-32.75	-70.73	0	59
+Valparaíso	Valparaiso	-33.04	-71.63	0	282
+Villa Alemana		-33.05	-71.37	0	97
+Viña del Mar	Vina del Mar	-33.02	-71.55	0	334

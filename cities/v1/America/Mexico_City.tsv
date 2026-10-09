@@ -1,0 +1,486 @@
+#z	America/Mexico_City
+#c	MX
+#r	
+Ébano	Ebano	22.22	-98.38	0	24
+#r	Aguascalientes
+Aguascalientes		21.88	-102.28	0	722
+Calvillo		21.85	-102.72	0	20
+Jesús María	Jesus Maria	21.96	-102.34	0	43
+Pabellón de Arteaga	Pabellon de Arteaga	22.15	-102.28	0	29
+Rincón de Romos	Rincon de Romos	22.23	-102.32	0	28
+San Francisco de los Romo		22.07	-102.27	0	16
+#r	Chiapas
+Arriaga		16.24	-93.90	0	24
+Cacahoatán	Cacahoatan	14.99	-92.16	0	17
+Chiapa de Corzo		16.71	-93.01	0	45
+Cintalapa de Figueroa		16.68	-93.72	0	42
+Emiliano Zapata		17.74	-91.77	0	20
+Huixtla		15.14	-92.46	0	32
+Las Rosas		16.37	-92.37	0	19
+Mapastepec		15.43	-92.90	0	18
+Ocosingo		16.91	-92.09	0	42
+Pijijiapan		15.69	-93.21	0	50
+Tonalá	Tonala	16.09	-93.75	0	35
+Venustiano Carranza		16.34	-92.56	0	15
+Villaflores		16.23	-93.27	0	37
+Yajalón	Yajalon	17.17	-92.33	0	17
+#r	Colima
+Ciudad de Armería	Ciudad de Armeria	18.94	-103.96	0	16
+Ciudad de Villa de Álvarez	Ciudad de Villa de Alvarez	19.27	-103.74	0	118
+Colima		19.24	-103.71	0	147
+Manzanillo		19.12	-104.34	0	160
+Tecomán	Tecoman	18.92	-103.88	0	86
+#r	Guanajuato
+Abasolo		20.45	-101.53	0	27
+Acámbaro	Acambaro	20.03	-100.72	0	58
+Apaseo el Alto		20.46	-100.62	0	28
+Apaseo el Grande		20.55	-100.69	0	26
+Celaya		20.52	-100.81	0	340
+Centro Familiar la Soledad		21.14	-101.75	0	32
+Comonfort		20.72	-100.76	0	24
+Cortazar		20.48	-100.96	0	62
+Dolores Hidalgo		21.16	-100.93	0	67
+Guanajuato		21.02	-101.26	0	72
+Irapuato		20.67	-101.36	0	381
+Jaral del Progreso		20.37	-101.06	0	20
+Juventino Rosas		20.64	-101.00	0	42
+La Ermita		21.15	-101.73	0	20
+León de los Aldama	Leon de los Aldama	21.12	-101.68	0	1580
+Marfil		21.00	-101.29	0	29
+Medina		21.15	-101.62	0	16
+Moroleón	Moroleon	20.13	-101.19	0	43
+Purísima de Bustos	Purisima de Bustos	21.03	-101.88	0	44
+Pénjamo	Penjamo	20.43	-101.72	0	40
+Romita		20.87	-101.52	0	21
+Salamanca		20.57	-101.20	0	161
+Salvatierra		20.22	-100.88	0	37
+San Felipe		21.48	-101.22	0	28
+San Francisco del Rincón	San Francisco del Rincon	21.02	-101.86	0	71
+San José Iturbide	San Jose Iturbide	21.00	-100.39	0	23
+San Luis de la Paz		21.30	-100.51	0	50
+San Miguel de Allende		20.92	-100.74	0	175
+Silao de la Victoria		20.94	-101.43	0	74
+Uriangato		20.14	-101.18	0	51
+Valle de Santiago		20.39	-101.19	0	68
+Villagrán	Villagran	20.51	-101.00	0	27
+Yuriria		20.21	-101.13	0	25
+#r	Guerrero
+Acapulco de Juárez	Acapulco de Juarez	16.85	-99.91	0	659
+Arcelia		18.32	-100.28	0	19
+Atoyac de Álvarez	Atoyac de Alvarez	17.21	-100.43	0	21
+Ayutla de los Libres		16.96	-99.10	0	15
+Chilapa de Álvarez	Chilapa de Alvarez	17.60	-99.17	0	31
+Chilpancingo		17.55	-99.50	0	187
+Ciudad Altamirano		18.36	-100.67	0	25
+Ciudad de Huitzuco		18.30	-99.33	0	17
+Iguala de la Independencia		18.35	-99.54	0	118
+Ixtapa-Zihuatanejo		17.64	-101.55	0	67
+Ometepec		16.69	-98.41	0	24
+Petatlán	Petatlan	17.54	-101.27	0	22
+Taxco de Alarcón	Taxco de Alarcon	18.55	-99.61	0	50
+Teloloapan		18.37	-99.87	0	24
+Tixtla de Guerrero		17.57	-99.40	0	23
+Tlapa de Comonfort		17.55	-98.58	0	47
+Técpan de Galeana	Tecpan de Galeana	17.22	-100.63	0	15
+Zumpango del Río	Zumpango del Rio	17.65	-99.53	0	25
+#r	Hidalgo
+Actopan		20.27	-98.94	0	32
+Apan		19.71	-98.45	0	27
+Calpulalpan		19.59	-98.57	0	33
+Ciudad Sahagun		19.78	-98.57	0	29
+Cuautepec de Hinojosa		20.04	-98.31	0	19
+Don Antonio		19.87	-98.93	0	18
+Huejutla de Reyes		21.14	-98.42	0	40
+Ixmiquilpan		20.48	-99.22	0	35
+La Providencia Siglo XXI		20.06	-98.72	0	17
+Mixquiahuala de Juarez		20.23	-99.21	0	26
+Pachuca de Soto		20.12	-98.73	0	257
+Progreso de Alvaro Obregon		20.25	-99.19	0	17
+Santiago Tulantepec		20.04	-98.36	0	16
+Tepeapulco		19.79	-98.55	0	15
+Tepeji del Río de Ocampo	Tepeji del Rio de Ocampo	19.90	-99.34	0	81
+Tula de Allende		20.05	-99.34	0	29
+Tulancingo		20.08	-98.36	0	102
+Zacualtipán	Zacualtipan	20.65	-98.66	0	23
+#r	Jalisco
+Ahualulco de Mercado		20.70	-103.97	0	16
+Ameca		20.55	-104.05	0	36
+Arandas		20.71	-102.35	0	52
+Atotonilco el Alto		20.55	-102.51	0	27
+Autlán de Navarro	Autlan de Navarro	19.77	-104.37	0	45
+Chapala		20.29	-103.19	0	22
+Cihuatlán	Cihuatlan	19.24	-104.57	0	40
+Ciudad Guzmán	Ciudad Guzman	19.70	-103.46	0	112
+Cocula		20.37	-103.82	0	29
+Coyula		20.66	-103.23	0	30
+El Grullo		19.81	-104.22	0	21
+El Salto		20.52	-103.18	0	22
+El Salto		20.33	-104.50	0	23
+Encarnación de Díaz	Encarnacion de Diaz	21.53	-102.24	0	25
+Guadalajara		20.68	-103.35	0	1386
+Hacienda Santa Fe		20.52	-103.38	0	87
+Ixtapa		20.72	-105.21	0	29
+Jalostotitlán	Jalostotitlan	21.17	-102.46	0	24
+Jamay		20.29	-102.71	0	17
+Jocotepec		20.29	-103.43	0	19
+La Barca		20.29	-102.54	0	35
+Lagos de Moreno		21.36	-101.93	0	98
+Las Pintas de Arriba		20.58	-103.32	0	23
+Las Pintitas		20.56	-103.30	0	26
+Lomas del Sur		20.49	-103.42	0	19
+Magdalena		20.91	-103.98	0	16
+Nuevo México	Nuevo Mexico	20.76	-103.44	0	28
+Ocotlán	Ocotlan	20.35	-102.77	0	84
+Puerto Vallarta		20.62	-105.23	0	224
+San Agustín	San Agustin	20.55	-103.47	0	30
+San Francisco Tesistán	San Francisco Tesistan	20.80	-103.48	0	62
+San José del Castillo	San Jose del Castillo	20.51	-103.24	0	39
+San José del Quince	San Jose del Quince	20.54	-103.28	0	18
+San Juan de los Lagos		21.25	-102.33	0	49
+San Miguel el Alto		21.03	-102.40	0	24
+San Sebastián el Grande	San Sebastian el Grande	20.53	-103.43	0	28
+Santa Anita		20.55	-103.44	0	20
+Sayula		19.88	-103.60	0	27
+Tala		20.65	-103.70	0	35
+Tamazula de Gordiano		19.68	-103.25	0	19
+Teocaltiche		21.43	-102.57	0	24
+Tepatitlán de Morelos	Tepatitlan de Morelos	20.82	-102.76	0	92
+Tequila		20.88	-103.84	0	29
+Tlajomulco de Zúñiga	Tlajomulco de Zuniga	20.47	-103.45	0	30
+Tlaquepaque		20.64	-103.29	0	650
+Tonalá	Tonala	20.62	-103.24	0	409
+Tuxpan		19.56	-103.38	0	28
+Villa Hidalgo		21.68	-102.59	0	15
+Zacoalco de Torres		20.23	-103.57	0	18
+Zapopan		20.72	-103.39	0	1476
+Zapotiltic		19.63	-103.42	0	23
+Zapotlanejo		20.62	-103.07	0	32
+#r	Mexico
+Alborada Jaltenco		19.66	-99.07	0	15
+Amecameca		19.12	-98.77	0	32
+Ampliación San Mateo	Ampliacion San Mateo	19.62	-99.15	0	16
+Atlacomulco de Fabela		19.80	-99.88	0	23
+Buenavista		19.61	-99.17	0	217
+Chalco		19.26	-98.90	0	169
+Chicoloapan		19.42	-98.90	0	173
+Chiconcuac		19.56	-98.90	0	22
+Ciudad López Mateos	Ciudad Lopez Mateos	19.56	-99.26	0	489
+Ciudad Nezahualcoyotl		19.40	-99.01	0	1077
+Coacalco		19.63	-99.11	0	278
+Colonia Lindavista		19.49	-99.12	0	100
+Cuautitlán	Cuautitlan	19.67	-99.18	0	179
+Cuautitlán Izcalli	Cuautitlan Izcalli	19.64	-99.22	0	555
+Delegación Cuajimalpa de Morelos	Delegacion Cuajimalpa de Morelos	19.37	-99.29	0	160
+Ecatepec de Morelos		19.60	-99.06	0	1645
+Emiliano Zapata		19.34	-98.97	0	25
+Fuentes del Valle		19.63	-99.14	0	74
+Huilango		19.68	-99.26	0	17
+Huixquilucan		19.36	-99.35	0	125
+Ixtapaluca		19.32	-98.88	0	322
+Ixtapan de la Sal		18.84	-99.68	0	18
+Jacona de Plancarte		19.96	-102.31	0	54
+Jesús del Monte	Jesus del Monte	19.38	-99.29	0	23
+Jiquilpan de Juárez	Jiquilpan de Juarez	19.99	-102.72	0	24
+Juchitepec		19.10	-98.88	0	16
+Los Reyes Acaquilpan		19.36	-98.98	0	85
+Magdalena Atlicpac		19.37	-98.95	0	26
+Melchor Ocampo		19.70	-99.14	0	39
+Naucalpan de Juárez	Naucalpan de Juarez	19.48	-99.24	0	834
+Nicolás Romero	Nicolas Romero	19.64	-99.31	0	282
+Ojo de Agua		19.68	-99.01	0	386
+Ozumba de Alzate		19.04	-98.80	0	17
+Puruándiro	Puruandiro	20.09	-101.52	0	31
+San Andrés Cuexcontitlán	San Andres Cuexcontitlan	19.36	-99.62	0	18
+San Antonio Acahualco		19.27	-99.77	0	16
+San Buenaventura		19.30	-98.86	0	45
+San Francisco Acuautla		19.35	-98.86	0	28
+San Francisco Cuaxusco		19.27	-99.62	0	25
+San Francisco Tlalcilalcalpan		19.29	-99.77	0	17
+San Isidro		19.34	-98.95	0	34
+San Jerónimo	San Jeronimo	19.28	-99.59	0	26
+San Jerónimo Cuatro Vientos	San Jeronimo Cuatro Vientos	19.29	-98.84	0	37
+San Jorge Pueblo Nuevo		19.25	-99.63	0	23
+San José Guadalupe Otzacatipan	San Jose Guadalupe Otzacatipan	19.34	-99.59	0	31
+San Juan Zitlaltepec		19.81	-99.15	0	20
+San Martín Azcatepec	San Martin Azcatepec	19.69	-98.97	0	35
+San Martín Cuautlalpan	San Martin Cuautlalpan	19.28	-98.83	0	24
+San Mateo Huitzilzingo		19.23	-98.93	0	15
+San Miguel Coatlinchán	San Miguel Coatlinchan	19.45	-98.87	0	23
+San Pablo de las Salinas		19.67	-99.09	0	156
+San Pedro Totoltepec		19.31	-99.57	0	21
+San Rafael		19.21	-98.76	0	21
+San Salvador Atenco		19.55	-98.92	0	17
+San Salvador Tizatlalli		19.26	-99.59	0	61
+Santa María Chimalhuacán	Santa Maria Chimalhuacan	19.42	-98.95	0	71
+Santa María Totoltepec	Santa Maria Totoltepec	19.31	-99.59	0	19
+Santa Teresa		19.84	-99.23	0	37
+Santiago Teyahualco		19.66	-99.12	0	54
+Santiago Tlacotepec		19.23	-99.67	0	16
+Tangancícuaro de Arista	Tangancicuaro de Arista	19.89	-102.21	0	15
+Tecámac de Felipe Villanueva	Tecamac de Felipe Villanueva	19.71	-98.97	0	16
+Tejupilco de Hidalgo		18.90	-100.15	0	26
+Teoloyucan		19.74	-99.18	0	51
+Teotihuacán de Arista	Teotihuacan de Arista	19.69	-98.86	0	23
+Tepexpan		19.61	-98.94	0	103
+Tepotzotlán	Tepotzotlan	19.72	-99.22	0	38
+Tequixquiac		19.91	-99.14	0	23
+Texcoco de Mora		19.51	-98.88	0	105
+Tlalnepantla		19.54	-99.20	0	653
+Toluca		19.29	-99.65	0	489
+Tulantongo		19.53	-98.87	0	16
+Tultepec		19.68	-99.13	0	65
+Tultitlán de Mariano Escobedo	Tultitlan de Mariano Escobedo	19.65	-99.17	0	28
+Valle de Bravo		19.20	-100.13	0	26
+Xalatlaco		19.18	-99.42	0	15
+Xico		19.27	-98.95	0	384
+Zinacantepec		19.28	-99.73	0	54
+Zumpango		19.80	-99.10	0	280
+#r	Mexico City
+Azcapotzalco		19.49	-99.19	0	415
+Benito Juarez		19.40	-99.16	0	355
+Benito Juárez	Benito Juarez	19.37	-99.16	0	385
+Colonia Nativitas		19.38	-99.14	0	60
+Colonia del Valle		19.39	-99.16	0	250
+Coyoacán	Coyoacan	19.35	-99.16	0	614
+Cuauhtémoc	Cuauhtemoc	19.45	-99.15	0	532
+Gustavo Adolfo Madero		19.49	-99.11	0	1186
+Iztacalco		19.40	-99.10	0	384
+Iztapalapa		19.36	-99.06	0	1835
+Magdalena Contreras		19.33	-99.21	0	238
+Mexico City		19.43	-99.13	0	12294
+Miguel Hidalgo		19.43	-99.20	0	373
+Milpa Alta		19.19	-99.02	0	18
+Polanco		19.43	-99.20	0	50
+San Antonio Tecómitl	San Antonio Tecomitl	19.22	-98.99	0	24
+San Juan Ixtayopan		19.23	-99.00	0	24
+San Lorenzo Acopilco		19.33	-99.33	0	23
+San Miguel Ajusco		19.22	-99.20	0	30
+San Miguel Topilejo		19.20	-99.14	0	35
+San Pablo Oztotepec		19.19	-99.07	0	16
+Tlalpan		19.30	-99.16	0	575
+Tláhuac	Tlahuac	19.29	-99.01	0	305
+Venustiano Carranza		19.44	-99.10	0	431
+Xochimilco		19.25	-99.10	0	442
+Álvaro Obregón	Alvaro Obregon	19.36	-99.20	0	727
+#r	Michoacan
+Apatzingán	Apatzingan	19.09	-102.36	0	102
+Ario de Rosales		19.21	-101.71	0	17
+Ciudad Hidalgo		19.69	-100.56	0	61
+Ciudad Lázaro Cárdenas	Ciudad Lazaro Cardenas	17.96	-102.20	0	196
+Coalcomán de Vázquez Pallares	Coalcoman de Vazquez Pallares	18.78	-103.16	0	18
+Heróica Zitácuaro	Heroica Zitacuaro	19.44	-100.36	0	84
+Huetamo de Núñez	Huetamo de Nunez	18.63	-100.90	0	22
+La Orilla		18.00	-102.23	0	20
+La Piedad de Cabadas		20.34	-102.02	0	83
+Las Guacamayas		18.02	-102.21	0	38
+Los Reyes de Salgado		19.59	-102.47	0	39
+Maravatío de Ocampo	Maravatio de Ocampo	19.89	-100.44	0	34
+Morelia		19.70	-101.18	0	743
+Nueva Italia de Ruiz		19.02	-102.09	0	32
+Paracho de Verduzco		19.65	-102.05	0	37
+Peribán de Ramos	Periban de Ramos	19.52	-102.42	0	15
+Purépero de Echáiz	Purepero de Echaiz	19.91	-102.01	0	24
+Pátzcuaro	Patzcuaro	19.51	-101.61	0	55
+Sahuayo de Morelos		20.06	-102.72	0	64
+Tacámbaro de Codallos	Tacambaro de Codallos	19.24	-101.46	0	26
+Tepalcatepec		19.19	-102.85	0	15
+Tuzantla		19.20	-100.57	0	15
+Uruapan		19.42	-102.06	0	300
+Yurécuaro	Yurecuaro	20.34	-102.28	0	24
+Zacapu		19.82	-101.79	0	50
+Zamora de Hidalgo		19.98	-102.29	0	186
+Zinapécuaro de Figueroa	Zinapecuaro de Figueroa	19.86	-100.83	0	16
+#r	Morelos
+Axochiapan		18.50	-98.75	0	18
+Capulhuac de Mirafuentes		19.19	-99.47	0	21
+Coyotepec		19.78	-99.21	0	36
+Cuautla		18.81	-98.94	0	157
+Cuernavaca		18.93	-99.23	0	339
+Emiliano Zapata		18.84	-99.18	0	49
+Jiutepec		18.88	-99.18	0	215
+Jojutla		18.61	-99.18	0	19
+Lerma de Villada		19.29	-99.51	0	23
+Metepec		19.26	-99.60	0	28
+Ocoyoacac		19.27	-99.46	0	26
+Puente de Ixtla		18.61	-99.32	0	21
+Reyes Acozac		19.78	-98.98	0	22
+San Mateo Atenco		19.27	-99.53	0	68
+San Mateo Otzacatipan		19.33	-99.60	0	23
+San Pablo Autopan		19.36	-99.66	0	35
+Santa María Ajoloapan	Santa Maria Ajoloapan	19.76	-98.96	0	18
+Santa Rosa Treinta		18.70	-99.18	0	17
+Tecámac	Tecamac	19.71	-98.97	0	15
+Temixco		18.85	-99.23	0	98
+Tenango de Arista		19.10	-99.59	0	22
+Tezoyuca		19.59	-98.91	0	17
+Tizayuca		19.84	-98.98	0	43
+Tlaquiltenango		18.63	-99.16	0	18
+Tres de Mayo		18.87	-99.21	0	18
+Xochitepec		18.78	-99.23	0	19
+Xonacatlán	Xonacatlan	19.41	-99.53	0	21
+Xoxocotla		18.68	-99.25	0	21
+Yautepec		18.88	-99.07	0	106
+Yecapixtla		18.88	-98.86	0	17
+Zacatepec		18.65	-99.19	0	22
+#r	Oaxaca
+Ciudad de Huajuapan de León	Ciudad de Huajuapan de Leon	17.81	-97.78	0	53
+Crucecita		15.77	-96.14	0	15
+Heroica Ciudad de Juchitán de Zaragoza	Heroica Ciudad de Juchitan de Zaragoza	16.43	-95.02	0	88
+Heroica Ciudad de Tlaxiaco		17.27	-97.68	0	18
+Ixtepec		16.56	-95.10	0	25
+Matías Romero Avendaño	Matias Romero Avendano	16.88	-95.04	0	19
+Miahuatlán de Porfirio Díaz	Miahuatlan de Porfirio Diaz	16.33	-96.60	0	24
+Oaxaca		17.06	-96.73	0	255
+Ocotlán de Morelos	Ocotlan de Morelos	16.79	-96.68	0	15
+Pinotepa Nacional		16.34	-98.05	0	30
+Puerto Escondido		15.86	-97.07	0	30
+Salina Cruz		16.18	-95.19	0	84
+San Antonio de la Cal		17.03	-96.70	0	20
+Santa Cruz Xoxocotlán	Santa Cruz Xoxocotlan	17.03	-96.74	0	67
+Santa María Atzompa	Santa Maria Atzompa	17.10	-96.78	0	22
+Santo Domingo Tehuantepec		16.32	-95.24	0	68
+Tierra Blanca		18.45	-96.36	0	48
+Tuxtepec		18.09	-96.13	0	159
+#r	Puebla
+Acajete		19.11	-97.95	0	21
+Acatlán de Osorio	Acatlan de Osorio	18.20	-98.05	0	19
+Acatzingo		18.98	-97.78	0	26
+Ajalpan		18.38	-97.26	0	28
+Altepexi		18.37	-97.30	0	18
+Amozoc de Mota		19.05	-98.05	0	95
+Atlixco		18.91	-98.44	0	87
+Casa Blanca		19.04	-98.12	0	17
+Chignahuapan		19.84	-98.03	0	20
+Cholula		19.06	-98.30	0	293
+Ciudad Serdán	Ciudad Serdan	18.99	-97.45	0	24
+Cuautlancingo		19.09	-98.27	0	25
+Huauchinango		20.17	-98.05	0	56
+Huejotzingo		19.16	-98.41	0	26
+Izúcar de Matamoros	Izucar de Matamoros	18.60	-98.46	0	43
+Libres		19.47	-97.69	0	16
+Los Reyes de Juárez	Los Reyes de Juarez	18.95	-97.80	0	17
+Moyotzingo		19.25	-98.40	0	27
+Palmarito Tochapan		18.90	-97.64	0	17
+Puebla		19.05	-98.21	0	1692
+San Andrés Cholula	San Andres Cholula	19.05	-98.30	0	40
+San Bernardino Tlaxcalancingo		19.03	-98.28	0	55
+San Martin Texmelucan de Labastida		19.28	-98.44	0	156
+San Rafael Tlanalapan		19.29	-98.47	0	16
+San Salvador El Seco		19.13	-97.64	0	17
+Sanctorum		19.10	-98.25	0	28
+Santa Ana Xalmimilulco		19.21	-98.38	0	16
+Santiago Momoxpan		19.07	-98.27	0	18
+Tecamachalco		18.88	-97.73	0	29
+Tehuacán	Tehuacan	18.46	-97.40	0	249
+Tepatlaxco de Hidalgo		19.08	-97.97	0	16
+Tepeaca		18.97	-97.90	0	27
+Teziutlan		19.82	-97.36	0	104
+Xicotepec de Juárez	Xicotepec de Juarez	20.28	-97.96	0	40
+Zacatlán	Zacatlan	19.94	-97.96	0	34
+Zaragoza		19.77	-97.56	0	17
+Zinacatepec		18.34	-97.25	0	16
+#r	Queretaro
+El Pueblito		20.54	-100.44	0	71
+San José de los Olvera	San Jose de los Olvera	20.55	-100.42	0	18
+San Juan del Río	San Juan del Rio	20.39	-100.00	0	139
+Santa Rosa Jáuregui	Santa Rosa Jauregui	20.74	-100.45	0	19
+Santiago de Querétaro	Santiago de Queretaro	20.59	-100.39	0	1594
+Tequisquiapan		20.52	-99.89	0	30
+Venceremos		20.55	-100.40	0	16
+#r	San Luis Potosi
+Ciudad Fernández	Ciudad Fernandez	21.94	-100.01	0	32
+Ciudad Valles		22.00	-99.01	0	125
+Cárdenas	Cardenas	22.00	-99.64	0	15
+Matehuala		23.65	-100.64	0	77
+Rioverde		21.93	-99.99	0	53
+Salinas de Hidalgo		22.63	-101.71	0	17
+Soledad de Graciano Sánchez	Soledad de Graciano Sanchez	22.19	-100.94	0	332
+Tamazunchale		21.26	-98.79	0	25
+Tamuín	Tamuin	22.01	-98.78	0	16
+#r	Tabasco
+Cunduacán	Cunduacan	18.07	-93.17	0	20
+Cárdenas	Cardenas	18.00	-93.38	0	92
+Frontera		18.54	-92.65	0	23
+Jalpa de Méndez	Jalpa de Mendez	18.18	-93.06	0	16
+Macuspana		17.76	-92.60	0	32
+Paraiso		18.40	-93.21	0	87
+Playas del Rosario		17.85	-92.93	0	22
+Tenosique		17.47	-91.42	0	33
+#r	Tlaxcala
+Apizaco		19.41	-98.14	0	50
+Contla		19.33	-98.17	0	28
+Huamantla		19.31	-97.93	0	52
+La Magdalena Tlaltelulco		19.28	-98.20	0	17
+Papalotla		19.17	-98.20	0	23
+Santa Ana Chiautempan		19.31	-98.19	0	48
+Teolocholco		19.24	-98.19	0	16
+Tetla		19.44	-98.10	0	15
+Tlaxcala		19.32	-98.24	0	85
+Villa Vicente Guerrero		19.12	-98.17	0	60
+Zacatelco		19.22	-98.24	0	42
+#r	Veracruz
+Acayucan		17.95	-94.91	0	51
+Agua Dulce		18.14	-94.15	0	36
+Allende		18.15	-94.39	0	24
+Alto Lucero		20.95	-97.44	0	15
+Altotonga		19.77	-97.25	0	20
+Alvarado		18.77	-95.76	0	23
+Banderilla		19.59	-96.94	0	20
+Carlos A. Carrillo		18.37	-95.75	0	18
+Catemaco		18.42	-95.11	0	28
+Cerro Azul		21.19	-97.74	0	22
+Ciudad Mendoza		18.81	-97.18	0	36
+Coatepec		19.45	-96.96	0	54
+Coatzacoalcos		18.15	-94.44	0	311
+Coatzintla		20.49	-97.47	0	34
+Cosamaloapan		18.37	-95.80	0	31
+Coscomatepec de Bravo		19.07	-97.05	0	15
+Cosoleacaque		18.00	-94.64	0	22
+Córdoba	Cordoba	18.88	-96.93	0	205
+Fortín de las Flores	Fortin de las Flores	18.91	-97.00	0	21
+Fraccionamiento Ciudad Olmeca		18.15	-94.55	0	16
+Huatusco		19.15	-96.97	0	31
+Isla		18.03	-95.53	0	26
+Ixtaczoquitlán	Ixtaczoquitlan	18.85	-97.06	0	26
+José Cardel	Jose Cardel	19.37	-96.37	0	19
+Jáltipan de Morelos	Jaltipan de Morelos	17.97	-94.71	0	33
+La Isla		18.60	-96.15	0	25
+Las Choapas		17.91	-94.10	0	43
+Lerdo de Tejada		18.63	-95.52	0	19
+Loma Bonita		18.11	-95.88	0	41
+Martínez de la Torre	Martinez de la Torre	20.07	-97.06	0	60
+Minatitlán	Minatitlan	18.00	-94.56	0	112
+Misantla		19.93	-96.85	0	27
+Nanchital de Lázaro Cárdenas del Río	Nanchital de Lazaro Cardenas del Rio	18.07	-94.41	0	25
+Naranjos		21.35	-97.69	0	20
+Nogales		18.83	-97.16	0	22
+Orizaba		18.85	-97.10	0	123
+Papantla de Olarte		20.45	-97.32	0	54
+Perote		19.56	-97.24	0	38
+Poza Rica de Hidalgo		20.53	-97.46	0	185
+Pánuco	Panuco	22.05	-98.18	0	41
+Río Blanco	Rio Blanco	18.83	-97.16	0	41
+San Andrés Tuxtla	San Andres Tuxtla	18.45	-95.21	0	62
+Santiago Tuxtla		18.47	-95.30	0	15
+Tantoyuca		21.35	-98.23	0	31
+Tlapacoyan		19.96	-97.21	0	35
+Tres Valles		18.24	-96.14	0	17
+Túxpam de Rodríguez Cano	Tuxpam de Rodriguez Cano	20.96	-97.41	0	85
+Valente Diaz		19.16	-96.22	0	26
+Veracruz		19.18	-96.14	0	428
+Villa Independencia		20.06	-97.05	0	15
+Xalapa de Enríquez	Xalapa de Enriquez	19.53	-96.92	0	425
+Xico		19.42	-97.01	0	19
+Álamo	Alamo	20.91	-97.68	0	25
+#r	Zacatecas
+Fresnillo		23.17	-102.87	0	143
+Guadalupe		22.75	-102.52	0	170
+Jerez de García Salinas	Jerez de Garcia Salinas	22.65	-102.99	0	43
+Juan Aldama		24.29	-103.39	0	15
+Loreto		22.27	-101.99	0	24
+Nochistlán de Mejía	Nochistlan de Mejia	21.36	-102.85	0	17
+Río Grande	Rio Grande	23.83	-103.03	0	33
+Sombrerete		23.63	-103.64	0	22
+Tlaltenango de Sánchez Román	Tlaltenango de Sanchez Roman	21.78	-103.30	0	16
+Víctor Rosales	Victor Rosales	22.95	-102.70	0	33
+Zacatecas		22.77	-102.58	0	129

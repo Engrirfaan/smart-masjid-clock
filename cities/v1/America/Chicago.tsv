@@ -1,0 +1,921 @@
+#z	America/Chicago
+#c	US
+#r	Alabama
+Alabaster		33.24	-86.82	0	33
+Albertville		34.27	-86.21	0	21
+Anniston		33.66	-85.83	0	22
+Athens		34.80	-86.97	0	25
+Auburn		32.61	-85.48	0	62
+Bessemer		33.40	-86.95	0	27
+Birmingham		33.52	-86.80	0	196
+Center Point		33.65	-86.68	0	17
+Cullman		34.17	-86.84	0	15
+Daphne		30.60	-87.90	0	25
+Decatur		34.61	-86.98	0	55
+Dixiana		33.74	-86.65	0	23
+Dothan		31.22	-85.39	0	69
+East Florence		34.81	-87.65	0	36
+Enterprise		31.32	-85.86	0	28
+Fairhope		30.52	-87.90	0	19
+Florence		34.80	-87.68	0	40
+Foley		30.41	-87.68	0	17
+Gadsden		34.01	-86.01	0	36
+Helena		33.30	-86.84	0	18
+Homewood		33.47	-86.80	0	26
+Hoover		33.41	-86.81	0	85
+Hueytown		33.45	-87.00	0	16
+Huntsville		34.73	-86.59	0	215
+Madison		34.70	-86.75	0	47
+Millbrook		32.48	-86.36	0	15
+Mobile		30.69	-88.04	0	183
+Montgomery		32.37	-86.30	0	195
+Mountain Brook		33.50	-86.75	0	21
+Northport		33.23	-87.58	0	25
+Opelika		32.65	-85.38	0	30
+Oxford		33.61	-85.83	0	21
+Pelham		33.29	-86.81	0	23
+Prattville		32.46	-86.46	0	35
+Prichard		30.74	-88.08	0	22
+Selma		32.41	-87.02	0	20
+Talladega		33.44	-86.11	0	16
+Tillmans Corner		30.59	-88.17	0	17
+Troy		31.81	-85.97	0	19
+Trussville		33.62	-86.61	0	21
+Tuscaloosa		33.21	-87.57	0	111
+Vestavia Hills		33.45	-86.79	0	34
+#r	Arkansas
+Bella Vista		36.48	-94.27	0	28
+Benton		34.56	-92.59	0	34
+Bentonville		36.37	-94.21	0	44
+Bryant		34.60	-92.49	0	20
+Cabot		34.97	-92.02	0	26
+Conway		35.09	-92.44	0	65
+El Dorado		33.21	-92.67	0	18
+Fayetteville		36.06	-94.16	0	83
+Fort Smith		35.39	-94.40	0	88
+Hot Springs		34.50	-93.06	0	36
+Jacksonville		34.87	-92.11	0	29
+Jonesboro		35.84	-90.70	0	74
+Little Rock		34.75	-92.29	0	203
+Maumelle		34.87	-92.40	0	18
+North Little Rock		34.77	-92.27	0	67
+Paragould		36.06	-90.50	0	28
+Pine Bluff		34.23	-92.00	0	45
+Rogers		36.33	-94.12	0	63
+Russellville		35.28	-93.13	0	29
+Searcy		35.25	-91.74	0	24
+Sherwood		34.82	-92.22	0	31
+Siloam Springs		36.19	-94.54	0	16
+Springdale		36.19	-94.13	0	78
+Texarkana		33.44	-94.04	0	30
+Van Buren		35.44	-94.35	0	23
+West Memphis		35.15	-90.18	0	25
+#r	Florida
+Bellview		30.46	-87.31	0	23
+Brent		30.47	-87.24	0	22
+Cantonment		30.61	-87.34	0	26
+Crestview		30.76	-86.57	0	23
+East Pensacola Heights		30.43	-87.18	0	54
+Ensley		30.52	-87.27	0	21
+Ferry Pass		30.51	-87.21	0	29
+Fort Walton Beach		30.42	-86.62	0	22
+Lynn Haven		30.25	-85.65	0	20
+Midway		30.41	-87.01	0	16
+Myrtle Grove		30.42	-87.31	0	16
+Navarre		30.40	-86.86	0	31
+Pace		30.60	-87.16	0	20
+Panama City		30.16	-85.66	0	38
+Pensacola		30.42	-87.22	0	54
+Santa Rosa Beach		30.40	-86.23	0	32
+West Pensacola		30.43	-87.28	0	21
+Wright		30.46	-86.64	0	23
+#r	Illinois
+Addison		41.93	-87.99	0	37
+Albany Park		41.97	-87.72	0	52
+Algonquin		42.17	-88.29	0	31
+Alsip		41.67	-87.74	0	19
+Alton		38.89	-90.18	0	27
+Arlington Heights		42.09	-87.98	0	76
+Ashburn		41.75	-87.71	0	43
+Auburn Gresham		41.74	-87.65	0	46
+Aurora		41.76	-88.32	0	201
+Avondale		41.94	-87.71	0	40
+Bartlett		42.00	-88.19	0	42
+Batavia		41.85	-88.31	0	26
+Belleville		38.52	-89.98	0	42
+Bellwood		41.88	-87.88	0	19
+Belmont Cragin		41.93	-87.77	0	79
+Belvidere		42.26	-88.84	0	25
+Bensenville		41.96	-87.94	0	18
+Berwyn		41.85	-87.79	0	56
+Bloomingdale		41.96	-88.08	0	22
+Bloomington		40.48	-88.99	0	78
+Blue Island		41.66	-87.68	0	24
+Bolingbrook		41.70	-88.07	0	74
+Bourbonnais		41.15	-87.89	0	19
+Bradley		41.14	-87.86	0	16
+Bridgeport		41.84	-87.65	0	34
+Bridgeview		41.75	-87.80	0	16
+Brighton Park		41.82	-87.70	0	44
+Brookfield		41.82	-87.85	0	19
+Buffalo Grove		42.15	-87.96	0	41
+Burbank		41.73	-87.78	0	29
+Calumet City		41.62	-87.53	0	37
+Carbondale		37.73	-89.22	0	26
+Carol Stream		41.91	-88.13	0	40
+Carpentersville		42.12	-88.26	0	39
+Cary		42.21	-88.24	0	18
+Champaign		40.12	-88.24	0	86
+Charleston		39.50	-88.18	0	21
+Chatham		41.74	-87.61	0	31
+Chicago		41.85	-87.65	0	2664
+Chicago Heights		41.51	-87.64	0	30
+Chicago Lawn		41.78	-87.70	0	56
+Chicago Loop		41.88	-87.63	0	33
+Cicero		41.85	-87.75	0	84
+Collinsville		38.67	-89.98	0	25
+Country Club Hills		41.57	-87.72	0	17
+Crest Hill		41.55	-88.10	0	21
+Crystal Lake		42.24	-88.32	0	40
+Danville		40.12	-87.63	0	32
+Darien		41.75	-87.97	0	22
+DeKalb		41.93	-88.75	0	43
+Decatur		39.84	-88.95	0	73
+Deerfield		42.17	-87.84	0	19
+Des Plaines		42.03	-87.88	0	59
+Dixon		41.84	-89.48	0	15
+Dolton		41.64	-87.61	0	23
+Douglas		41.83	-87.62	0	20
+Downers Grove		41.81	-88.01	0	50
+East Garfield Park		41.88	-87.70	0	21
+East Moline		41.50	-90.44	0	21
+East Peoria		40.67	-89.58	0	23
+East Saint Louis		38.62	-90.15	0	27
+Edgewater		41.98	-87.66	0	55
+Edwardsville		38.81	-89.95	0	25
+Elgin		42.04	-88.28	0	112
+Elk Grove Village		42.00	-87.97	0	33
+Elmhurst		41.90	-87.94	0	46
+Elmwood Park		41.92	-87.81	0	25
+Englewood		41.78	-87.65	0	26
+Evanston		42.04	-87.69	0	76
+Evergreen Park		41.72	-87.70	0	20
+Fairview Heights		38.59	-89.99	0	17
+Frankfort		41.50	-87.85	0	19
+Franklin Park		41.94	-87.87	0	18
+Freeport		42.30	-89.62	0	24
+Gage Park		41.80	-87.70	0	41
+Galesburg		40.95	-90.37	0	31
+Geneva		41.89	-88.31	0	22
+Glen Ellyn		41.88	-88.07	0	28
+Glendale Heights		41.91	-88.06	0	34
+Glenview		42.07	-87.79	0	47
+Godfrey		38.96	-90.19	0	18
+Goodings Grove		41.63	-87.93	0	19
+Grand Boulevard		41.81	-87.62	0	22
+Granite City		38.70	-90.15	0	29
+Grayslake		42.34	-88.04	0	21
+Greater Grand Crossing		41.76	-87.61	0	32
+Gurnee		42.37	-87.90	0	31
+Hanover Park		42.00	-88.15	0	38
+Harvey		41.61	-87.65	0	25
+Highland Park		42.18	-87.80	0	30
+Hinsdale		41.80	-87.94	0	18
+Hoffman Estates		42.04	-88.08	0	52
+Homer Glen		41.60	-87.94	0	24
+Homewood		41.56	-87.67	0	19
+Huntley		42.17	-88.43	0	26
+Hyde Park		41.79	-87.59	0	27
+Irving Park		41.95	-87.74	0	57
+Jacksonville		39.73	-90.23	0	19
+Joliet		41.53	-88.08	0	148
+Kankakee		41.12	-87.86	0	27
+Kenwood		41.81	-87.60	0	18
+La Grange		41.81	-87.87	0	16
+Lake Forest		42.26	-87.84	0	19
+Lake Zurich		42.20	-88.09	0	20
+Lake in the Hills		42.18	-88.33	0	29
+Lansing		41.56	-87.54	0	28
+Lemont		41.67	-88.00	0	17
+Libertyville		42.28	-87.95	0	20
+Lincoln Park		41.92	-87.65	0	67
+Lincoln Square		41.98	-87.69	0	41
+Lisle		41.80	-88.07	0	23
+Lockport		41.59	-88.06	0	25
+Logan Square		41.92	-87.70	0	74
+Lombard		41.88	-88.01	0	44
+Loves Park		42.32	-89.06	0	23
+Lower West Side		41.85	-87.67	0	34
+Machesney Park		42.35	-89.04	0	23
+Macomb		40.46	-90.67	0	19
+Marion		37.73	-88.93	0	18
+Matteson		41.50	-87.71	0	19
+Mattoon		39.48	-88.37	0	18
+Maywood		41.88	-87.84	0	24
+McHenry		42.33	-88.27	0	27
+McKinley Park		41.83	-87.67	0	16
+Melrose Park		41.90	-87.86	0	25
+Mokena		41.53	-87.89	0	20
+Moline		41.51	-90.52	0	43
+Montgomery		41.73	-88.35	0	19
+Morgan Park		41.69	-87.67	0	23
+Morton		40.61	-89.46	0	16
+Morton Grove		42.04	-87.78	0	23
+Mount Greenwood		41.70	-87.71	0	19
+Mount Prospect		42.07	-87.94	0	55
+Mount Vernon		38.32	-88.90	0	15
+Mundelein		42.26	-88.00	0	32
+Naperville		41.79	-88.15	0	147
+Near North Side		41.90	-87.63	0	86
+Near South Side		41.86	-87.62	0	22
+New City		41.81	-87.66	0	41
+New Lenox		41.51	-87.97	0	26
+Niles		42.02	-87.80	0	30
+Normal		40.51	-88.99	0	54
+North Aurora		41.81	-88.33	0	17
+North Center		41.95	-87.68	0	35
+North Chicago		42.33	-87.84	0	29
+North Lawndale		41.86	-87.72	0	35
+North Peoria		40.72	-89.58	0	113
+Northbrook		42.13	-87.83	0	34
+O'Fallon		38.59	-89.91	0	29
+Oak Forest		41.60	-87.74	0	28
+Oak Lawn		41.71	-87.76	0	57
+Oak Park		41.89	-87.78	0	52
+Orland Park		41.63	-87.85	0	59
+Oswego		41.68	-88.35	0	34
+Ottawa		41.35	-88.84	0	18
+Palatine		42.11	-88.03	0	69
+Palos Hills		41.70	-87.82	0	18
+Park Forest		41.49	-87.67	0	22
+Park Ridge		42.01	-87.84	0	38
+Pekin		40.57	-89.64	0	33
+Peoria		40.69	-89.59	0	115
+Plainfield		41.63	-88.20	0	43
+Portage Park		41.96	-87.77	0	65
+Prospect Heights		42.10	-87.94	0	16
+Quincy		39.94	-91.41	0	41
+Rock Island		41.51	-90.58	0	39
+Rockford		42.27	-89.09	0	148
+Rogers Park		42.01	-87.67	0	54
+Rolling Meadows		42.08	-88.01	0	24
+Romeoville		41.65	-88.09	0	40
+Roselle		41.98	-88.08	0	23
+Round Lake		42.35	-88.09	0	18
+Round Lake Beach		42.37	-88.09	0	28
+Schaumburg		42.03	-88.08	0	75
+Shorewood		41.52	-88.20	0	17
+Skokie		42.03	-87.73	0	65
+South Elgin		41.99	-88.29	0	22
+South Holland		41.60	-87.61	0	22
+South Lawndale		41.84	-87.71	0	74
+South Shore		41.76	-87.58	0	51
+Springfield		39.80	-89.64	0	114
+St. Charles		41.91	-88.31	0	33
+Sterling		41.79	-89.70	0	15
+Streamwood		42.03	-88.18	0	41
+Sycamore		41.99	-88.69	0	18
+Tinley Park		41.57	-87.78	0	57
+Upper Alton		38.91	-90.15	0	29
+Uptown		41.97	-87.65	0	55
+Urbana		40.11	-88.21	0	42
+Vernon Hills		42.22	-87.98	0	26
+Villa Park		41.89	-87.99	0	22
+Wasco		41.94	-88.40	0	23
+Washington		40.70	-89.41	0	17
+Waukegan		42.36	-87.84	0	88
+West Chicago		41.88	-88.20	0	27
+West Elsdon		41.79	-87.72	0	19
+West Englewood		41.78	-87.67	0	32
+West Garfield Park		41.88	-87.73	0	18
+West Lawn		41.77	-87.72	0	33
+West Ridge		42.00	-87.69	0	72
+West Town		41.89	-87.67	0	86
+Westchester		41.85	-87.88	0	17
+Westmont		41.80	-87.98	0	25
+Wheaton		41.87	-88.11	0	54
+Wheeling		42.14	-87.93	0	38
+Wilmette		42.07	-87.72	0	27
+Woodlawn		41.78	-87.60	0	24
+Woodridge		41.75	-88.05	0	33
+Woodstock		42.31	-88.45	0	25
+Yorkville		41.64	-88.45	0	18
+Zion		42.45	-87.83	0	24
+#r	Indiana
+Crown Point		41.42	-87.37	0	29
+Dyer		41.49	-87.52	0	16
+East Chicago		41.64	-87.45	0	29
+Evansville		37.97	-87.56	0	120
+Gary		41.59	-87.35	0	77
+Griffith		41.53	-87.42	0	16
+Hammond		41.58	-87.50	0	78
+Highland		41.55	-87.45	0	23
+Hobart		41.53	-87.26	0	28
+La Porte		41.61	-86.71	0	22
+Merrillville		41.48	-87.33	0	35
+Michigan City		41.71	-86.90	0	31
+Munster		41.56	-87.51	0	23
+Portage		41.58	-87.18	0	37
+Schererville		41.48	-87.45	0	29
+South Chicago		41.74	-87.55	0	28
+Valparaiso		41.47	-87.06	0	33
+Vincennes		38.68	-87.53	0	18
+#r	Iowa
+Altoona		41.64	-93.46	0	17
+Ames		42.03	-93.62	0	65
+Ankeny		41.73	-93.61	0	57
+Bettendorf		41.52	-90.52	0	36
+Burlington		40.81	-91.11	0	25
+Cedar Falls		42.53	-92.45	0	41
+Cedar Rapids		42.01	-91.64	0	130
+Clinton		41.84	-90.19	0	26
+Clive		41.60	-93.72	0	15
+Coralville		41.68	-91.58	0	21
+Council Bluffs		41.26	-95.86	0	63
+Davenport		41.52	-90.58	0	103
+Des Moines		41.60	-93.61	0	214
+Dubuque		42.50	-90.66	0	59
+Fort Dodge		42.50	-94.17	0	25
+Indianola		41.36	-93.56	0	15
+Iowa City		41.66	-91.53	0	74
+Johnston		41.67	-93.70	0	21
+Marion		42.03	-91.60	0	37
+Marshalltown		42.05	-92.91	0	28
+Mason City		43.15	-93.20	0	27
+Muscatine		41.42	-91.04	0	24
+Newton		41.70	-93.05	0	15
+North Liberty		41.75	-91.60	0	16
+Ottumwa		41.02	-92.41	0	25
+Sioux City		42.50	-96.40	0	83
+Urbandale		41.63	-93.71	0	44
+Waterloo		42.49	-92.34	0	68
+Waukee		41.61	-93.89	0	19
+West Des Moines		41.58	-93.71	0	64
+#r	Kansas
+Derby		37.55	-97.27	0	24
+Dodge City		37.75	-100.02	0	28
+Emporia		38.40	-96.18	0	25
+Garden City		37.97	-100.87	0	27
+Gardner		38.81	-94.93	0	21
+Great Bend		38.36	-98.76	0	16
+Hays		38.88	-99.33	0	21
+Hutchinson		38.06	-97.93	0	42
+Junction City		39.03	-96.83	0	25
+Kansas City		39.11	-94.63	0	153
+Lawrence		38.97	-95.24	0	94
+Leavenworth		39.31	-94.92	0	36
+Leawood		38.97	-94.62	0	35
+Lenexa		38.95	-94.73	0	52
+Liberal		37.04	-100.92	0	21
+Manhattan		39.18	-96.57	0	56
+Newton		38.05	-97.35	0	19
+Olathe		38.88	-94.82	0	134
+Overland Park		38.98	-94.67	0	187
+Pittsburg		37.41	-94.70	0	20
+Prairie Village		38.99	-94.63	0	22
+Salina		38.84	-97.61	0	48
+Shawnee		39.04	-94.72	0	65
+Topeka		39.05	-95.68	0	126
+Wichita		37.69	-97.34	0	396
+#r	Kentucky
+Bowling Green		36.99	-86.44	0	64
+Henderson		37.84	-87.59	0	29
+Hopkinsville		36.87	-87.49	0	32
+Madisonville		37.33	-87.50	0	20
+Murray		36.61	-88.31	0	19
+Owensboro		37.77	-87.11	0	59
+Paducah		37.08	-88.60	0	25
+#r	Louisiana
+Alexandria		31.31	-92.45	0	48
+Baton Rouge		30.44	-91.19	0	227
+Bayou Cane		29.62	-90.75	0	19
+Bossier City		32.52	-93.73	0	68
+Central		30.55	-91.04	0	28
+Chalmette		29.94	-89.97	0	17
+Estelle		29.85	-90.11	0	16
+Gretna		29.91	-90.05	0	18
+Hammond		30.50	-90.46	0	20
+Harvey		29.90	-90.08	0	20
+Houma		29.60	-90.72	0	34
+Kenner		29.99	-90.24	0	67
+Lafayette		30.22	-92.02	0	121
+Lake Charles		30.21	-93.20	0	76
+Laplace		30.07	-90.48	0	30
+Marrero		29.90	-90.10	0	33
+Metairie		29.98	-90.15	0	138
+Metairie Terrace		29.98	-90.16	0	142
+Monroe		32.51	-92.12	0	50
+Natchitoches		31.76	-93.09	0	18
+New Iberia		30.00	-91.82	0	31
+New Orleans		29.95	-90.08	0	363
+Opelousas		30.53	-92.08	0	17
+Prairieville		30.30	-90.97	0	27
+Ruston		32.52	-92.64	0	22
+Shenandoah		30.40	-91.00	0	18
+Shreveport		32.53	-93.75	0	188
+Slidell		30.28	-89.78	0	28
+Sulphur		30.24	-93.38	0	20
+Terrytown		29.91	-90.03	0	23
+Zachary		30.65	-91.16	0	16
+#r	Minnesota
+Albert Lea		43.65	-93.37	0	18
+Andover		45.23	-93.29	0	32
+Anoka		45.20	-93.39	0	17
+Apple Valley		44.73	-93.22	0	51
+Austin		43.67	-92.97	0	25
+Blaine		45.16	-93.23	0	62
+Bloomington		44.84	-93.30	0	86
+Brooklyn Center		45.08	-93.33	0	31
+Brooklyn Park		45.09	-93.36	0	79
+Buffalo		45.17	-93.87	0	16
+Burnsville		44.77	-93.28	0	61
+Champlin		45.19	-93.40	0	24
+Chanhassen		44.86	-93.53	0	25
+Chaska		44.79	-93.60	0	25
+Columbia Heights		45.04	-93.26	0	20
+Coon Rapids		45.12	-93.29	0	62
+Cottage Grove		44.83	-92.94	0	36
+Crystal		45.03	-93.36	0	23
+Duluth		46.78	-92.11	0	86
+Eagan		44.80	-93.17	0	66
+Eden Prairie		44.85	-93.47	0	63
+Edina		44.89	-93.35	0	50
+Elk River		45.30	-93.57	0	24
+Faribault		44.29	-93.27	0	24
+Farmington		44.64	-93.14	0	23
+Forest Lake		45.28	-92.99	0	20
+Fridley		45.09	-93.26	0	28
+Golden Valley		45.01	-93.35	0	21
+Ham Lake		45.25	-93.25	0	16
+Hastings		44.74	-92.85	0	23
+Hibbing		47.43	-92.94	0	16
+Hopkins		44.92	-93.46	0	18
+Inver Grove Heights		44.85	-93.04	0	35
+Lakeville		44.65	-93.24	0	61
+Lino Lakes		45.16	-93.09	0	21
+Longfellow Community		44.94	-93.23	0	29
+Mankato		44.16	-94.01	0	41
+Maple Grove		45.07	-93.46	0	68
+Maplewood		44.95	-93.00	0	41
+Minneapolis		44.98	-93.26	0	411
+Minnetonka		44.91	-93.50	0	52
+Minnetonka Mills		44.94	-93.44	0	50
+Moorhead		46.87	-96.77	0	42
+New Brighton		45.07	-93.20	0	22
+New Hope		45.04	-93.39	0	21
+Northfield		44.46	-93.16	0	20
+Oakdale		44.96	-92.96	0	28
+Otsego		45.27	-93.59	0	16
+Owatonna		44.08	-93.23	0	26
+Plymouth		45.01	-93.46	0	76
+Prior Lake		44.71	-93.42	0	25
+Ramsey		45.26	-93.45	0	26
+Red Wing		44.56	-92.53	0	16
+Richfield		44.88	-93.28	0	36
+Rochester		44.02	-92.47	0	112
+Rosemount		44.74	-93.13	0	23
+Roseville		45.01	-93.16	0	36
+Saint Cloud		45.56	-94.16	0	66
+Saint Louis Park		44.95	-93.35	0	45
+Saint Michael		45.21	-93.66	0	16
+Saint Paul		44.94	-93.09	0	303
+Sartell		45.62	-94.21	0	17
+Savage		44.78	-93.34	0	30
+Shakopee		44.80	-93.53	0	40
+Shoreview		45.08	-93.15	0	26
+South Saint Paul		44.89	-93.03	0	20
+Stillwater		45.06	-92.81	0	19
+West Coon Rapids		45.16	-93.35	0	63
+West Saint Paul		44.92	-93.10	0	20
+White Bear Lake		45.08	-93.01	0	25
+Willmar		45.12	-95.04	0	20
+Winona		44.05	-91.64	0	27
+Woodbury		44.92	-92.96	0	68
+#r	Mississippi
+Biloxi		30.40	-88.89	0	46
+Brandon		32.27	-89.99	0	24
+Clarksdale		34.20	-90.57	0	17
+Clinton		32.34	-90.32	0	25
+Columbus		33.50	-88.43	0	23
+Gautier		30.39	-88.61	0	19
+Greenville		33.41	-91.06	0	32
+Greenwood		33.52	-90.18	0	15
+Gulfport		30.37	-89.09	0	72
+Hattiesburg		31.33	-89.29	0	47
+Hernando		34.82	-89.99	0	16
+Horn Lake		34.96	-90.03	0	27
+Jackson		32.30	-90.18	0	154
+Laurel		31.69	-89.13	0	19
+Long Beach		30.35	-89.15	0	16
+Madison		32.46	-90.12	0	26
+Meridian		32.36	-88.70	0	40
+Natchez		31.56	-91.40	0	15
+Ocean Springs		30.41	-88.83	0	18
+Olive Branch		34.96	-89.83	0	36
+Oxford		34.37	-89.52	0	22
+Pascagoula		30.37	-88.56	0	22
+Pearl		32.27	-90.13	0	26
+Ridgeland		32.43	-90.13	0	24
+Southaven		34.99	-90.01	0	53
+Starkville		33.45	-88.82	0	25
+Tupelo		34.26	-88.70	0	36
+Vicksburg		32.35	-90.88	0	23
+West Gulfport		30.40	-89.09	0	71
+#r	Missouri
+Affton		38.55	-90.33	0	20
+Arnold		38.43	-90.38	0	21
+Ballwin		38.60	-90.55	0	31
+Belton		38.81	-94.53	0	23
+Blue Springs		39.02	-94.28	0	54
+Cape Girardeau		37.31	-89.52	0	39
+Chesterfield		38.66	-90.58	0	48
+Clayton		38.64	-90.32	0	16
+Columbia		38.95	-92.33	0	129
+Concord		38.52	-90.36	0	16
+Creve Coeur		38.66	-90.42	0	18
+East Independence		39.10	-94.36	0	111
+Farmington		37.78	-90.42	0	18
+Ferguson		38.74	-90.31	0	21
+Florissant		38.79	-90.32	0	52
+Fort Leonard Wood		37.71	-92.16	0	15
+Gladstone		39.20	-94.55	0	27
+Grandview		38.89	-94.53	0	25
+Hannibal		39.71	-91.36	0	18
+Hazelwood		38.77	-90.37	0	26
+Independence		39.09	-94.42	0	117
+Jefferson City		38.58	-92.17	0	43
+Joplin		37.08	-94.51	0	52
+Kansas City		39.10	-94.58	0	475
+Kirksville		40.19	-92.58	0	18
+Kirkwood		38.58	-90.41	0	28
+Lee's Summit		38.91	-94.38	0	95
+Lemay		38.53	-90.28	0	17
+Liberty		39.25	-94.42	0	30
+Manchester		38.60	-90.51	0	18
+Maryland Heights		38.71	-90.43	0	27
+Mehlville		38.51	-90.32	0	28
+Nixa		37.04	-93.29	0	21
+O'Fallon		38.81	-90.70	0	85
+Oakville		38.47	-90.30	0	36
+Old Jamestown		38.83	-90.29	0	19
+Overland		38.70	-90.36	0	16
+Ozark		37.02	-93.21	0	19
+Poplar Bluff		36.76	-90.39	0	17
+Raymore		38.80	-94.45	0	20
+Raytown		39.01	-94.46	0	29
+Republic		37.12	-93.48	0	16
+Rolla		37.95	-91.77	0	20
+Saint Charles		38.78	-90.48	0	66
+Saint Joseph		39.77	-94.85	0	77
+Saint Peters		38.80	-90.63	0	53
+Sedalia		38.70	-93.23	0	22
+Sikeston		36.88	-89.59	0	16
+Spanish Lake		38.79	-90.22	0	20
+Springfield		37.22	-93.30	0	170
+St. Louis		38.63	-90.20	0	280
+University City		38.66	-90.31	0	35
+Warrensburg		38.76	-93.74	0	20
+Webster Groves		38.59	-90.36	0	23
+Wentzville		38.81	-90.85	0	36
+Wildwood		38.58	-90.66	0	36
+#r	Nebraska
+Bellevue		41.14	-95.89	0	56
+Columbus		41.43	-97.37	0	23
+Fremont		41.43	-96.50	0	26
+Grand Island		40.93	-98.34	0	51
+Hastings		40.59	-98.39	0	25
+Kearney		40.70	-99.08	0	33
+La Vista		41.18	-96.03	0	17
+Lincoln		40.80	-96.67	0	295
+Norfolk		42.03	-97.42	0	24
+North Platte		41.12	-100.77	0	24
+Omaha		41.26	-95.94	0	486
+Papillion		41.15	-96.04	0	20
+#r	North Dakota
+Bismarck		46.81	-100.78	0	75
+Fargo		46.88	-96.79	0	119
+Grand Forks		47.93	-97.03	0	57
+Jamestown		46.91	-98.71	0	15
+Minot		48.23	-101.30	0	49
+West Fargo		46.87	-96.90	0	34
+Williston		48.15	-103.62	0	27
+#r	Oklahoma
+Ada		34.77	-96.68	0	17
+Altus		34.64	-99.33	0	19
+Ardmore		34.17	-97.14	0	25
+Bartlesville		36.75	-95.98	0	37
+Bethany		35.52	-97.63	0	20
+Bixby		35.94	-95.88	0	25
+Broken Arrow		36.05	-95.79	0	107
+Chickasha		35.05	-97.94	0	16
+Claremore		36.31	-95.62	0	19
+Del City		35.44	-97.44	0	22
+Duncan		34.50	-97.96	0	23
+Durant		33.99	-96.37	0	17
+Edmond		35.65	-97.48	0	90
+El Reno		35.53	-97.96	0	19
+Enid		36.40	-97.88	0	52
+Jenks		36.02	-95.97	0	21
+Lawton		34.61	-98.39	0	97
+McAlester		34.93	-95.77	0	18
+Midwest City		35.45	-97.40	0	57
+Moore		35.34	-97.49	0	60
+Muskogee		35.75	-95.37	0	38
+Mustang		35.38	-97.72	0	20
+Norman		35.22	-97.44	0	128
+Oklahoma City		35.47	-97.52	0	681
+Owasso		36.27	-95.85	0	35
+Ponca City		36.71	-97.09	0	25
+Sand Springs		36.14	-96.11	0	20
+Sapulpa		36.00	-96.11	0	21
+Shawnee		35.33	-96.93	0	31
+Stillwater		36.12	-97.06	0	49
+Tahlequah		35.92	-94.97	0	17
+Tulsa		36.15	-95.99	0	413
+Yukon		35.51	-97.76	0	26
+#r	South Dakota
+Aberdeen		45.46	-98.49	0	28
+Brookings		44.31	-96.80	0	24
+Mitchell		43.71	-98.03	0	16
+Sioux Falls		43.54	-96.73	0	172
+Watertown		44.90	-97.12	0	22
+#r	Tennessee
+Bartlett		35.20	-89.87	0	59
+Brentwood		36.03	-86.78	0	42
+Brentwood Estates		36.03	-86.78	0	31
+Clarksville		36.53	-87.36	0	167
+Collierville		35.04	-89.66	0	49
+Columbia		35.62	-87.04	0	37
+Cookeville		36.16	-85.50	0	32
+Cordova		35.16	-89.78	0	69
+Dickson		36.08	-87.39	0	15
+Dyersburg		36.03	-89.39	0	17
+Ellendale		35.23	-89.83	0	26
+Franklin		35.93	-86.87	0	73
+Gallatin		36.39	-86.45	0	34
+Germantown		35.09	-89.81	0	39
+Goodlettsville		36.32	-86.71	0	17
+Hendersonville		36.30	-86.62	0	56
+Hermitage		36.20	-86.62	0	38
+Jackson		35.61	-88.81	0	67
+La Vergne		36.02	-86.58	0	35
+Lebanon		36.21	-86.29	0	30
+Memphis		35.15	-90.05	0	633
+Mount Juliet		36.20	-86.52	0	32
+Murfreesboro		35.85	-86.39	0	165
+Nashville		36.17	-86.78	0	689
+New South Memphis		35.09	-90.06	0	642
+Shelbyville		35.48	-86.46	0	21
+Smyrna		35.98	-86.52	0	47
+Spring Hill		35.75	-86.93	0	36
+Springfield		36.51	-86.89	0	17
+Tullahoma		35.36	-86.21	0	19
+#r	Texas
+Abilene		32.45	-99.73	0	125
+Addison		32.96	-96.83	0	16
+Alamo		26.18	-98.12	0	19
+Aldine		29.93	-95.38	0	16
+Alice		27.75	-98.07	0	19
+Alief		29.71	-95.60	0	99
+Allen		33.10	-96.67	0	98
+Alton		26.29	-98.31	0	16
+Alvin		29.42	-95.24	0	26
+Amarillo		35.22	-101.83	0	199
+Angleton		29.17	-95.43	0	19
+Arlington		32.74	-97.11	0	388
+Atascocita		30.00	-95.18	0	66
+Austin		30.27	-97.74	0	974
+Balch Springs		32.73	-96.62	0	25
+Bay City		28.98	-95.97	0	18
+Baytown		29.74	-94.98	0	76
+Beaumont		30.09	-94.10	0	115
+Bedford		32.84	-97.14	0	49
+Bellaire		29.71	-95.46	0	19
+Belton		31.06	-97.46	0	21
+Benbrook		32.67	-97.46	0	23
+Big Spring		32.25	-101.48	0	29
+Brenham		30.17	-96.40	0	17
+Brownsville		25.90	-97.50	0	187
+Brownwood		31.71	-98.99	0	19
+Brushy Creek		30.51	-97.74	0	22
+Bryan		30.67	-96.37	0	82
+Burleson		32.54	-97.32	0	44
+Canyon Lake		29.88	-98.26	0	21
+Carrollton		32.95	-96.89	0	133
+Cedar Hill		32.59	-96.96	0	49
+Cedar Park		30.51	-97.82	0	66
+Celina		33.32	-96.78	0	64
+Channelview		29.78	-95.11	0	38
+Cibolo		29.56	-98.23	0	33
+Cinco Ranch		29.74	-95.76	0	18
+Cleburne		32.35	-97.39	0	30
+Cloverleaf		29.78	-95.17	0	23
+College Station		30.63	-96.33	0	108
+Colleyville		32.88	-97.16	0	25
+Conroe		30.31	-95.46	0	69
+Converse		29.52	-98.32	0	22
+Coppell		32.95	-97.02	0	41
+Copperas Cove		31.12	-97.90	0	33
+Corinth		33.15	-97.06	0	21
+Corpus Christi		27.80	-97.40	0	316
+Corsicana		32.10	-96.47	0	24
+Cypress		29.97	-95.70	0	201
+Dallas		32.78	-96.81	0	1326
+DeSoto		32.59	-96.86	0	52
+Deer Park		29.71	-95.12	0	34
+Del Rio		29.36	-100.90	0	36
+Denison		33.76	-96.54	0	23
+Denton		33.21	-97.13	0	131
+Dickinson		29.46	-95.05	0	20
+Donna		26.17	-98.05	0	17
+Dumas		35.87	-101.97	0	15
+Duncanville		32.65	-96.91	0	40
+Eagle Pass		28.71	-100.50	0	29
+Edinburg		26.30	-98.16	0	84
+Ennis		32.33	-96.63	0	19
+Euless		32.84	-97.08	0	54
+Farmers Branch		32.93	-96.90	0	33
+Flower Mound		33.01	-97.10	0	71
+Forney		32.75	-96.47	0	18
+Fort Cavazos		31.13	-97.78	0	30
+Fort Worth		32.73	-97.32	0	1008
+Fresno		29.54	-95.45	0	19
+Friendswood		29.53	-95.20	0	39
+Frisco		33.15	-96.82	0	154
+Gainesville		33.63	-97.13	0	16
+Galveston		29.30	-94.80	0	50
+Garland		32.91	-96.64	0	237
+Gatesville		31.44	-97.74	0	16
+Georgetown		30.63	-97.68	0	64
+Grand Prairie		32.75	-97.00	0	188
+Grapevine		32.93	-97.08	0	51
+Greenville		33.14	-96.11	0	27
+Groves		29.95	-93.92	0	16
+Haltom City		32.80	-97.27	0	44
+Harker Heights		31.08	-97.66	0	29
+Harlingen		26.19	-97.70	0	66
+Hereford		34.82	-102.40	0	15
+Highland Village		33.09	-97.05	0	16
+Houston		29.76	-95.36	0	2314
+Humble		30.00	-95.26	0	16
+Huntsville		30.72	-95.55	0	41
+Hurst		32.82	-97.17	0	39
+Hutto		30.54	-97.55	0	23
+Irving		32.81	-96.95	0	237
+Jollyville		30.44	-97.78	0	16
+Katy		29.79	-95.82	0	16
+Keller		32.93	-97.25	0	46
+Kerrville		30.05	-99.14	0	23
+Killeen		31.12	-97.73	0	141
+Kingsville		27.52	-97.86	0	26
+Kyle		29.99	-97.88	0	36
+La Marque		29.37	-94.97	0	16
+La Porte		29.67	-95.02	0	35
+Lake Jackson		29.03	-95.43	0	28
+Lancaster		32.59	-96.76	0	39
+Laredo		27.51	-99.51	0	256
+League City		29.51	-95.09	0	98
+Leander		30.58	-97.85	0	59
+Lewisville		33.05	-96.99	0	104
+Little Elm		33.16	-96.94	0	38
+Live Oak		29.57	-98.34	0	15
+Longview		32.50	-94.74	0	82
+Lubbock		33.58	-101.86	0	249
+Lufkin		31.34	-94.73	0	36
+Mansfield		32.56	-97.14	0	64
+Marshall		32.54	-94.37	0	24
+McAllen		26.20	-98.23	0	140
+McKinney		33.20	-96.62	0	163
+Mercedes		26.15	-97.91	0	17
+Mesquite		32.77	-96.60	0	145
+Midland		32.00	-102.08	0	133
+Midlothian		32.48	-96.99	0	22
+Mission		26.22	-98.33	0	83
+Mission Bend		29.69	-95.66	0	37
+Missouri City		29.62	-95.54	0	74
+Mount Pleasant		33.16	-94.97	0	16
+Murphy		33.02	-96.61	0	21
+Nacogdoches		31.60	-94.66	0	34
+Nederland		29.97	-93.99	0	17
+New Braunfels		29.70	-98.12	0	71
+New Caney		30.16	-95.21	0	20
+New Territory		29.59	-95.68	0	15
+North Richland Hills		32.83	-97.23	0	69
+Odessa		31.85	-102.37	0	114
+Orange		30.09	-93.74	0	19
+Palestine		31.76	-95.63	0	18
+Pampa		35.54	-100.96	0	18
+Paris		33.66	-95.56	0	25
+Pasadena		29.69	-95.21	0	154
+Pearland		29.56	-95.29	0	109
+Pecan Grove		29.63	-95.73	0	16
+Pflugerville		30.44	-97.62	0	57
+Pharr		26.19	-98.18	0	77
+Plainview		34.18	-101.71	0	21
+Plano		33.02	-96.70	0	284
+Port Arthur		29.89	-93.94	0	55
+Portland		27.88	-97.32	0	16
+Prosper		33.24	-96.80	0	16
+Richardson		32.95	-96.73	0	111
+Rockwall		32.93	-96.46	0	43
+Rosenberg		29.56	-95.81	0	36
+Round Rock		30.51	-97.68	0	116
+Rowlett		32.90	-96.56	0	60
+Sachse		32.98	-96.60	0	25
+Saginaw		32.86	-97.36	0	22
+San Angelo		31.46	-100.44	0	100
+San Antonio		29.42	-98.49	0	1527
+San Benito		26.13	-97.63	0	24
+San Juan		26.19	-98.16	0	37
+San Marcos		29.88	-97.94	0	61
+Schertz		29.55	-98.27	0	43
+Seagoville		32.64	-96.54	0	16
+Seguin		29.57	-97.96	0	28
+Sherman		33.64	-96.61	0	41
+South Houston		29.66	-95.24	0	18
+Southlake		32.94	-97.13	0	30
+Spring		30.08	-95.42	0	54
+Stafford		29.62	-95.56	0	18
+Stephenville		32.22	-98.20	0	20
+Sugar Land		29.62	-95.63	0	88
+Sulphur Springs		33.14	-95.60	0	16
+Taylor		30.57	-97.41	0	17
+Temple		31.10	-97.34	0	72
+Terrell		32.74	-96.28	0	17
+Texarkana		33.43	-94.05	0	37
+Texas City		29.38	-94.90	0	48
+The Colony		33.09	-96.89	0	42
+The Trails of Frisco		33.16	-96.87	0	51
+The Woodlands		30.16	-95.49	0	94
+Tyler		32.35	-95.30	0	104
+Universal City		29.55	-98.29	0	20
+University Park		32.85	-96.80	0	25
+University of Texas		30.29	-97.74	0	53
+Uvalde		29.21	-99.79	0	16
+Victoria		28.81	-97.00	0	68
+Waco		31.55	-97.15	0	132
+Watauga		32.86	-97.25	0	25
+Waxahachie		32.39	-96.85	0	33
+Weatherford		32.76	-97.80	0	29
+Weslaco		26.16	-97.99	0	39
+West Odessa		31.84	-102.50	0	23
+West University Place		29.72	-95.43	0	16
+White Settlement		32.76	-97.46	0	17
+Wichita Falls		33.91	-98.49	0	105
+Wylie		33.02	-96.54	0	47
+#r	Wisconsin
+Appleton		44.26	-88.42	0	74
+Ashwaubenon		44.48	-88.07	0	17
+Beaver Dam		43.46	-88.84	0	17
+Bellevue		44.44	-87.92	0	15
+Beloit		42.51	-89.03	0	37
+Brookfield		43.06	-88.11	0	38
+Caledonia		42.81	-87.92	0	25
+Cudahy		42.96	-87.86	0	18
+De Pere		44.45	-88.06	0	25
+Eau Claire		44.81	-91.50	0	68
+Fitchburg		42.96	-89.47	0	28
+Fond du Lac		43.77	-88.44	0	43
+Franklin		42.89	-88.04	0	36
+Germantown		43.23	-88.11	0	20
+Green Bay		44.52	-88.02	0	105
+Greenfield		42.96	-88.01	0	37
+Howard		44.54	-88.09	0	19
+Janesville		42.68	-89.02	0	64
+Kaukauna		44.28	-88.27	0	16
+Kenosha		42.58	-87.82	0	100
+La Crosse		43.80	-91.24	0	52
+Madison		43.07	-89.40	0	280
+Manitowoc		44.09	-87.66	0	33
+Marshfield		44.67	-90.17	0	19
+Menasha		44.20	-88.45	0	18
+Menomonee Falls		43.18	-88.12	0	36
+Menomonie		44.88	-91.92	0	16
+Mequon		43.22	-88.03	0	23
+Middleton		43.10	-89.50	0	19
+Milwaukee		43.04	-87.91	0	564
+Mount Pleasant		42.70	-87.86	0	26
+Muskego		42.91	-88.14	0	25
+Neenah		44.19	-88.46	0	26
+New Berlin		42.98	-88.11	0	40
+North La Crosse		43.85	-91.25	0	50
+Oak Creek		42.89	-87.86	0	35
+Oconomowoc		43.11	-88.50	0	16
+Onalaska		43.88	-91.24	0	18
+Oshkosh		44.02	-88.54	0	67
+Pleasant Prairie		42.55	-87.93	0	21
+Racine		42.73	-87.78	0	78
+River Falls		44.86	-92.62	0	15
+Sheboygan		43.75	-87.71	0	49
+South Milwaukee		42.91	-87.86	0	21
+Stevens Point		44.52	-89.57	0	27
+Sun Prairie		43.18	-89.21	0	32
+Superior		46.72	-92.10	0	27
+Watertown		43.19	-88.73	0	24
+Waukesha		43.01	-88.23	0	72
+Wausau		44.96	-89.63	0	39
+Wauwatosa		43.05	-88.01	0	48
+West Allis		43.02	-88.01	0	61
+West Bend		43.43	-88.18	0	32
+Weston		44.89	-89.55	0	15
+Wisconsin Rapids		44.38	-89.82	0	18

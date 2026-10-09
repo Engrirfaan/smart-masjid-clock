@@ -1,0 +1,354 @@
+#z	America/Bogota
+#c	CO
+#r	
+Bosconia		9.97	-73.89	0	41
+Cumaribo		4.45	-69.80	0	24
+Paz de Ariporo		5.88	-71.89	0	34
+#r	Amazonas
+Leticia		-4.21	-69.94	0	48
+#r	Antioquia
+Abejorral		5.79	-75.43	0	18
+Andes		5.66	-75.88	0	16
+Apartadó	Apartado	7.88	-76.63	0	86
+Barbosa		6.44	-75.33	0	54
+Bello		6.34	-75.56	0	393
+Betulia		6.11	-75.98	0	15
+Caldas		6.09	-75.64	0	82
+Carepa		7.76	-76.65	0	21
+Carmen de Viboral		6.08	-75.34	0	50
+Caucasia		7.99	-75.19	0	58
+Chigorodó	Chigorodo	7.67	-76.68	0	86
+Ciudad Bolívar	Ciudad Bolivar	5.85	-76.03	0	23
+Concordia		6.05	-75.91	0	16
+Copacabana		6.35	-75.51	0	49
+Dabeiba		7.00	-76.27	0	23
+El Bagre		7.60	-74.81	0	51
+Envigado		6.18	-75.59	0	163
+Fredonia		5.93	-75.67	0	19
+Frontino		6.77	-76.13	0	20
+Itagüí	Itagui	6.18	-75.60	0	282
+Ituango		7.17	-75.76	0	24
+La Ceja		6.03	-75.43	0	37
+La Estrella		6.16	-75.64	0	49
+La Unión	La Union	5.97	-75.36	0	21
+Marinilla		6.17	-75.34	0	57
+Medellín	Medellin	6.25	-75.57	0	2000
+Nechí	Nechi	8.09	-74.78	0	24
+Puerto Berrío	Puerto Berrio	6.49	-74.40	0	51
+Puerto Triunfo		5.87	-74.64	0	17
+Retiro		6.06	-75.50	0	21
+Rionegro		6.16	-75.37	0	128
+Sabaneta		6.15	-75.62	0	82
+Salgar		5.97	-75.97	0	16
+San Juan de Urabá	San Juan de Uraba	8.76	-76.53	0	20
+San Pedro de Urabá	San Pedro de Uraba	8.28	-76.38	0	31
+San Vicente		6.29	-75.33	0	18
+Santa Fe de Antioquia		6.56	-75.83	0	23
+Santa Rosa de Osos		6.65	-75.46	0	38
+Santuario		6.14	-75.26	0	18
+Segovia		7.08	-74.70	0	40
+Sonsón	Sonson	5.71	-75.31	0	34
+Turbo		8.09	-76.73	0	51
+Urrao		6.32	-76.13	0	19
+Yarumal		6.96	-75.42	0	22
+Yondó	Yondo	7.01	-73.91	0	18
+Zaragoza		7.49	-74.87	0	24
+#r	Arauca
+Arauca		7.08	-70.76	0	86
+Tame		6.46	-71.74	0	29
+#r	Archipielago de San Andres, Providencia y Santa Catalina
+San Andrés	San Andres	12.58	-81.70	0	58
+#r	Atlantico
+Baranoa		10.79	-74.92	0	68
+Barranquilla		10.97	-74.78	0	1206
+Campo de la Cruz		10.38	-74.88	0	23
+Candelaria		10.46	-74.88	0	16
+Galapa		10.90	-74.89	0	20
+Juan de Acosta		10.83	-75.03	0	19
+Luruaco		10.62	-75.15	0	28
+Malambo		10.86	-74.77	0	129
+Manatí	Manati	10.45	-74.96	0	19
+Palmar de Varela		10.74	-74.75	0	27
+Polonuevo		10.78	-74.85	0	19
+Ponedera		10.64	-74.75	0	23
+Puerto Colombia		10.99	-74.95	0	26
+Repelón	Repelon	10.50	-75.12	0	25
+Sabanagrande		10.79	-74.76	0	35
+Sabanalarga		10.63	-74.92	0	102
+Santa Lucía	Santa Lucia	10.32	-74.96	0	16
+Santo Tomás	Santo Tomas	10.76	-74.75	0	29
+Sitionuevo		10.78	-74.72	0	33
+Soledad		10.92	-74.76	0	343
+#r	Bogota D.C.
+Bogotá	Bogota	4.61	-74.08	0	7674
+Kennedy		4.62	-74.15	0	980
+#r	Bolivar
+Arjona		10.25	-75.34	0	50
+Cartagena		10.40	-75.49	0	915
+El Carmen de Bolívar	El Carmen de Bolivar	9.72	-75.12	0	48
+Magangué	Magangue	9.24	-74.75	0	124
+Mahates		10.23	-75.19	0	26
+María la Baja	Maria la Baja	9.98	-75.30	0	23
+Mompós	Mompos	9.24	-74.43	0	31
+Morales		8.28	-73.87	0	19
+Pinillos		8.92	-74.47	0	23
+San Estanislao		10.40	-75.15	0	17
+San Jacinto		9.83	-75.12	0	24
+San Juan Nepomuceno		9.95	-75.08	0	34
+San Pablo		10.05	-75.27	0	37
+Santa Rosa		10.44	-75.37	0	18
+Simití	Simiti	7.96	-73.94	0	15
+Tiquisio		8.56	-74.26	0	18
+Turbaco		10.33	-75.41	0	56
+#r	Boyaca
+Chiquinquirá	Chiquinquira	5.62	-73.82	0	45
+Duitama		5.82	-73.03	0	92
+Moniquirá	Moniquira	5.88	-73.57	0	21
+Puerto Boyacá	Puerto Boyaca	5.98	-74.59	0	27
+Sogamoso		5.71	-72.93	0	111
+Tunja		5.54	-73.36	0	173
+#r	Caldas
+Aguadas		5.61	-75.46	0	21
+Chinchiná	Chinchina	4.98	-75.60	0	69
+La Dorada		5.45	-74.66	0	82
+Manizales		5.07	-75.51	0	434
+Manzanares		5.25	-75.15	0	17
+Neira		5.17	-75.52	0	20
+Riosucio		5.42	-75.70	0	19
+Salamina		5.41	-75.49	0	18
+Supía	Supia	5.45	-75.65	0	27
+Villamaría	Villamaria	5.05	-75.51	0	35
+#r	Caqueta
+El Doncello		1.68	-75.28	0	18
+Florencia		1.62	-75.60	0	168
+Puerto Rico		1.91	-75.16	0	34
+#r	Casanare
+Aguazul		5.17	-72.55	0	16
+Tauramena		5.02	-72.75	0	22
+Villanueva		5.28	-71.97	0	32
+Yopal		5.34	-72.39	0	168
+#r	Cauca
+Balboa		2.04	-77.22	0	19
+Belalcázar	Belalcazar	2.65	-75.97	0	37
+Corinto		3.17	-76.26	0	34
+Miranda		3.25	-76.23	0	43
+Morales		2.75	-76.63	0	30
+Patía	Patia	2.07	-77.05	0	38
+Piendamo		2.64	-76.53	0	44
+Popayán	Popayan	2.44	-76.61	0	318
+Puerto Tejada		3.23	-76.42	0	46
+Santander de Quilichao		3.01	-76.48	0	99
+Suárez	Suarez	2.95	-76.70	0	20
+Timbiquí	Timbiqui	2.77	-77.67	0	22
+Villa Rica		2.51	-76.85	0	19
+#r	Cesar
+Aguachica		8.31	-73.62	0	98
+Agustín Codazzi	Agustin Codazzi	10.04	-73.24	0	51
+Ariguaní	Ariguani	10.25	-74.00	0	26
+Astrea		9.50	-73.98	0	18
+Becerril		9.70	-73.28	0	20
+Chimichagua		9.26	-73.81	0	30
+Chiriguaná	Chiriguana	9.36	-73.60	0	27
+Curumaní	Curumani	9.20	-73.54	0	35
+El Copey		10.15	-73.96	0	29
+La Jagua de Ibirico		9.56	-73.33	0	21
+Pailitas		8.96	-73.62	0	17
+San Diego		10.33	-73.18	0	19
+San Martín	San Martin	8.00	-73.51	0	20
+Valledupar		10.47	-73.25	0	490
+#r	Choco
+Pizarro		4.95	-77.37	0	19
+Quibdó	Quibdo	5.69	-76.66	0	129
+Tadó	Tado	5.27	-76.56	0	17
+#r	Cordoba
+Ayapel		8.31	-75.14	0	56
+Cereté	Cerete	8.88	-75.79	0	95
+Chinú	Chinu	9.11	-75.40	0	51
+Ciénaga de Oro	Cienaga de Oro	8.87	-75.62	0	18
+Cotorra		9.04	-75.79	0	16
+Lorica		9.24	-75.81	0	41
+Momil		9.24	-75.67	0	16
+Montelíbano	Montelibano	7.98	-75.42	0	90
+Montería	Monteria	8.75	-75.88	0	491
+Planeta Rica		8.41	-75.59	0	70
+Sahagún	Sahagun	8.95	-75.44	0	59
+San Antero		9.37	-75.76	0	34
+San Carlos		8.80	-75.70	0	24
+Tierralta		8.17	-76.06	0	26
+#r	Cundinamarca
+Bosconia		4.86	-73.98	0	38
+Cajicá	Cajica	4.92	-74.03	0	54
+Chía	Chia	4.86	-74.06	0	124
+Cota		4.81	-74.10	0	20
+Facatativá	Facatativa	4.81	-74.35	0	142
+Funza		4.72	-74.21	0	117
+Fusagasugá	Fusagasuga	4.34	-74.36	0	89
+Girardot City		4.30	-74.81	0	107
+Guaduas		5.07	-74.59	0	42
+La Mesa		5.27	-73.92	0	27
+Madrid		4.73	-74.26	0	135
+Mosquera		4.71	-74.23	0	128
+Pacho		5.13	-74.16	0	17
+Puerto Salgar		5.46	-74.65	0	15
+Sibaté	Sibate	4.49	-74.26	0	23
+Silvania		4.40	-74.39	0	21
+Soacha		4.58	-74.22	0	655
+Tocancipá	Tocancipa	4.97	-73.91	0	15
+Villa de San Diego de Ubaté	Villa de San Diego de Ubate	5.31	-73.82	0	20
+Villeta		5.01	-74.47	0	21
+Zipaquirá	Zipaquira	5.02	-74.00	0	130
+#r	Guaviare
+San José del Guaviare	San Jose del Guaviare	2.57	-72.64	0	53
+#r	Huila
+Campoalegre		2.68	-75.32	0	23
+Garzón	Garzon	2.20	-75.63	0	29
+Gigante		2.39	-75.55	0	36
+Guadalupe		2.02	-75.76	0	16
+Isnos		1.94	-76.24	0	25
+La Plata		2.39	-75.89	0	19
+Neiva		2.93	-75.28	0	357
+Pitalito		1.85	-76.05	0	136
+Rivera		2.78	-75.26	0	23
+Tarqui		2.11	-75.82	0	16
+#r	La Guajira
+Albania		11.16	-72.59	0	27
+Barrancas		10.96	-72.79	0	38
+Fonseca		10.89	-72.85	0	32
+Hatonuevo		11.07	-72.77	0	25
+Maicao		11.38	-72.24	0	167
+Riohacha		11.54	-72.91	0	188
+San Juan del Cesar		10.77	-73.00	0	40
+Villanueva		10.61	-72.98	0	19
+#r	Magdalena
+Aracataca		10.59	-74.19	0	42
+Chivolo		10.03	-74.62	0	18
+Ciénaga	Cienaga	11.01	-74.25	0	88
+El Banco		9.00	-73.98	0	55
+El Retén	El Reten	10.61	-74.27	0	19
+Fundación	Fundacion	10.52	-74.19	0	59
+Guamal		9.14	-74.22	0	25
+Nueva Granada		9.80	-74.39	0	17
+Pivijay		10.46	-74.62	0	33
+Plato		9.79	-74.78	0	49
+Puebloviejo		10.99	-74.28	0	34
+Santa Marta		11.24	-74.19	0	499
+#r	Meta
+Acacías	Acacias	3.99	-73.76	0	41
+Granada		3.55	-73.71	0	69
+Puerto López	Puerto Lopez	4.10	-72.96	0	17
+Restrepo		4.26	-73.56	0	18
+San Martín	San Martin	3.70	-73.70	0	22
+Villavicencio		4.13	-73.63	0	322
+#r	Narino
+Buesaco		1.38	-77.16	0	20
+El Charco		2.48	-78.11	0	29
+Ipiales		0.83	-77.64	0	78
+La Unión	La Union	1.60	-77.13	0	15
+Pasto		1.21	-77.28	0	393
+Pupiales		0.87	-77.64	0	16
+Samaniego		1.34	-77.60	0	49
+San Lorenzo		1.50	-77.22	0	17
+Tumaco		1.79	-78.79	0	87
+Túquerres	Tuquerres	1.09	-77.62	0	40
+#r	Norte de Santander
+Cúcuta	Cucuta	7.91	-72.50	0	777
+El Zulia		7.93	-72.60	0	26
+Los Patios		7.84	-72.50	0	59
+Ocaña	Ocana	8.24	-73.36	0	101
+Pamplona		7.38	-72.65	0	54
+Puerto Santander		8.36	-72.41	0	16
+Villa del Rosario		7.83	-72.47	0	65
+#r	Putumayo
+Mocoa		1.15	-76.65	0	56
+Orito		0.67	-76.87	0	58
+Puerto Asís	Puerto Asis	0.51	-76.50	0	30
+Puerto Leguízamo	Puerto Leguizamo	-0.19	-74.78	0	20
+#r	Quindio
+Armenia		4.54	-75.67	0	304
+Calarcá	Calarca	4.53	-75.64	0	80
+Circasia		4.62	-75.64	0	27
+La Tebaida		4.45	-75.79	0	27
+Montenegro		4.57	-75.75	0	42
+Quimbaya		4.62	-75.76	0	35
+#r	Risaralda
+Anserma		5.33	-75.79	0	33
+Belén de Umbría	Belen de Umbria	5.20	-75.87	0	21
+Dosquebradas		4.84	-75.67	0	207
+La Virginia		4.90	-75.88	0	26
+Marsella		4.94	-75.74	0	15
+Pereira		4.81	-75.69	0	467
+Quinchía	Quinchia	5.34	-75.73	0	34
+Santa Rosa de Cabal		4.87	-75.62	0	58
+#r	Santander
+Barbosa		5.93	-73.62	0	20
+Barrancabermeja		7.07	-73.85	0	191
+Bucaramanga		7.12	-73.12	0	581
+Cimitarra		6.31	-73.95	0	51
+El Carmen de Chucurí	El Carmen de Chucuri	6.70	-73.51	0	18
+Floridablanca		7.06	-73.09	0	268
+Girón	Giron	7.07	-73.17	0	108
+Málaga	Malaga	6.70	-72.73	0	20
+Piedecuesta		6.99	-73.05	0	163
+Puerto Wilches		7.35	-73.90	0	32
+Sabana de Torres		7.39	-73.50	0	28
+San Gil		6.56	-73.14	0	46
+Socorro		6.47	-73.26	0	30
+Vélez	Velez	6.01	-73.67	0	19
+#r	Sucre
+Corozal		9.32	-75.29	0	40
+Galeras		9.16	-75.05	0	20
+Sampués	Sampues	9.18	-75.38	0	21
+San Benito Abad		8.93	-75.03	0	18
+San Luis de Sincé	San Luis de Since	9.24	-75.15	0	31
+San Marcos		8.66	-75.13	0	61
+San Onofre		9.74	-75.53	0	33
+Santiago de Tolú	Santiago de Tolu	9.52	-75.58	0	27
+Sincelejo		9.30	-75.39	0	278
+Sucre		8.81	-74.72	0	23
+Tolú Viejo	Tolu Viejo	9.45	-75.44	0	20
+#r	Tolima
+Anaime		4.40	-75.44	0	26
+Chaparral		3.72	-75.48	0	20
+Espinal		4.15	-74.88	0	56
+Flandes		4.29	-74.82	0	29
+Fresno		5.15	-75.04	0	18
+Guamo		4.03	-74.97	0	31
+Honda		5.21	-74.74	0	28
+Ibagué	Ibague	4.44	-75.20	0	530
+Lérida	Lerida	4.86	-74.91	0	17
+Líbano	Libano	4.92	-75.06	0	39
+Melgar		4.20	-74.64	0	26
+Natagaima		3.62	-75.09	0	22
+Padua		5.13	-75.14	0	19
+Payandé	Payande	4.30	-75.10	0	37
+Planadas		3.20	-75.65	0	22
+Purificación	Purificacion	3.86	-74.93	0	30
+Rioblanco		3.53	-75.65	0	19
+Rovira		4.24	-75.24	0	20
+San Sebastián de Mariquita	San Sebastian de Mariquita	5.20	-74.89	0	33
+#r	Valle del Cauca
+Andalucía	Andalucia	4.17	-76.17	0	18
+Buenaventura		3.88	-77.03	0	240
+Buenaventura		3.58	-77.00	0	432
+Caicedonia		4.33	-75.83	0	32
+Cali		3.43	-76.52	0	2393
+Candelaria		3.41	-76.35	0	24
+Cartago		4.75	-75.91	0	135
+Darien		3.93	-76.48	0	16
+El Cerrito		3.69	-76.31	0	38
+Florida		3.32	-76.23	0	47
+Guacarí	Guacari	3.76	-76.33	0	20
+Guadalajara de Buga		3.90	-76.30	0	114
+Jamundí	Jamundi	3.26	-76.53	0	45
+La Unión	La Union	4.53	-76.10	0	41
+Palmira		3.54	-76.30	0	313
+Pradera		3.42	-76.24	0	45
+Roldanillo		4.41	-76.15	0	28
+Sevilla		4.26	-75.93	0	44
+Tuluá	Tulua	4.08	-76.20	0	222
+Yumbo		3.58	-76.49	0	71
+Zarzal		4.39	-76.07	0	29
+#r	Vaupes
+Mitú	Mitu	1.26	-70.24	0	30
+#r	Vichada
+Puerto Carreño	Puerto Carreno	6.19	-67.48	0	21

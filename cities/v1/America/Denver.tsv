@@ -1,0 +1,141 @@
+#z	America/Denver
+#c	US
+#r	Colorado
+Arvada		39.80	-105.09	0	115
+Aurora		39.73	-104.83	0	359
+Boulder		40.01	-105.27	0	107
+Brighton		39.99	-104.82	0	38
+Broomfield		39.92	-105.09	0	65
+Castle Rock		39.37	-104.86	0	56
+Castlewood		39.58	-104.90	0	25
+Cañon City	Canon City	38.44	-105.24	0	16
+Centennial		39.58	-104.88	0	110
+Cimarron Hills		38.86	-104.70	0	16
+Clifton		39.09	-108.45	0	20
+Colorado Springs		38.83	-104.82	0	457
+Columbine		39.59	-105.07	0	24
+Commerce City		39.81	-104.93	0	54
+Dakota Ridge		39.62	-105.14	0	34
+Denver		39.74	-104.98	0	729
+Durango		37.28	-107.88	0	18
+Englewood		39.65	-104.99	0	33
+Erie		40.05	-105.05	0	21
+Evans		40.38	-104.69	0	21
+Fort Collins		40.59	-105.08	0	171
+Fountain		38.68	-104.70	0	28
+Golden		39.76	-105.22	0	20
+Grand Junction		39.06	-108.55	0	60
+Greeley		40.42	-104.71	0	109
+Greenwood Village		39.62	-104.95	0	16
+Highlands Ranch		39.55	-104.97	0	97
+Ken Caryl		39.58	-105.11	0	32
+Lafayette		39.99	-105.09	0	28
+Lakewood		39.70	-105.08	0	153
+Littleton		39.61	-105.02	0	46
+Longmont		40.17	-105.10	0	92
+Louisville		39.98	-105.13	0	20
+Loveland		40.40	-105.07	0	75
+Montrose		38.48	-107.88	0	19
+Northglenn		39.89	-104.99	0	39
+Parker		39.52	-104.76	0	50
+Pueblo		38.25	-104.61	0	109
+Pueblo West		38.35	-104.72	0	30
+Security-Widefield		38.75	-104.71	0	33
+Sherrelwood		39.84	-105.00	0	18
+Southglenn		39.59	-104.95	0	42
+Thornton		39.87	-104.97	0	133
+Westminster		39.84	-105.04	0	116
+Wheat Ridge		39.77	-105.08	0	31
+Windsor		40.48	-104.90	0	33
+#r	Montana
+Billings		45.78	-108.50	0	117
+Bozeman		45.68	-111.04	0	43
+Butte		46.00	-112.53	0	34
+Great Falls		47.50	-111.30	0	60
+Helena		46.59	-112.04	0	32
+Kalispell		48.20	-114.31	0	22
+Missoula		46.87	-113.99	0	71
+#r	New Mexico
+Alamogordo		32.90	-105.96	0	31
+Albuquerque		35.08	-106.65	0	565
+Carlsbad		32.42	-104.23	0	29
+Clovis		34.40	-103.21	0	39
+Enchanted Hills		35.34	-106.59	0	88
+Farmington		36.73	-108.22	0	43
+Gallup		35.53	-108.74	0	23
+Hobbs		32.70	-103.14	0	38
+Las Cruces		32.31	-106.78	0	102
+Los Lunas		34.81	-106.73	0	15
+Rio Rancho		35.23	-106.66	0	88
+Roswell		33.39	-104.52	0	49
+Santa Fe		35.69	-105.94	0	88
+South Valley		35.01	-106.68	0	41
+Sunland Park		31.80	-106.58	0	16
+#r	North Dakota
+Dickinson		46.88	-102.79	0	24
+#r	South Dakota
+Rapid City		44.08	-103.23	0	74
+#r	Texas
+El Paso		31.76	-106.49	0	679
+Horizon City		31.69	-106.21	0	19
+Socorro		31.65	-106.30	0	33
+Socorro Mission Number 1 Colonia		31.64	-106.29	0	29
+#r	Utah
+American Fork		40.38	-111.80	0	28
+Bountiful		40.89	-111.88	0	44
+Brigham City		41.51	-112.02	0	19
+Cedar City		37.68	-113.06	0	30
+Centerville		40.92	-111.87	0	17
+Clearfield		41.11	-112.03	0	31
+Clinton		41.14	-112.05	0	21
+Cottonwood Heights		40.62	-111.81	0	34
+Draper		40.52	-111.86	0	47
+Eagle Mountain		40.31	-112.01	0	27
+East Millcreek		40.70	-111.81	0	21
+Farmington		40.98	-111.89	0	23
+Herriman		40.51	-112.03	0	31
+Highland		40.43	-111.79	0	18
+Holladay		40.67	-111.82	0	31
+Hurricane		37.18	-113.29	0	16
+Kaysville		41.04	-111.94	0	30
+Kearns		40.66	-112.00	0	36
+Layton		41.06	-111.97	0	74
+Lehi		40.39	-111.85	0	58
+Logan		41.74	-111.83	0	50
+Magna		40.71	-112.10	0	27
+Midvale		40.61	-111.90	0	33
+Millcreek		40.69	-111.88	0	62
+Murray		40.67	-111.89	0	49
+North Ogden		41.31	-111.96	0	18
+North Salt Lake		40.85	-111.91	0	20
+Ogden		41.22	-111.97	0	85
+Orem		40.30	-111.69	0	94
+Payson		40.04	-111.73	0	20
+Pleasant Grove		40.36	-111.74	0	38
+Provo		40.23	-111.66	0	115
+Riverton		40.52	-111.94	0	42
+Roy		41.16	-112.03	0	38
+Saint George		37.10	-113.58	0	73
+Salt Lake City		40.76	-111.89	0	216
+Sandy		40.59	-111.88	0	87
+Sandy Hills		40.58	-111.85	0	90
+Saratoga Springs		40.35	-111.90	0	25
+South Jordan		40.56	-111.93	0	67
+South Jordan Heights		40.56	-111.95	0	37
+South Ogden		41.19	-111.97	0	17
+South Salt Lake		40.72	-111.89	0	25
+Spanish Fork		40.11	-111.65	0	38
+Springville		40.17	-111.61	0	32
+Syracuse		41.09	-112.06	0	27
+Taylorsville		40.67	-111.94	0	61
+Tooele		40.53	-112.30	0	33
+Washington		37.13	-113.51	0	24
+West Jordan		40.61	-111.94	0	112
+West Valley City		40.69	-112.00	0	136
+#r	Wyoming
+Casper		42.87	-106.31	0	60
+Cheyenne		41.14	-104.82	0	65
+Gillette		44.29	-105.50	0	33
+Laramie		41.31	-105.59	0	32
+Rock Springs		41.59	-109.20	0	24
+Sheridan		44.80	-106.96	0	18

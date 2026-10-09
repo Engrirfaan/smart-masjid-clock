@@ -1,0 +1,168 @@
+#z	America/Lima
+#c	PE
+#r	
+Aguaytía	Aguaytia	-9.04	-75.51	0	18
+Atalaya		-10.73	-73.76	0	17
+El Pedregal		-16.36	-72.19	0	20
+#r	Amazonas
+Bagua Grande		-5.76	-78.44	0	20
+Chachapoyas		-6.23	-77.87	0	32
+La Peca		-5.61	-78.44	0	27
+#r	Ancash
+Centenario		-9.52	-77.53	0	48
+Chimbote		-9.08	-78.59	0	317
+Coishco		-9.02	-78.62	0	15
+Huaraz		-9.53	-77.53	0	119
+Huarmey		-10.07	-78.15	0	16
+#r	Apurimac
+Abancay		-13.63	-72.88	0	72
+Andahuaylas		-13.66	-73.39	0	17
+#r	Arequipa
+Arequipa		-16.40	-71.54	0	1196
+Camaná	Camana	-16.62	-72.71	0	16
+Ciudad Satelite		-16.43	-71.53	0	76
+Cono Norte		-16.32	-71.58	0	47
+Jacobo Hunter		-16.44	-71.55	0	46
+Mollendo		-17.02	-72.01	0	29
+Selva Alegre		-16.37	-71.53	0	73
+#r	Ayacucho
+Ayacucho		-13.16	-74.22	0	140
+Huanta		-12.93	-74.25	0	19
+#r	Cajamarca
+Cajamarca		-7.16	-78.50	0	201
+Jaén	Jaen	-5.71	-78.81	0	52
+#r	Callao
+Callao		-12.05	-77.13	0	1226
+Carmen De La Legua Reynoso		-12.05	-77.10	0	42
+#r	Cusco
+Cusco		-13.53	-71.97	0	428
+Quillabamba		-12.86	-72.69	0	25
+Santa Ana		-12.87	-72.72	0	25
+Santiago		-13.53	-71.98	0	64
+Sicuani		-14.27	-71.23	0	34
+Wanchaq		-13.52	-71.97	0	59
+Yauri		-14.79	-71.41	0	24
+#r	Huancavelica
+Huancavelica		-12.79	-74.97	0	50
+#r	Huanuco
+Huánuco	Huanuco	-9.93	-76.24	0	197
+Tingo María	Tingo Maria	-9.30	-76.00	0	53
+Yanacancha		-10.24	-76.65	0	23
+#r	Ica
+Chincha Alta		-13.41	-76.13	0	153
+Ica		-14.08	-75.73	0	282
+Minas de Marcona		-15.21	-75.11	0	15
+Nazca		-14.83	-74.94	0	24
+Pisco		-13.71	-76.21	0	62
+San Clemente		-13.67	-76.15	0	16
+#r	Junin
+Chilca		-12.09	-75.21	0	73
+Huancayo		-12.07	-75.21	0	456
+Jauja		-11.78	-75.50	0	21
+Junín	Junin	-11.16	-75.99	0	15
+La Oroya		-11.52	-75.90	0	33
+San Martín de Pangoa	San Martin de Pangoa	-11.43	-74.49	0	16
+Santa Rosa		-10.92	-74.88	0	18
+Satipo		-11.25	-74.64	0	16
+Tarma		-11.42	-75.69	0	51
+#r	La Libertad
+Chepén	Chepen	-7.22	-79.42	0	42
+Chocope		-7.79	-79.22	0	32
+Guadalupe		-7.25	-79.48	0	25
+Huamachuco		-7.80	-78.07	0	22
+Laredo		-8.09	-78.96	0	25
+Moche		-8.17	-79.01	0	23
+Pacasmayo		-7.40	-79.57	0	29
+Paiján	Paijan	-7.73	-79.30	0	21
+San Pedro de Lloc		-7.43	-79.50	0	16
+Santiago de Cao		-7.96	-79.24	0	22
+Trujillo		-8.12	-79.03	0	1068
+Virú	Viru	-8.42	-78.75	0	21
+#r	Lambayeque
+Chiclayo		-6.77	-79.85	0	609
+Chongoyape		-6.64	-79.39	0	16
+Ferreñafe	Ferrenafe	-6.64	-79.79	0	34
+Lambayeque		-6.70	-79.91	0	44
+Monsefú	Monsefu	-6.87	-79.87	0	26
+Picsi		-6.72	-79.77	0	44
+Pimentel		-6.84	-79.93	0	16
+Pátapo	Patapo	-6.73	-79.64	0	15
+Saña	Sana	-6.92	-79.58	0	39
+#r	Lima
+Barranca		-10.75	-77.77	0	46
+Barranco		-12.14	-77.02	0	38
+Breña	Brena	-12.06	-77.05	0	82
+Chancay		-11.57	-77.27	0	27
+Chosica		-11.94	-76.71	0	89
+Huacho		-11.12	-77.61	0	55
+Hualmay		-11.10	-77.61	0	27
+Huaral		-11.49	-77.21	0	62
+Huaura		-11.07	-77.60	0	21
+Imperial		-13.06	-76.35	0	32
+Jesus Maria		-12.07	-77.04	0	66
+Lima		-12.04	-77.03	0	7737
+Mala		-12.66	-76.63	0	17
+Miraflores		-12.11	-77.03	0	187
+Nuevo Imperial		-13.08	-76.32	0	32
+Paramonga		-10.67	-77.83	0	28
+San Francisco De Borja		-12.09	-77.00	0	105
+San Isidro		-12.10	-77.04	0	68
+San Vicente de Cañete	San Vicente de Canete	-13.08	-76.39	0	26
+Santa Anita - Los Ficus		-12.05	-76.97	0	185
+Santiago de Surco		-12.14	-77.01	0	252
+Villa Poeta José Gálvez Barrenechea	Villa Poeta Jose Galvez Barrenechea	-12.21	-76.91	0	61
+#r	Loreto
+Belen		-3.76	-73.25	0	58
+Contamana		-7.33	-75.02	0	21
+Iquitos		-3.75	-73.25	0	378
+Requena		-5.06	-73.85	0	25
+San Juan		-3.78	-73.28	0	78
+Yurimaguas		-5.90	-76.12	0	42
+#r	Madre de Dios
+Puerto Maldonado		-12.59	-69.20	0	85
+Tambopata		-12.67	-69.36	0	39
+#r	Moquegua
+Ilo		-17.63	-71.34	0	53
+Moquegua		-17.20	-70.94	0	70
+San Antonio		-17.22	-70.93	0	16
+#r	Pasco
+Cerro de Pasco		-10.67	-76.25	0	59
+Chaupimarca		-10.41	-76.46	0	29
+Yanacancha		-10.67	-76.26	0	24
+#r	Piura
+Catacaos		-5.27	-80.68	0	57
+Chulucanas		-5.09	-80.16	0	69
+La Breita		-4.26	-80.89	0	18
+La Unión	La Union	-5.40	-80.74	0	35
+Marcavelica		-4.88	-80.71	0	26
+Paita		-5.09	-81.11	0	56
+Piura		-5.18	-80.66	0	630
+Querecotillo		-4.84	-80.65	0	25
+San Martin		-5.19	-80.67	0	130
+Sechura		-5.56	-80.82	0	23
+Sullana		-4.90	-80.69	0	161
+Talara		-4.58	-81.27	0	99
+Tambo Grande		-4.93	-80.34	0	30
+#r	Puno
+Ayaviri		-14.89	-70.59	0	22
+Ilave		-16.08	-69.67	0	22
+Juliaca		-15.50	-70.13	0	246
+La Rinconada		-14.63	-69.45	0	30
+Puno		-15.84	-70.02	0	129
+San Miguel		-15.48	-70.12	0	61
+#r	San Martin
+Bellavista		-7.06	-76.59	0	15
+Juanjuí	Juanjui	-7.18	-76.73	0	38
+La Banda		-6.49	-76.34	0	25
+Moyobamba		-6.03	-76.97	0	50
+Rioja		-6.06	-77.17	0	25
+Tocache		-8.19	-76.52	0	29
+Uchiza		-8.46	-76.46	0	18
+#r	Tacna
+Tacna		-18.01	-70.25	0	286
+#r	Tumbes
+Tumbes		-3.56	-80.44	0	97
+Zarumilla		-3.50	-80.27	0	17
+#r	Ucayali
+Pucallpa		-8.38	-74.55	0	326
+San Fernando		-8.40	-74.54	0	68

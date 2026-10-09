@@ -1,0 +1,243 @@
+#z	America/Caracas
+#c	VE
+#r	
+Achaguas		7.78	-68.22	0	45
+Barrancas		8.70	-62.20	0	19
+Caicara del Orinoco		7.64	-66.17	0	67
+Ciudad Piar		7.45	-63.32	0	52
+Concepción	Concepcion	10.41	-71.69	0	92
+El Dorado		6.72	-61.64	0	16
+La Paragua		6.83	-63.33	0	19
+Los Puertos de Altagracia		10.71	-71.52	0	102
+Mene Grande		9.85	-70.93	0	61
+Pueblo Nuevo		11.95	-69.92	0	19
+Tumeremo		7.30	-61.50	0	38
+#r	Amazonas
+Puerto Ayacucho		5.66	-67.58	0	126
+#r	Anzoategui
+Anaco		9.43	-64.46	0	139
+Aragua de Barcelona		9.46	-64.83	0	34
+Barcelona		10.14	-64.69	0	815
+Cantaura		9.31	-64.36	0	69
+Clarines		9.94	-65.17	0	22
+El Tigre		8.89	-64.25	0	222
+Lecherías	Lecherias	10.19	-64.69	0	48
+Pariaguán	Pariaguan	8.84	-64.71	0	41
+Puerto La Cruz		10.21	-64.63	0	370
+Puerto Píritu	Puerto Piritu	10.06	-65.04	0	38
+San José de Guanipa	San Jose de Guanipa	8.89	-64.17	0	83
+Soledad		8.16	-63.57	0	30
+#r	Apure
+Biruaca		7.84	-67.52	0	77
+Elorza		7.06	-69.50	0	28
+Guasdualito		7.24	-70.73	0	65
+San Fernando de Apure		7.89	-67.47	0	229
+#r	Aragua
+Cagua		10.19	-67.46	0	119
+El Limón	El Limon	10.31	-67.63	0	148
+La Victoria		10.23	-67.33	0	127
+Las Tejerías	Las Tejerias	10.25	-67.17	0	43
+Maracay		10.25	-67.59	0	465
+Palo Negro		10.17	-67.54	0	129
+San Mateo		10.21	-67.42	0	50
+Turmero		10.23	-67.47	0	345
+Villa de Cura		10.04	-67.49	0	100
+#r	Barinas
+Alto Barinas		8.59	-70.23	0	284
+Barinas		8.62	-70.23	0	397
+Barinitas		8.76	-70.41	0	52
+Barrancas		8.77	-70.11	0	24
+Ciudad Bolivia		8.35	-70.57	0	52
+Obispos		8.61	-70.10	0	17
+Sabaneta		8.75	-69.93	0	39
+Santa Bárbara	Santa Barbara	7.81	-71.18	0	46
+Socopó	Socopo	8.23	-70.82	0	72
+#r	Bolivar
+Ciudad Bolívar	Ciudad Bolivar	8.12	-63.55	0	413
+Ciudad Guayana		8.35	-62.64	0	978
+Guasipati		7.48	-61.90	0	28
+Santa Elena de Uairén	Santa Elena de Uairen	4.60	-61.11	0	30
+Upata		8.02	-62.41	0	113
+#r	Capital
+Caracas		10.49	-66.88	0	3000
+#r	Carabobo
+Bejuma		10.17	-68.26	0	35
+Guacara		10.23	-67.88	0	199
+Güigüe	Guigue	10.08	-67.78	0	81
+Mariara		10.30	-67.72	0	116
+Miranda		10.15	-68.39	0	33
+Montalbán	Montalban	10.21	-68.33	0	29
+Morón	Moron	10.49	-68.20	0	68
+Puerto Cabello		10.47	-68.01	0	174
+San Joaquín	San Joaquin	10.26	-67.79	0	70
+Tacarigua		10.09	-67.92	0	70
+Valencia		10.16	-68.00	0	1619
+#r	Cojedes
+El Pao		9.64	-68.13	0	19
+Las Vegas		9.54	-68.63	0	20
+San Carlos		9.66	-68.59	0	120
+Tinaco		9.70	-68.43	0	38
+Tinaquillo		9.92	-68.30	0	116
+#r	Delta Amacuro
+Tucupita		9.06	-62.05	0	100
+#r	Falcon
+Coro		11.41	-69.68	0	247
+Dabajuro		11.02	-70.68	0	28
+Judibana		11.76	-70.18	0	23
+La Vela de Coro		11.46	-69.57	0	35
+Mene de Mauroa		10.68	-71.04	0	19
+Puerto Cumarebo		11.49	-69.35	0	32
+Punta Cardón	Punta Cardon	11.66	-70.22	0	114
+Punto Fijo		11.69	-70.20	0	142
+Santa Cruz de los Taques		11.82	-70.26	0	25
+Tucacas		10.79	-68.33	0	34
+#r	Guarico
+Altagracia de Orituco		9.86	-66.38	0	68
+Calabozo		8.92	-67.43	0	169
+Camaguán	Camaguan	8.11	-67.61	0	21
+Chaguaramas		9.34	-66.25	0	18
+El Sombrero		9.39	-67.06	0	32
+San Juan de los Morros		9.91	-67.35	0	161
+Tucupido		9.27	-65.77	0	43
+Valle de La Pascua		9.22	-66.01	0	153
+Zaraza		9.35	-65.32	0	74
+#r	Lara
+Barquisimeto		10.06	-69.36	0	1241
+Cabudare		10.03	-69.26	0	103
+Carora		10.17	-70.08	0	122
+Duaca		10.29	-69.16	0	40
+El Tocuyo		9.79	-69.79	0	75
+Los Rastrojos		10.03	-69.24	0	100
+Quíbor	Quibor	9.93	-69.62	0	51
+Sanare		9.75	-69.65	0	36
+#r	Merida
+Bailadores		8.25	-71.83	0	20
+Caja Seca		9.14	-71.07	0	34
+Ejido		8.55	-71.24	0	121
+El Vigía	El Vigia	8.61	-71.66	0	162
+La Azulita		8.71	-71.44	0	17
+Lagunillas		8.50	-71.39	0	28
+Mérida	Merida	8.58	-71.17	0	300
+Nueva Bolivia		9.14	-71.09	0	20
+Santa Cruz de Mora		8.40	-71.64	0	21
+Tabay		8.63	-71.08	0	24
+Timotes		8.98	-70.74	0	20
+Tovar		8.33	-71.75	0	48
+Tucaní	Tucani	8.97	-71.27	0	24
+#r	Miranda
+Baruta		10.43	-66.88	0	244
+Carrizal		10.35	-66.99	0	41
+Caucagua		10.28	-66.38	0	32
+Caucagüito	Caucaguito	10.49	-66.74	0	53
+Chacao		10.50	-66.85	0	65
+Charallave		10.24	-66.86	0	129
+Cúa	Cua	10.16	-66.88	0	183
+El Cafetal		10.47	-66.83	0	80
+El Hatillo		10.42	-66.83	0	58
+Guarenas		10.47	-66.62	0	249
+Guatire		10.47	-66.54	0	228
+Higuerote		10.48	-66.10	0	41
+La Dolorita		10.49	-66.79	0	57
+Lander		10.18	-66.70	0	176
+Los Dos Caminos		10.49	-66.83	0	58
+Los Teques		10.35	-67.04	0	252
+Mamporal		10.37	-66.13	0	31
+Ocumare del Tuy		10.12	-66.78	0	166
+Petare		10.48	-66.81	0	365
+Río Chico	Rio Chico	10.32	-65.98	0	23
+San Antonio de Los Altos		10.39	-66.95	0	64
+San José de Barlovento	San Jose de Barlovento	10.30	-65.99	0	22
+Santa Teresa del Tuy		10.23	-66.66	0	279
+#r	Monagas
+Caicara		9.82	-63.61	0	24
+Caripito		10.11	-63.10	0	43
+Maturín	Maturin	9.75	-63.18	0	647
+Punta de Mata		9.69	-63.61	0	61
+Temblador		9.01	-62.64	0	36
+#r	Nueva Esparta
+Juan Griego		11.08	-63.97	0	28
+La Asunción	La Asuncion	11.03	-63.86	0	35
+La Guardia		11.00	-64.02	0	35
+Pampatar		11.00	-63.79	0	65
+Porlamar		10.96	-63.87	0	216
+Punta de Piedras		10.90	-64.10	0	32
+San Juan Bautista		11.01	-63.94	0	90
+Santa Ana		11.07	-63.92	0	19
+#r	Portuguesa
+Acarigua		9.55	-69.20	0	188
+Araure		9.58	-69.24	0	182
+Boconoito		8.85	-69.98	0	18
+Guanare		9.04	-69.73	0	112
+Guanarito		8.70	-69.21	0	37
+Ospino		9.30	-69.45	0	34
+Píritu	Piritu	9.37	-69.21	0	44
+San Rafael de Onoto		9.68	-68.97	0	17
+Villa Bruzual		9.33	-69.12	0	55
+#r	Sucre
+Araya		10.58	-64.26	0	24
+Cariaco		10.50	-63.55	0	42
+Carúpano	Carupano	10.67	-63.25	0	167
+Casanay		10.50	-63.42	0	21
+Cumanacoa		10.25	-63.92	0	26
+Cumaná	Cumana	10.46	-64.18	0	406
+Güiria	Guiria	10.58	-62.30	0	40
+#r	Tachira
+Capacho Nuevo		7.82	-72.31	0	40
+Coloncito		8.33	-72.09	0	25
+Colón	Colon	8.03	-72.26	0	63
+La Fría	La Fria	8.22	-72.25	0	62
+La Grita		8.13	-71.98	0	38
+Michelena		7.96	-72.24	0	21
+Palmira		7.84	-72.23	0	48
+Rubio		7.70	-72.36	0	93
+San Antonio del Táchira	San Antonio del Tachira	7.81	-72.44	0	66
+San Cristóbal	San Cristobal	7.77	-72.24	0	290
+San Josecito		7.66	-72.22	0	55
+Santa Ana		7.64	-72.28	0	35
+Táriba	Tariba	7.82	-72.22	0	138
+Ureña	Urena	7.92	-72.44	0	57
+#r	Trujillo
+Boconó	Bocono	9.25	-70.25	0	69
+El Dividive		9.48	-70.73	0	19
+Escuque		9.30	-70.67	0	18
+Motatán	Motatan	9.39	-70.59	0	25
+Pampanito		9.41	-70.50	0	36
+Pampán	Pampan	9.45	-70.48	0	60
+Sabana de Mendoza		9.43	-70.77	0	35
+Trujillo		9.37	-70.44	0	71
+Valera		9.32	-70.60	0	245
+#r	Vargas
+Caraballeda		10.61	-66.85	0	38
+Catia La Mar		10.61	-67.03	0	107
+La Guaira		10.60	-66.93	0	25
+Maiquetía	Maiquetia	10.59	-66.96	0	53
+#r	Yaracuy
+Aroa		10.44	-68.89	0	36
+Boraure		10.25	-68.77	0	22
+Chivacoa		10.16	-68.89	0	70
+Cocorote		10.32	-68.78	0	53
+Guama		10.27	-68.82	0	25
+Nirgua		10.15	-68.56	0	54
+Sabana de Parra		10.12	-69.04	0	24
+San Felipe		10.34	-68.74	0	206
+Urachiche		10.16	-69.01	0	27
+Yaritagua		10.08	-69.12	0	113
+Yumare		10.60	-68.67	0	16
+#r	Zulia
+Cabimas		10.40	-71.45	0	352
+Casigua El Cubo		8.75	-72.52	0	25
+Chiquinquirá	Chiquinquira	10.44	-71.65	0	17
+Ciudad Ojeda		10.20	-71.31	0	240
+Encontrados		9.06	-72.23	0	26
+La Concepción	La Concepcion	10.62	-71.84	0	120
+La Villa del Rosario		10.33	-72.31	0	83
+Lagunillas		10.13	-71.26	0	44
+Machiques		10.06	-72.55	0	133
+Maracaibo		10.64	-71.61	0	1753
+Pueblo Nuevo El Chivo		8.96	-71.61	0	42
+San Carlos del Zulia		9.00	-71.93	0	126
+San Rafael		10.96	-71.73	0	56
+San Timoteo		9.79	-71.07	0	81
+Santa Cruz de Mara		10.79	-71.69	0	70
+Santa Rita		10.54	-71.51	0	32
+Tía Juana	Tia Juana	10.26	-71.36	0	24
